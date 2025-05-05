@@ -1,0 +1,42 @@
+{
+  "baseApiUrl": "https://localhost:7040/api/",
+
+  "gameApiUrl": "games/{key}",
+  "gameByIdApiUrl": "games/find/{id}",
+  "gamesApiUrl": "games",
+  "gamesByGenreApiUrl": "genres/{id}/games",
+  "gamesByPublisherApiUrl": "publishers/{companyname}/games",
+  "gamesByPlatformApiUrl": "platforms/{id}/games",
+  "getGameFile": "games/{key}/file",
+  "updateGameApiUrl": "games/update-game/{key}",
+  "addGameApiUrl": "games/add-game",
+  "deleteGameApiUrl": "games/{key}",
+
+  "genreApiUrl": "genres/{id}",
+  "genresApiUrl": "genres",
+  "genresByGameApiUrl": "games/{key}",
+  "genresByParentApiUrl": "genres/{id}/genres",
+  "updateGenreApiUrl": "genres/{id}",
+  "addGenreApiUrl": "genres/add-genre",
+  "deleteGenreApiUrl": "genres/{id}",
+
+  "platformApiUrl": "platforms/{id}",
+  "platformsApiUrl": "platforms",
+  "platformsByGameApiUrl": "games/{key}",
+  "updatePlatformApiUrl": "platforms/add-platform",
+  "addPlatformApiUrl": "platforms/add-platform",
+  "deletePlatformApiUrl": "platforms/{id}",
+
+  "publisherApiUrl": "publishers/{companyname}",
+  "publishersApiUrl": "publishers",
+  "publisherByGameApiUrl": "games/{key}",
+  "addPublisherApiUrl": "publishers",
+  "deletePublisherApiUrl": "publishers/{id}",
+  "updatePublisherApiUrl": "publishers",
+
+  "addCommentApiUrl": "games/{key}/comments",
+  "commentsByGameApiUrl": "games/{key}/comments",
+  "deleteCommentApiUrl": "games/{key}/comments/{id}",
+  "getBanDurationsApiUrl": "comments/ban/durations",
+  "banUserApiUrl": "comments/ban"
+}
