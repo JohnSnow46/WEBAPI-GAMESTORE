@@ -1,0 +1,28 @@
+[2025-04-23 13:37:55.434] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating or updating game with Name: string
+[2025-04-23 13:37:55.735] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating or updating game
+Exception: System.InvalidOperationException: Error adding or updating game: Entity not found.
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Entity not found.
+Stack Trace:    at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 94
+   at Gamestore.WebApi.Controllers.GameController.CreateOrUpdateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.WebApi\Controllers\GameController.cs:line 22
+[2025-04-23 13:38:52.542] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating or updating game with Name: string
+[2025-04-23 13:38:52.601] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating or updating game
+Exception: System.InvalidOperationException: Error adding or updating game: Entity not found.
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Entity not found.
+Stack Trace:    at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 94
+   at Gamestore.WebApi.Controllers.GameController.CreateOrUpdateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.WebApi\Controllers\GameController.cs:line 22
+[2025-04-23 13:39:07.657] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating or updating game with Name: string
+[2025-04-23 13:39:07.730] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully processed game with ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-23 14:24:24.801] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-23 14:24:24.866] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-04-23 14:25:41.330] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-23 14:25:41.395] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-04-23 14:26:26.374] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: {string}
+[2025-04-23 14:26:26.526] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error getting game by key: {string}
+Exception: System.InvalidOperationException: Error retrieving game by key: Value cannot be null. (Parameter 'game')
+Inner Exception: System.ArgumentNullException: Value cannot be null. (Parameter 'game')
+Stack Trace:    at Gamestore.Services.GameService.GetGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 117
+   at Gamestore.WebApi.Controllers.GameController.GetGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 48
+[2025-04-23 14:27:09.689] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: string
+[2025-04-23 14:27:09.716] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: string
+[2025-04-23 14:27:21.097] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: string
+[2025-04-23 14:27:21.102] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: string

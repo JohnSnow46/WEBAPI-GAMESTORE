@@ -1,0 +1,30 @@
+[2025-04-22 15:55:33.171] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating or updating game with ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6, Name: string
+[2025-04-22 15:55:33.487] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating or updating game with ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6
+Exception: System.InvalidOperationException: Error adding or updating game: An error occurred while saving the entity changes. See the inner exception for details.
+Inner Exception: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+Stack Trace:    at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 101
+   at Gamestore.WebApi.Controllers.GameController.CreateOrUpdateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.WebApi\Controllers\GameController.cs:line 22
+[2025-04-22 16:30:47.010] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating or updating game with Name: string
+[2025-04-22 16:30:47.333] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating or updating game
+Exception: System.InvalidOperationException: Error adding or updating game: An error occurred while saving the entity changes. See the inner exception for details.
+Inner Exception: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+Stack Trace:    at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 94
+   at Gamestore.WebApi.Controllers.GameController.CreateOrUpdateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.WebApi\Controllers\GameController.cs:line 22
+[2025-04-22 16:31:40.181] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating or updating game with Name: string
+[2025-04-22 16:31:40.264] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating or updating game
+Exception: System.InvalidOperationException: Error adding or updating game: An error occurred while saving the entity changes. See the inner exception for details.
+Inner Exception: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+Stack Trace:    at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 94
+   at Gamestore.WebApi.Controllers.GameController.CreateOrUpdateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.WebApi\Controllers\GameController.cs:line 22
+[2025-04-22 16:34:09.259] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating or updating game with Name: string
+[2025-04-22 16:34:09.336] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating or updating game
+Exception: System.InvalidOperationException: Error adding or updating game: An error occurred while saving the entity changes. See the inner exception for details.
+Inner Exception: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+Stack Trace:    at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 94
+   at Gamestore.WebApi.Controllers.GameController.CreateOrUpdateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.WebApi\Controllers\GameController.cs:line 22
+[2025-04-22 16:34:21.690] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating or updating game with Name: string
+[2025-04-22 16:34:21.767] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating or updating game
+Exception: System.InvalidOperationException: Error adding or updating game: An error occurred while saving the entity changes. See the inner exception for details.
+Inner Exception: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+Stack Trace:    at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 94
+   at Gamestore.WebApi.Controllers.GameController.CreateOrUpdateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.WebApi\Controllers\GameController.cs:line 22

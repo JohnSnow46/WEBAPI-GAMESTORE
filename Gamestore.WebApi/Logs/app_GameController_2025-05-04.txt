@@ -1,0 +1,442 @@
+[2025-05-04 19:27:36.557] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-04 19:27:36.752] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-04 19:29:00.476] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 19:29:00.553] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 19:29:01.144] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-04 19:29:01.292] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-04 19:29:02.791] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 19:29:02.797] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 19:29:11.794] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-04 19:29:11.806] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-04 19:31:47.673] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 19:31:47.678] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 19:37:15.268] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 19:37:15.331] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 19:37:16.009] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-04 19:37:16.154] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-04 19:37:41.270] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: 321
+[2025-05-04 19:37:41.357] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: e55a461c-0928-4bb5-997a-c0b2c72c861e
+[2025-05-04 19:37:41.376] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 19:37:41.382] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 19:37:47.798] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 19:37:47.806] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 19:37:51.729] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 19:37:51.735] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 19:48:15.304] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 19:48:15.370] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 19:48:16.660] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 19:48:16.828] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 19:48:23.049] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 19:48:23.056] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 19:49:21.515] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 19:49:21.525] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 19:52:28.230] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 19:52:28.296] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 19:52:29.057] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 19:52:29.207] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 19:52:34.298] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 19:52:34.306] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 19:52:35.224] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-04 19:52:35.235] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-04 19:57:26.036] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 19:57:26.101] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 19:57:26.631] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 19:57:26.794] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 19:57:30.348] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 19:57:30.354] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 19:57:34.156] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 19:57:34.167] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 19:58:06.104] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 19:58:06.109] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:12:36.548] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:12:36.614] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:12:41.078] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 20:12:41.224] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 20:13:02.624] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:13:02.630] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:13:04.479] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-04 20:13:04.490] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-04 20:13:05.117] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:13:05.200] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error deleting game by key: undefined
+Exception: System.InvalidOperationException: Error deleting game: Game with key 'undefined' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'undefined' not found
+Stack Trace:    at Gamestore.Services.GameService.DeleteGameAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 249
+   at Gamestore.WebApi.Controllers.GameController.DeleteGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 132
+[2025-05-04 20:13:08.299] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:13:08.305] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:13:22.256] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: 1234
+[2025-05-04 20:13:22.343] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: b308a569-e359-4abc-8fbe-2144d1df611f
+[2025-05-04 20:13:22.365] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:13:22.370] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-04 20:13:28.025] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 20:13:28.034] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 20:15:25.048] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:15:25.052] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-04 20:18:38.431] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:18:38.494] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-04 20:18:40.285] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-04 20:18:40.431] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-04 20:18:41.573] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:22:02.206] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:22:02.273] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-04 20:22:07.964] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 20:22:08.108] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 20:22:09.822] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:22:09.905] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error deleting game by key: undefined
+Exception: System.InvalidOperationException: Error deleting game: Game with key 'undefined' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'undefined' not found
+Stack Trace:    at Gamestore.Services.GameService.DeleteGameAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 283
+   at Gamestore.WebApi.Controllers.GameController.DeleteGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 132
+[2025-05-04 20:23:24.108] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:23:24.173] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-04 20:23:25.423] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 20:23:25.622] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 20:23:26.290] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:23:26.291] [WARN] [Gamestore.WebApi.Controllers.GameController] Attempted to delete game with invalid key: undefined
+[2025-05-04 20:23:29.583] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:23:29.584] [WARN] [Gamestore.WebApi.Controllers.GameController] Attempted to delete game with invalid key: undefined
+[2025-05-04 20:24:16.230] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:24:16.294] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-04 20:24:17.636] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 20:24:17.782] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 20:25:03.227] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:25:03.291] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-04 20:25:04.152] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 20:25:04.298] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 20:25:19.608] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:25:19.672] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-04 20:25:20.631] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 20:25:20.780] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 20:26:00.141] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:26:00.206] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-04 20:26:00.905] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 20:26:01.055] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 20:26:44.935] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 20:26:44.973] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 20:26:47.471] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:26:47.559] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error deleting game by key: undefined
+Exception: System.InvalidOperationException: Error deleting game: Game with key 'undefined' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'undefined' not found
+Stack Trace:    at Gamestore.Services.GameService.DeleteGameAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 283
+   at Gamestore.WebApi.Controllers.GameController.DeleteGameByKey(String key)
+[2025-05-04 20:26:57.713] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:26:57.776] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-04 20:27:06.176] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 1234
+[2025-05-04 20:27:06.395] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 1234
+[2025-05-04 20:27:21.000] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 20:27:21.008] [WARN] [Gamestore.WebApi.Controllers.GameController] Game with key: 1234 not found
+[2025-05-04 20:27:25.490] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:27:25.496] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:27:26.526] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 20:27:26.536] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 20:27:59.116] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:27:59.181] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:28:04.528] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 20:28:04.677] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 20:28:08.162] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:28:08.244] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error deleting game by key: undefined
+Exception: System.InvalidOperationException: Error deleting game: Game with key 'undefined' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'undefined' not found
+Stack Trace:    at Gamestore.Services.GameService.DeleteGameAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 283
+   at Gamestore.WebApi.Controllers.GameController.DeleteGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 132
+[2025-05-04 20:29:31.483] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:29:31.489] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:29:33.229] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-04 20:29:33.239] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-04 20:29:34.675] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:29:34.727] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error deleting game by key: undefined
+Exception: System.InvalidOperationException: Error deleting game: Game with key 'undefined' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'undefined' not found
+Stack Trace:    at Gamestore.Services.GameService.DeleteGameAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 283
+   at Gamestore.WebApi.Controllers.GameController.DeleteGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 132
+[2025-05-04 20:32:33.403] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:32:33.467] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:32:37.317] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-04 20:32:37.461] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-04 20:36:38.440] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:36:38.504] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:36:39.812] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-04 20:36:39.959] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-04 20:36:40.729] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:36:40.813] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error deleting game by key: undefined
+Exception: System.InvalidOperationException: Error deleting game: Game with key 'undefined' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'undefined' not found
+Stack Trace:    at Gamestore.Services.GameService.DeleteGameAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 283
+   at Gamestore.WebApi.Controllers.GameController.DeleteGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 138
+[2025-05-04 20:36:43.732] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:36:43.737] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:36:45.921] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-04 20:36:45.930] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-04 20:40:05.354] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:43:01.360] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:43:01.426] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:43:03.566] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 20:43:03.714] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 20:43:04.452] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:43:04.536] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error deleting game by key: undefined
+Exception: System.InvalidOperationException: Error deleting game: Game with key 'undefined' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'undefined' not found
+Stack Trace:    at Gamestore.Services.GameService.DeleteGameAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 259
+   at Gamestore.WebApi.Controllers.GameController.DeleteGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 138
+[2025-05-04 20:43:10.986] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:43:11.037] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error deleting game by key: undefined
+Exception: System.InvalidOperationException: Error deleting game: Game with key 'undefined' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'undefined' not found
+Stack Trace:    at Gamestore.Services.GameService.DeleteGameAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 259
+   at Gamestore.WebApi.Controllers.GameController.DeleteGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 138
+[2025-05-04 20:44:11.968] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:44:11.973] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:44:13.922] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-04 20:44:13.931] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-04 20:44:41.220] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:44:41.225] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:44:48.951] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 20:44:48.960] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 20:46:45.228] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:46:45.292] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 20:46:56.620] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 123
+[2025-05-04 20:47:00.953] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 123
+[2025-05-04 20:47:10.633] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:47:10.639] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 20:49:05.238] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:49:05.306] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 20:49:07.390] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 20:49:07.535] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 20:49:08.530] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:52:19.830] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 20:52:19.894] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 20:52:22.620] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 20:52:22.765] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 20:52:23.424] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:52:23.425] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 20:52:25.589] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 20:52:25.590] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 21:12:34.823] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 21:12:34.887] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 21:12:35.600] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 21:12:35.747] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 21:12:36.289] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 21:12:36.290] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 21:12:41.100] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 21:12:41.101] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 21:14:33.186] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 21:14:33.191] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 21:14:36.620] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 21:14:36.631] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 21:14:51.148] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 21:14:51.149] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 21:21:46.584] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 21:21:46.651] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 21:21:48.097] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 21:21:48.243] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 21:21:53.540] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 21:21:53.541] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 21:23:12.394] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 21:23:12.457] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 21:23:13.010] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 21:23:13.158] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 21:23:15.634] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 21:26:52.077] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 21:26:52.144] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 21:27:05.387] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: 1234
+[2025-05-04 21:27:05.579] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: 0229c419-231c-4fc4-832c-df4e2f304db5
+[2025-05-04 21:27:05.602] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 21:27:05.608] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 21:27:07.713] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 21:27:07.741] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 21:27:11.261] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 21:27:11.262] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 21:29:53.585] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 21:29:53.650] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 21:29:54.492] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 21:29:54.646] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 21:29:55.318] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 21:29:55.319] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 21:29:57.561] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 21:29:57.562] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 21:31:47.253] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 21:31:47.325] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 21:31:48.665] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 21:31:48.810] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 21:31:49.588] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 21:31:49.589] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 21:31:55.412] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 21:31:55.413] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 21:53:14.230] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 21:53:14.298] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-04 21:53:21.682] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 1234
+[2025-05-04 21:53:21.910] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 1234
+[2025-05-04 21:53:25.546] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 21:53:25.552] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 21:55:07.220] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 21:55:07.225] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 21:55:08.710] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 21:55:08.736] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 21:55:10.608] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 21:55:10.614] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 21:55:13.111] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 21:55:13.122] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 21:55:25.928] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 21:55:25.929] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 21:59:56.663] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 21:59:56.732] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 21:59:58.400] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 21:59:58.556] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 22:00:17.312] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 22:00:17.318] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 22:00:19.862] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 22:00:19.873] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 22:01:00.934] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 22:01:01.003] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 22:01:02.886] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 22:01:03.041] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 22:10:12.643] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 22:10:12.708] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 22:10:14.212] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 22:10:14.369] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 22:10:17.013] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 22:10:17.014] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 22:10:25.372] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 22:10:25.373] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 22:12:19.862] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 22:12:19.866] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 22:12:22.347] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 22:12:22.363] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 22:18:24.809] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 22:18:24.874] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 22:18:27.475] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 22:18:27.628] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 22:18:28.722] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 22:18:28.723] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 22:18:34.819] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 22:18:34.820] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 22:26:31.252] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 22:26:31.317] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 22:26:32.101] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 22:26:32.250] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 22:26:33.027] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 22:26:33.028] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 22:26:40.514] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 22:26:40.515] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 22:28:13.156] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 22:28:13.220] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 22:28:14.011] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 22:28:14.163] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 22:28:14.764] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 22:28:14.765] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 22:29:08.310] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 22:29:08.379] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 22:29:09.947] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 22:29:10.102] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 22:32:05.583] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 22:32:05.650] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 22:32:07.708] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 22:32:07.864] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 22:32:09.150] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 22:32:09.151] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 22:34:10.032] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 22:34:10.094] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 22:34:12.279] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 321
+[2025-05-04 22:34:12.434] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 321
+[2025-05-04 22:34:18.580] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 22:34:18.581] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 22:35:07.064] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key from body: 321
+[2025-05-04 22:35:07.156] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 321
+[2025-05-04 23:09:54.882] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:09:54.883] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:16:19.684] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:16:19.716] [WARN] [Gamestore.WebApi.Controllers.GameController] No games found in the database
+[2025-05-04 23:16:28.474] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:16:28.480] [WARN] [Gamestore.WebApi.Controllers.GameController] No games found in the database
+[2025-05-04 23:16:39.646] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: 1234
+[2025-05-04 23:16:39.851] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: 420572a7-0f4f-4b51-8ce0-ecebb8ea7603
+[2025-05-04 23:16:39.874] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:16:39.882] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 23:16:50.147] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 23:16:50.177] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 23:16:53.220] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:16:53.221] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:20:35.815] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:20:35.820] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 23:20:41.808] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 23:20:41.823] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 23:20:47.192] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:20:47.199] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 23:20:48.694] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 23:20:48.710] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 23:20:57.001] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:20:57.007] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 23:21:23.880] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 23:21:23.894] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 23:22:04.746] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:22:04.747] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:24:56.977] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:24:56.977] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:24:58.966] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:24:58.967] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:29:42.383] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:29:42.467] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 23:29:43.147] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 23:29:43.306] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 23:29:44.525] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:29:44.526] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:29:57.444] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:30:02.627] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:32:29.982] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:32:29.986] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:32:44.802] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:32:44.803] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:37:27.096] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:37:27.101] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 23:41:23.799] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:41:23.804] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 23:41:32.865] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 1234
+[2025-05-04 23:41:34.935] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 1234
+[2025-05-04 23:45:59.721] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:45:59.753] [WARN] [Gamestore.WebApi.Controllers.GameController] No games found in the database
+[2025-05-04 23:46:11.455] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: 1234
+[2025-05-04 23:46:11.653] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: 162f75ee-7644-477a-b722-e87cf5957395
+[2025-05-04 23:46:11.674] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:46:11.679] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 23:46:13.281] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 23:46:13.313] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 23:46:14.260] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:46:14.261] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:46:17.050] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:46:17.051] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:47:40.749] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:47:40.818] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 23:47:41.819] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 23:47:41.969] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 23:47:42.627] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:47:42.628] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:48:02.657] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:48:02.658] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:48:03.526] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:48:03.527] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:48:04.380] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:48:04.381] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:48:05.193] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:48:05.194] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:48:05.737] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:48:05.738] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:48:06.045] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:48:06.046] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:48:08.421] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:48:08.426] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 23:48:43.921] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 23:48:43.937] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 23:53:34.099] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:53:34.167] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 23:53:35.004] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 23:53:35.157] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 23:53:35.753] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:53:35.754] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:53:39.692] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:53:39.693] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-04 23:59:09.018] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-04 23:59:09.091] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-04 23:59:16.048] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-04 23:59:16.206] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-04 23:59:22.510] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-04 23:59:22.511] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'

@@ -1,0 +1,96 @@
+[2025-04-30 15:56:54.914] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-30 15:56:56.204] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-30 15:56:57.433] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-30 15:56:57.534] [ERROR] [Gamestore.Services.GameService] Error retrieving all games
+Exception: Microsoft.Data.SqlClient.SqlException: Invalid column name 'CreatedAt'.
+Invalid column name 'Discontinued'.
+Invalid column name 'UpdatedAt'.
+Stack Trace:    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Gamestore.Data.Repository.Repository`1.GetAllAsync() in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Data\Repository\Repository.cs:line 26
+   at Gamestore.Services.GameService.GetAllGames() in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 205
+[2025-04-30 16:03:38.782] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-30 16:03:39.105] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-30 16:07:14.120] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-30 16:07:14.124] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-30 16:08:18.201] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-30 16:08:18.205] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-30 16:08:40.614] [INFO] [Gamestore.Services.GameService] Starting add game operation for game: string
+[2025-04-30 16:08:40.792] [ERROR] [Gamestore.Services.GameService] Error occurred while adding game: string
+Exception: System.ComponentModel.DataAnnotations.ValidationException: Game with key 'string' already exists
+Stack Trace:    at Gamestore.Services.GameService.ValidateGameKeyUniqueness(String key)
+   at Gamestore.Services.GameService.AddGameAsync(GameRequestDto gameRequest)
+[2025-04-30 16:08:46.187] [INFO] [Gamestore.Services.GameService] Starting add game operation for game: string
+[2025-04-30 16:08:46.313] [ERROR] [Gamestore.Services.GameService] Error occurred while adding game: string
+Exception: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+Inner Exception: Microsoft.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Games_Publishers_PublisherId". The conflict occurred in database "GamesDb", table "dbo.Publishers", column 'Id'.
+The statement has been terminated.
+Stack Trace:    at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Gamestore.Data.Repository.Repository`1.AddAsync(T entity) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Data\Repository\Repository.cs:line 32
+   at Gamestore.Services.GameService.AddGameAsync(GameRequestDto gameRequest)
+[2025-04-30 16:09:23.786] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-30 16:09:23.789] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-30 16:10:30.306] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-30 16:10:30.311] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-30 16:10:30.314] [INFO] [Gamestore.Services.GameService] Starting add game operation for game: string1
+[2025-04-30 16:10:30.327] [INFO] [Gamestore.Services.GameService] New game created with ID: c01b128e-cded-4573-9219-bacf81d1874d
+[2025-04-30 16:10:30.346] [INFO] [Gamestore.Services.GameService] Added 1 platforms to game: c01b128e-cded-4573-9219-bacf81d1874d
+[2025-04-30 16:10:30.356] [INFO] [Gamestore.Services.GameService] Added 1 genres to game: c01b128e-cded-4573-9219-bacf81d1874d
+[2025-04-30 16:11:18.502] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-30 16:11:18.511] [INFO] [Gamestore.Services.GameService] Retrieved 5 games from database
+[2025-04-30 16:11:33.070] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-30 16:11:33.073] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-30 16:17:08.743] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-30 16:17:09.028] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-30 16:17:16.552] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-30 16:17:16.617] [INFO] [Gamestore.Services.GameService] Retrieved 5 games from database
+[2025-04-30 16:30:35.086] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-30 16:30:35.093] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-30 16:30:54.905] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-30 16:30:55.208] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-30 16:30:55.264] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-30 16:30:55.328] [INFO] [Gamestore.Services.GameService] Retrieved 5 games from database
+[2025-04-30 16:32:38.092] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-30 16:32:38.094] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-30 16:33:01.341] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-30 16:33:01.665] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-30 16:33:01.737] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-30 16:33:01.817] [INFO] [Gamestore.Services.GameService] Retrieved 5 games from database
+[2025-04-30 16:33:12.459] [INFO] [Gamestore.Services.GameService] Starting add game operation for game: 123
+[2025-04-30 16:33:12.607] [INFO] [Gamestore.Services.GameService] New game created with ID: 6c7458e4-483d-4df1-a418-386c135aa033
+[2025-04-30 16:33:12.632] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-30 16:33:12.636] [INFO] [Gamestore.Services.GameService] Retrieved 6 games from database
+[2025-04-30 16:33:22.173] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: 123
+[2025-04-30 16:33:22.181] [INFO] [Gamestore.Services.GameService] Game found with ID: 6c7458e4-483d-4df1-a418-386c135aa033
+[2025-04-30 16:33:22.925] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: 123
+[2025-04-30 16:33:22.929] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: 6c7458e4-483d-4df1-a418-386c135aa033
+[2025-04-30 16:33:22.931] [INFO] [Gamestore.Services.GameService] Deleting game with ID: 6c7458e4-483d-4df1-a418-386c135aa033
+[2025-04-30 16:33:22.946] [INFO] [Gamestore.Services.GameService] Game with key: 123 deleted successfully
+[2025-04-30 16:33:22.956] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-30 16:33:22.959] [INFO] [Gamestore.Services.GameService] Retrieved 5 games from database
+[2025-04-30 16:40:50.613] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-30 16:40:50.926] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-30 16:40:50.983] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-30 16:40:51.052] [INFO] [Gamestore.Services.GameService] Retrieved 5 games from database

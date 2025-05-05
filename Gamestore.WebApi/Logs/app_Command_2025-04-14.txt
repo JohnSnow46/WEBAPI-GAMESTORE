@@ -1,0 +1,59 @@
+[2025-04-14 16:24:11.032] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (16ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-14 16:24:47.037] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (17ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[Description], [g2].[Key], [g2].[Name], [g0].[GameId], [g0].[GenreId], [g1].[GameId], [g1].[PlatformId]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-14 16:27:47.721] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (16ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-14 16:28:11.490] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (16ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-14 16:30:15.955] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (18ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-14 16:33:27.343] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (13ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-14 16:41:24.849] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-14 16:41:49.079] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (6ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+FROM [Games] AS [g]
+[2025-04-14 16:53:57.082] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-14 16:54:15.031] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (11ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[Description], [g2].[Key], [g2].[Name], [g0].[GameId], [g0].[GenreId], [g1].[GameId], [g1].[PlatformId]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-14 17:19:12.781] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (14ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-14 17:19:30.113] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+FROM [Games] AS [g]
+[2025-04-14 17:35:49.159] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (17ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-14 17:54:21.407] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (18ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-14 17:54:25.397] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+FROM [Games] AS [g]

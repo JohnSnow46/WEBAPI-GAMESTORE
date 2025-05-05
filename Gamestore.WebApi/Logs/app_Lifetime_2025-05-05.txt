@@ -1,0 +1,570 @@
+[2025-05-05 00:01:01.862] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:01:01.869] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:01:01.911] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:01:01.912] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:01:01.912] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:04:06.656] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:04:06.663] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:04:06.706] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:04:06.707] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:04:06.707] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:09:25.495] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:09:25.501] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:09:25.545] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:09:25.546] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:09:25.547] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:14:11.575] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:14:11.582] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:14:11.623] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:14:11.624] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:14:11.625] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:17:27.089] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:17:27.095] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:17:27.138] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:17:27.139] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:17:27.140] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:18:25.739] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:18:25.746] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:18:25.792] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:18:25.794] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:18:25.795] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:19:43.313] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:19:43.319] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:19:43.361] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:19:43.362] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:19:43.363] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:36:00.977] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:36:00.983] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:36:01.027] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:36:01.028] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:36:01.029] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:37:27.507] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:37:27.514] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:37:27.556] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:37:27.557] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:37:27.558] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:42:53.043] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:42:53.050] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:42:53.094] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:42:53.095] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:42:53.096] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:43:42.633] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:43:42.640] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:43:42.681] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:43:42.682] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:43:42.683] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:43:50.874] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:43:50.884] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:43:50.940] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:43:50.941] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:43:50.943] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:45:55.711] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:45:55.717] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:45:55.766] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:45:55.767] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:45:55.769] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:55:41.251] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:55:41.257] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:55:41.309] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:55:41.311] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:55:41.311] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:57:18.460] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:57:18.466] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:57:18.510] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:57:18.511] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:57:18.512] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 00:58:28.876] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 00:58:28.882] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 00:58:28.927] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 00:58:28.928] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 00:58:28.928] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:04:13.020] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:04:13.027] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:04:13.075] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:04:13.077] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:04:13.077] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:18:55.869] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:18:55.876] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:18:55.920] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:18:55.921] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:18:55.921] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:20:01.315] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:20:01.321] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:20:01.443] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:20:01.444] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:20:01.445] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:24:43.162] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:24:43.168] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:24:43.210] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:24:43.211] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:24:43.212] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:26:35.865] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:26:35.871] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:26:35.913] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:26:35.914] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:26:35.915] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:27:28.810] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:27:28.816] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:27:28.924] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:27:28.925] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:27:28.926] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:29:50.097] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:29:50.104] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:29:50.146] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:29:50.147] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:29:50.148] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:30:01.491] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:30:01.498] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:30:01.541] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:30:01.542] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:30:01.543] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:32:34.115] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:32:34.121] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:32:34.224] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:32:34.225] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:32:34.226] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:33:11.061] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:33:11.067] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:33:11.110] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:33:11.111] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:33:11.112] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:55:08.584] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:55:08.592] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:55:08.648] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:55:08.649] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:55:08.650] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:55:36.897] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:55:36.904] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:55:36.949] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:55:36.950] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:55:36.951] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:57:48.009] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:57:48.016] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:57:48.076] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:57:48.078] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:57:48.079] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 01:58:50.410] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 01:58:50.417] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 01:58:50.458] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 01:58:50.459] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 01:58:50.460] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 02:05:14.213] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 02:05:14.219] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 02:05:14.267] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 02:05:14.268] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 02:05:14.269] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 02:11:15.894] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 02:11:15.901] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 02:11:15.944] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 02:11:15.945] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 02:11:15.946] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 02:13:18.745] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 02:13:18.751] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 02:13:18.794] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 02:13:18.795] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 02:13:18.796] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 02:21:10.073] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 02:21:10.079] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 02:21:10.127] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 02:21:10.128] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 02:21:10.129] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 02:40:56.545] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 02:40:56.552] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 02:40:56.608] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 02:40:56.611] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 02:40:56.612] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 02:44:57.062] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 02:44:57.068] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 02:44:57.111] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 02:44:57.112] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 02:44:57.113] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 02:52:08.979] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 02:52:08.987] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 02:52:09.032] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 02:52:09.033] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 02:52:09.033] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 02:52:57.793] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 02:52:57.802] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 02:52:57.856] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 02:52:57.857] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 02:52:57.858] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:06:54.025] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:06:54.031] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:06:54.073] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:06:54.074] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:06:54.075] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:11:11.844] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:11:11.851] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:11:11.893] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:11:11.894] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:11:11.895] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:15:33.220] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:15:33.226] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:15:33.271] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:15:33.272] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:15:33.273] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:16:10.094] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:16:10.101] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:16:10.147] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:16:10.148] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:16:10.149] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:19:47.586] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:19:47.594] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:19:47.716] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:19:47.717] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:19:47.718] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:20:06.264] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:20:06.270] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:20:06.313] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:20:06.314] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:20:06.314] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:21:25.819] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:21:25.825] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:21:25.871] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:21:25.872] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:21:25.873] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:27:17.240] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:27:17.248] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:27:17.293] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:27:17.294] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:27:17.295] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:28:33.698] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:28:33.704] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:28:33.754] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:28:33.756] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:28:33.756] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:29:02.435] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:29:02.441] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:29:02.482] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:29:02.484] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:29:02.484] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:32:00.789] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:32:00.795] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:32:00.838] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:32:00.839] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:32:00.840] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:33:05.856] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:33:05.865] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:33:05.907] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:33:05.909] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:33:05.910] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:36:24.045] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:36:24.052] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:36:24.096] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:36:24.097] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:36:24.098] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:41:20.397] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:41:20.404] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:41:20.450] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:41:20.451] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:41:20.452] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:45:35.524] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:45:35.530] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:45:35.573] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:45:35.574] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:45:35.574] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 03:58:22.405] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 03:58:22.412] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 03:58:22.455] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 03:58:22.456] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 03:58:22.458] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 04:45:19.668] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 04:45:19.674] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 04:45:19.719] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 04:45:19.721] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 04:45:19.721] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 04:50:25.517] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 04:50:25.524] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 04:50:25.635] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 04:50:25.636] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 04:50:25.637] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 04:54:58.308] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 04:54:58.315] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 04:54:58.359] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 04:54:58.360] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 04:54:58.361] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 04:57:33.724] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 04:57:33.731] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 04:57:33.773] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 04:57:33.774] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 04:57:33.775] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 05:04:16.804] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 05:04:16.811] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 05:04:16.854] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 05:04:16.855] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 05:04:16.856] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 05:14:56.129] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 05:14:56.136] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 05:14:56.180] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 05:14:56.181] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 05:14:56.182] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 05:21:22.537] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 05:21:22.544] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 05:21:22.590] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 05:21:22.592] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 05:21:22.593] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 05:22:49.203] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 05:22:49.210] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 05:22:49.256] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 05:22:49.257] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 05:22:49.258] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 05:26:12.945] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 05:26:12.952] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 05:26:12.996] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 05:26:12.997] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 05:26:12.998] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 05:27:22.625] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 05:27:22.632] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 05:27:22.674] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 05:27:22.675] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 05:27:22.676] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 05:35:52.634] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 05:35:52.640] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 05:35:52.683] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 05:35:52.684] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 05:35:52.685] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 05:37:39.231] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 05:37:39.238] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 05:37:39.282] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 05:37:39.283] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 05:37:39.284] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 05:38:28.480] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 05:38:28.487] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 05:38:28.530] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 05:38:28.531] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 05:38:28.532] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 05:45:52.209] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 05:45:52.215] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 05:45:52.319] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 05:45:52.321] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 05:45:52.322] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 05:50:17.098] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 05:50:17.106] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 05:50:17.148] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 05:50:17.149] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 05:50:17.150] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 05:52:50.889] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 05:52:50.895] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 05:52:51.005] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 05:52:51.007] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 05:52:51.008] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 05:58:52.508] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 05:58:52.514] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 05:58:52.557] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 05:58:52.558] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 05:58:52.559] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 06:13:30.738] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 06:13:30.744] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 06:13:30.789] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 06:13:30.790] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 06:13:30.791] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 06:14:03.300] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 06:14:03.307] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 06:14:03.382] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 06:14:03.384] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 06:14:03.385] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 06:14:58.652] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 06:14:58.659] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 06:14:58.701] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 06:14:58.702] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 06:14:58.703] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 06:17:08.292] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 06:17:08.298] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 06:17:08.411] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 06:17:08.412] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 06:17:08.413] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 06:35:34.684] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 06:35:34.690] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 06:35:34.733] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 06:35:34.735] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 06:35:34.736] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 06:36:40.479] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 06:36:40.485] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 06:36:40.528] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 06:36:40.529] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 06:36:40.531] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 06:40:33.618] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 06:40:33.625] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 06:40:33.670] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 06:40:33.671] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 06:40:33.672] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 06:41:45.383] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 06:41:45.389] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 06:41:45.433] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 06:41:45.434] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 06:41:45.435] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 06:44:51.405] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 06:44:51.411] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 06:44:51.454] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 06:44:51.455] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 06:44:51.456] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 06:49:42.415] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 06:49:42.422] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 06:49:42.463] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 06:49:42.465] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 06:49:42.466] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 06:51:57.299] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 06:51:57.305] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 06:51:57.349] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 06:51:57.350] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 06:51:57.351] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 06:55:14.040] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 06:55:14.047] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 06:55:14.088] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 06:55:14.090] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 06:55:14.090] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 07:00:39.508] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 07:00:39.515] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 07:00:39.557] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 07:00:39.558] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 07:00:39.559] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 07:08:17.648] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 07:08:17.656] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 07:08:17.699] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 07:08:17.700] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 07:08:17.701] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 07:08:41.572] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 07:08:41.578] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 07:08:41.622] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 07:08:41.624] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 07:08:41.625] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 07:10:40.655] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 07:10:40.663] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 07:10:40.711] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 07:10:40.712] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 07:10:40.714] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 07:11:08.956] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 07:11:08.963] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 07:11:09.009] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 07:11:09.010] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 07:11:09.011] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 07:13:05.887] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 07:13:05.894] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 07:13:05.938] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 07:13:05.939] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 07:13:05.940] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 07:14:18.399] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 07:14:18.405] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 07:14:18.448] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 07:14:18.449] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 07:14:18.450] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 07:15:40.359] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 07:15:40.366] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 07:15:40.410] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 07:15:40.412] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 07:15:40.413] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 07:19:14.168] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 07:19:14.175] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 07:19:14.220] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 07:19:14.221] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 07:19:14.222] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 08:02:35.202] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 08:02:35.211] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 08:02:35.253] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 08:02:35.254] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 08:02:35.255] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 08:04:27.236] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 08:04:27.242] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 08:04:27.288] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 08:04:27.289] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 08:04:27.290] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 13:11:55.485] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 13:11:55.492] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 13:11:55.536] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 13:11:55.538] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 13:11:55.539] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 15:31:00.558] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 15:31:00.566] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 15:31:00.612] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 15:31:00.614] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 15:31:00.615] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 15:39:32.294] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 15:39:32.300] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 15:39:32.345] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 15:39:32.347] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 15:39:32.348] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 15:46:33.546] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 15:46:33.554] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 15:46:33.602] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 15:46:33.603] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 15:46:33.604] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 15:58:18.357] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 15:58:18.364] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 15:58:18.407] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 15:58:18.408] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 15:58:18.409] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 15:59:55.969] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 15:59:55.975] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 15:59:56.018] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 15:59:56.019] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 15:59:56.020] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 16:05:16.864] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 16:05:16.871] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 16:05:16.913] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 16:05:16.914] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 16:05:16.915] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 16:06:09.117] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 16:06:09.126] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 16:06:09.174] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 16:06:09.175] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 16:06:09.176] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 16:06:41.645] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 16:06:41.652] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 16:06:41.696] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 16:06:41.697] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 16:06:41.698] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 16:12:08.440] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 16:12:08.447] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 16:12:08.490] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 16:12:08.491] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 16:12:08.492] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 16:31:24.229] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 16:31:24.235] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 16:31:24.278] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 16:31:24.279] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 16:31:24.280] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 16:31:56.474] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 16:31:56.481] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 16:31:56.563] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 16:31:56.565] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 16:31:56.566] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 16:35:00.818] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 16:35:00.824] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 16:35:00.868] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 16:35:00.869] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 16:35:00.870] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 16:35:41.617] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 16:35:41.625] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 16:35:41.686] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 16:35:41.688] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 16:35:41.689] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 16:42:00.253] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 16:42:00.259] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 16:42:00.303] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 16:42:00.304] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 16:42:00.305] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 16:43:23.212] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 16:43:23.218] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 16:43:23.265] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 16:43:23.266] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 16:43:23.267] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 17:01:29.037] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 17:01:29.043] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 17:01:29.085] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 17:01:29.086] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 17:01:29.087] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 17:02:07.279] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 17:02:07.289] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 17:02:07.350] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 17:02:07.351] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 17:02:07.353] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 17:06:39.131] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 17:06:39.138] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 17:06:39.194] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 17:06:39.195] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 17:06:39.196] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi
+[2025-05-05 17:17:13.210] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-05-05 17:17:13.217] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-05-05 17:17:13.261] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-05-05 17:17:13.262] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-05-05 17:17:13.263] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi

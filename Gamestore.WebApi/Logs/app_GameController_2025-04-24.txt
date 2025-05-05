@@ -1,0 +1,24 @@
+[2025-04-24 12:20:25.464] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-24 12:20:25.526] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-04-24 12:20:36.388] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: string
+[2025-04-24 12:20:36.489] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: string
+[2025-04-24 12:37:18.150] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-24 12:37:18.216] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-04-24 12:38:10.688] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-24 12:38:10.756] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-04-24 12:39:12.497] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: string
+[2025-04-24 12:39:12.599] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: string
+[2025-04-24 12:40:33.404] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by id: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-24 12:40:33.419] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with id: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-24 12:49:49.327] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all publishers
+[2025-04-24 12:49:49.383] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 10 publishers
+[2025-04-24 13:17:46.393] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting publisher for game with key: string
+[2025-04-24 13:17:46.559] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found publisher for game with key: string
+[2025-04-24 17:16:06.547] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating or updating publisher with Name: string
+[2025-04-24 17:16:06.642] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully processed publisher with ID: c4cff825-f483-463e-989c-d836d92e92a5
+[2025-04-24 17:23:37.729] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting publisher with ID: c4cff825-f483-463e-989c-d836d92e92a5
+[2025-04-24 17:23:37.875] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted publisher with ID: c4cff825-f483-463e-989c-d836d92e92a5
+[2025-04-24 17:30:33.450] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting publisher with ID: 9b5aac8a-183c-4bf0-9de2-d1c6ea7a3203
+[2025-04-24 17:30:33.597] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted publisher with ID: 9b5aac8a-183c-4bf0-9de2-d1c6ea7a3203
+[2025-04-24 17:31:16.702] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting publisher with ID: 62f9d9fe-5a35-43c1-b35c-b949d5033e28
+[2025-04-24 17:31:16.851] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted publisher with ID: 62f9d9fe-5a35-43c1-b35c-b949d5033e28

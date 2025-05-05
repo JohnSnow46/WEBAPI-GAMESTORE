@@ -1,0 +1,145 @@
+[2025-04-29 13:17:05.459] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 13:17:06.866] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-29 13:17:22.500] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 13:17:22.562] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-29 13:34:48.202] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 13:34:49.358] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-29 13:35:06.565] [INFO] [Gamestore.Services.GameService] Starting add game operation for game: string
+[2025-04-29 13:35:06.567] [INFO] [Gamestore.Services.GameService] Creating new game with key: string
+[2025-04-29 13:35:06.762] [ERROR] [Gamestore.Services.GameService] Error occurred while adding game: string
+Exception: System.ComponentModel.DataAnnotations.ValidationException: Game with key 'string' already exists
+Stack Trace:    at Gamestore.Services.GameService.ValidateGameKeyUniqueness(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 341
+   at Gamestore.Services.GameService.AddGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 24
+[2025-04-29 13:35:14.648] [INFO] [Gamestore.Services.GameService] Starting add game operation for game: string
+[2025-04-29 13:35:14.649] [INFO] [Gamestore.Services.GameService] Creating new game with key: string25
+[2025-04-29 13:35:14.719] [INFO] [Gamestore.Services.GameService] New game created with ID: ffcb61af-292c-4018-85ae-5afb2adb0293
+[2025-04-29 13:35:14.720] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6 to game ID: ffcb61af-292c-4018-85ae-5afb2adb0293
+[2025-04-29 13:35:14.770] [ERROR] [Gamestore.Services.GameService] Error occurred while adding game: string
+Exception: System.Collections.Generic.KeyNotFoundException: Entity not found.
+Stack Trace:    at Gamestore.Data.Repository.Repository`1.GetByIdAsync(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Data\Repository\Repository.cs:line 21
+   at Gamestore.Services.GameService.AssignPublisherToGame(GameRequestDto gameRequest, Game existingGame) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 299
+   at Gamestore.Services.GameService.AddGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 40
+[2025-04-29 13:35:30.006] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 13:35:30.016] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 13:35:51.101] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 13:35:51.104] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-29 13:36:31.434] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 13:36:31.787] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-29 13:36:31.842] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 13:36:31.903] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 13:36:41.927] [INFO] [Gamestore.Services.GameService] Starting add game operation for game: asd
+[2025-04-29 13:36:41.928] [INFO] [Gamestore.Services.GameService] Creating new game with key: 123
+[2025-04-29 13:36:42.069] [INFO] [Gamestore.Services.GameService] New game created with ID: 969e0b2b-37f8-49e9-8d83-e13bc94ee28c
+[2025-04-29 13:36:42.070] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: d5b83dbd-3a41-4f3a-8dcf-8be4f11ccbf1 to game ID: 969e0b2b-37f8-49e9-8d83-e13bc94ee28c
+[2025-04-29 13:36:42.080] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: 969e0b2b-37f8-49e9-8d83-e13bc94ee28c
+[2025-04-29 13:36:42.087] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: 969e0b2b-37f8-49e9-8d83-e13bc94ee28c
+[2025-04-29 13:36:42.107] [INFO] [Gamestore.Services.GameService] New game created successfully with ID: 969e0b2b-37f8-49e9-8d83-e13bc94ee28c
+[2025-04-29 13:36:42.128] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 13:36:42.132] [INFO] [Gamestore.Services.GameService] Retrieved 5 games from database
+[2025-04-29 13:36:48.442] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: 123
+[2025-04-29 13:36:48.450] [INFO] [Gamestore.Services.GameService] Game found with ID: 969e0b2b-37f8-49e9-8d83-e13bc94ee28c
+[2025-04-29 13:36:49.202] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: 123
+[2025-04-29 13:36:49.206] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: 969e0b2b-37f8-49e9-8d83-e13bc94ee28c
+[2025-04-29 13:36:49.208] [INFO] [Gamestore.Services.GameService] Deleting game with ID: 969e0b2b-37f8-49e9-8d83-e13bc94ee28c
+[2025-04-29 13:36:49.222] [INFO] [Gamestore.Services.GameService] Game with key: 123 deleted successfully
+[2025-04-29 13:36:49.232] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 13:36:49.235] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 13:36:53.025] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: string
+[2025-04-29 13:36:53.028] [INFO] [Gamestore.Services.GameService] Game found with ID: c5f83405-ecc7-43bd-80af-8cf1426bd0dc
+[2025-04-29 13:36:54.439] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 13:36:54.443] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 13:36:55.204] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: fgsa
+[2025-04-29 13:36:55.208] [INFO] [Gamestore.Services.GameService] Game found with ID: 9991d454-2fd0-4f45-af2a-88e560267cc2
+[2025-04-29 13:36:56.006] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 13:36:56.010] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 13:36:56.575] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: string25
+[2025-04-29 13:36:56.578] [INFO] [Gamestore.Services.GameService] Game found with ID: ffcb61af-292c-4018-85ae-5afb2adb0293
+[2025-04-29 13:36:57.233] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 13:36:57.237] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 13:36:57.701] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-29 13:36:57.712] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-29 13:36:58.447] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 13:36:58.451] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 13:37:06.961] [INFO] [Gamestore.Services.GameService] Starting add game operation for game: 123
+[2025-04-29 13:37:06.962] [INFO] [Gamestore.Services.GameService] Creating new game with key: 123
+[2025-04-29 13:37:06.972] [INFO] [Gamestore.Services.GameService] New game created with ID: 5fe30477-68e7-4991-865a-735716a6c7c4
+[2025-04-29 13:37:06.972] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: d5b83dbd-3a41-4f3a-8dcf-8be4f11ccbf1 to game ID: 5fe30477-68e7-4991-865a-735716a6c7c4
+[2025-04-29 13:37:06.975] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: 5fe30477-68e7-4991-865a-735716a6c7c4
+[2025-04-29 13:37:06.978] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: 5fe30477-68e7-4991-865a-735716a6c7c4
+[2025-04-29 13:37:06.982] [INFO] [Gamestore.Services.GameService] New game created successfully with ID: 5fe30477-68e7-4991-865a-735716a6c7c4
+[2025-04-29 13:37:06.993] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 13:37:06.996] [INFO] [Gamestore.Services.GameService] Retrieved 5 games from database
+[2025-04-29 13:37:10.378] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: 123
+[2025-04-29 13:37:10.382] [INFO] [Gamestore.Services.GameService] Game found with ID: 5fe30477-68e7-4991-865a-735716a6c7c4
+[2025-04-29 13:37:10.896] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: 123
+[2025-04-29 13:37:10.900] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: 5fe30477-68e7-4991-865a-735716a6c7c4
+[2025-04-29 13:37:10.900] [INFO] [Gamestore.Services.GameService] Deleting game with ID: 5fe30477-68e7-4991-865a-735716a6c7c4
+[2025-04-29 13:37:10.903] [INFO] [Gamestore.Services.GameService] Game with key: 123 deleted successfully
+[2025-04-29 13:37:10.913] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 13:37:10.916] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 13:37:39.491] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 13:37:39.496] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-29 13:59:50.386] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 13:59:50.999] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-29 14:09:00.369] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 14:09:01.319] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-29 14:09:01.407] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 14:09:01.474] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 14:21:03.223] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 14:21:04.444] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-29 14:21:04.503] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 14:21:04.564] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 14:38:41.429] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 14:38:42.359] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-29 14:38:42.413] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 14:38:42.473] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 14:40:14.049] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 14:40:14.052] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-29 14:41:11.199] [INFO] [Gamestore.Services.GameService] Starting add game operation for game: 123
+[2025-04-29 14:41:11.350] [INFO] [Gamestore.Services.GameService] New game created with ID: 386785a8-66c2-4014-adfa-9f89f24c2849
+[2025-04-29 14:41:11.381] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 14:41:11.385] [INFO] [Gamestore.Services.GameService] Retrieved 5 games from database
+[2025-04-29 14:41:38.036] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 14:41:38.040] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-29 14:41:38.046] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: 123
+[2025-04-29 14:41:38.055] [INFO] [Gamestore.Services.GameService] Game found with ID: 386785a8-66c2-4014-adfa-9f89f24c2849
+[2025-04-29 14:41:38.790] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: 123
+[2025-04-29 14:41:38.795] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: 386785a8-66c2-4014-adfa-9f89f24c2849
+[2025-04-29 14:41:38.798] [INFO] [Gamestore.Services.GameService] Deleting game with ID: 386785a8-66c2-4014-adfa-9f89f24c2849
+[2025-04-29 14:41:38.818] [INFO] [Gamestore.Services.GameService] Game with key: 123 deleted successfully
+[2025-04-29 14:41:38.829] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 14:41:38.833] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 14:42:24.814] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 14:42:24.818] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 14:42:52.903] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 14:42:52.906] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-29 14:44:24.721] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 14:44:24.725] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-29 14:45:23.792] [INFO] [Gamestore.Services.GameService] Starting add game operation for game: 123
+[2025-04-29 14:45:54.487] [INFO] [Gamestore.Services.GameService] New game created with ID: f3a9a9e9-1d8d-4131-9e59-a823cb300965
+[2025-04-29 14:48:12.380] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 14:48:12.382] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-29 14:48:23.719] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 14:48:23.723] [INFO] [Gamestore.Services.GameService] Retrieved 5 games from database
+[2025-04-29 14:48:24.617] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: 123
+[2025-04-29 14:48:24.621] [INFO] [Gamestore.Services.GameService] Game found with ID: f3a9a9e9-1d8d-4131-9e59-a823cb300965
+[2025-04-29 14:48:25.230] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: 123
+[2025-04-29 14:48:25.234] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: f3a9a9e9-1d8d-4131-9e59-a823cb300965
+[2025-04-29 14:48:25.235] [INFO] [Gamestore.Services.GameService] Deleting game with ID: f3a9a9e9-1d8d-4131-9e59-a823cb300965
+[2025-04-29 14:48:25.239] [INFO] [Gamestore.Services.GameService] Game with key: 123 deleted successfully
+[2025-04-29 14:48:25.251] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 14:48:25.255] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 14:49:22.454] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 14:49:22.458] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-29 14:52:00.816] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-29 14:52:01.133] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-29 14:52:01.189] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 14:52:01.253] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-29 14:52:01.868] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-29 14:52:01.966] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-29 14:52:44.577] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-29 14:52:44.582] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-29 14:52:47.203] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-29 14:52:47.207] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-29 14:52:47.815] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-29 14:52:47.818] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database

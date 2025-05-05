@@ -1,0 +1,1115 @@
+[2025-05-05 00:04:43.739] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:04:43.748] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 00:04:47.064] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:47.065] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:47.082] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:48.179] [INFO] [Gamestore.Services.GenreService] Starting delete genre operation for ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:48.179] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:48.185] [INFO] [Gamestore.Services.GenreService] Validating if genre can be deleted for ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:48.185] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:48.187] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:48.192] [INFO] [Gamestore.Services.GenreService] Genre with ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc has sub-genres: False
+[2025-05-05 00:04:48.192] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:48.194] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:48.199] [INFO] [Gamestore.Services.GenreService] Genre with ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc is used by games: False
+[2025-05-05 00:04:48.200] [INFO] [Gamestore.Services.GenreService] Deleting genre with ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:48.253] [INFO] [Gamestore.Services.GenreService] Successfully deleted genre with ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:48.264] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:04:48.267] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:09:29.167] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:09:29.223] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:09:30.721] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:09:30.725] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:11:35.083] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:11:35.085] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:11:56.676] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:11:56.680] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:12:10.088] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 00:12:10.089] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 00:12:10.132] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 00:12:10.139] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:12:10.142] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:12:28.568] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:12:28.571] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:14:14.958] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:14:15.012] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:14:15.624] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:14:15.629] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:17:30.519] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:17:30.574] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:17:31.955] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:17:31.960] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:17:43.808] [INFO] [Gamestore.Services.GenreService] Starting create or update genre operation for ID: 00000000-0000-0000-0000-000000000000
+[2025-05-05 00:17:43.810] [INFO] [Gamestore.Services.GenreService] Getting genre entity for ID: 00000000-0000-0000-0000-000000000000
+[2025-05-05 00:17:43.898] [INFO] [Gamestore.Services.GenreService] No existing genre found with ID: 00000000-0000-0000-0000-000000000000 - will create new genre
+[2025-05-05 00:17:43.898] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: 123
+[2025-05-05 00:17:43.900] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 123
+[2025-05-05 00:17:43.902] [INFO] [Gamestore.Services.GenreService] Created new genre entity with ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:17:43.963] [INFO] [Gamestore.Services.GenreService] Added new genre to repository with ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:17:43.964] [INFO] [Gamestore.Services.GenreService] Successfully saved genre with ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:17:43.975] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:17:43.978] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 00:17:53.222] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:17:53.226] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 00:18:03.856] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:18:03.860] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 00:18:15.286] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:18:15.289] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 00:18:28.828] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:18:28.881] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 00:18:33.827] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:18:33.831] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 00:19:00.583] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:19:00.587] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 00:19:46.034] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:19:46.110] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 00:19:47.431] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:47.432] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:47.474] [INFO] [Gamestore.Services.GenreService] Genre found with ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:48.210] [INFO] [Gamestore.Services.GenreService] Starting delete genre operation for ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:48.211] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:48.216] [INFO] [Gamestore.Services.GenreService] Validating if genre can be deleted for ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:48.217] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:48.218] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:48.221] [INFO] [Gamestore.Services.GenreService] Genre with ID: dd7cf519-1048-4c2c-956f-a86969cc626c has sub-genres: False
+[2025-05-05 00:19:48.222] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:48.224] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:48.234] [INFO] [Gamestore.Services.GenreService] Genre with ID: dd7cf519-1048-4c2c-956f-a86969cc626c is used by games: False
+[2025-05-05 00:19:48.235] [INFO] [Gamestore.Services.GenreService] Deleting genre with ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:48.290] [INFO] [Gamestore.Services.GenreService] Successfully deleted genre with ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:48.301] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:19:48.303] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:36:04.201] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:36:04.256] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:36:08.192] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:36:08.196] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:37:30.630] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:37:30.684] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:37:31.398] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:37:31.402] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:43:54.557] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:43:54.611] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:43:58.265] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:43:58.270] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:55:44.814] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:55:44.869] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:55:46.944] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:55:46.948] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:57:20.727] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:57:20.782] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:57:20.992] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:57:20.996] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:58:31.243] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:58:31.301] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:58:31.808] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 00:58:31.812] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 00:58:45.802] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 00:58:45.803] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 00:58:45.804] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 00:58:45.843] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating genre with name: (null)
+Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateNewGenreEntity(GenreDtoCreate genre) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 218
+   at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 23
+[2025-05-05 01:00:07.538] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:00:15.106] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:00:17.623] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:04:15.202] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:04:15.264] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 01:04:16.101] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:04:16.106] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 01:04:20.027] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:04:23.172] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:04:23.173] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:04:23.208] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating genre with name: (null)
+Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateNewGenreEntity(GenreDtoCreate genre) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 218
+   at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 23
+[2025-05-05 01:15:27.519] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:15:31.722] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:15:41.771] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:18:59.803] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:18:59.858] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 01:19:00.298] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:19:00.302] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 01:19:02.770] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:19:04.863] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:19:04.864] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:19:04.902] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating genre with name: (null)
+Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateNewGenreEntity(GenreDtoCreate genre) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 222
+   at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 23
+[2025-05-05 01:19:10.579] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:19:12.928] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:19:12.928] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:19:12.942] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating genre with name: (null)
+Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateNewGenreEntity(GenreDtoCreate genre) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 222
+   at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 23
+[2025-05-05 01:19:16.473] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:19:20.561] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:19:20.562] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:19:20.577] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating genre with name: (null)
+Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateNewGenreEntity(GenreDtoCreate genre) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 222
+   at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 23
+[2025-05-05 01:20:48.478] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: string
+[2025-05-05 01:20:50.848] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: string
+[2025-05-05 01:20:50.850] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: string
+[2025-05-05 01:20:50.908] [INFO] [Gamestore.Services.GenreService] Created new genre entity with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 01:20:50.979] [INFO] [Gamestore.Services.GenreService] Added new genre to repository with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 01:20:50.981] [INFO] [Gamestore.Services.GenreService] Successfully saved new genre with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 01:22:00.285] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: string2
+[2025-05-05 01:22:02.040] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: string2
+[2025-05-05 01:22:02.041] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: string2
+[2025-05-05 01:22:02.044] [INFO] [Gamestore.Services.GenreService] Validating parent genre existence for parent ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 01:22:02.048] [INFO] [Gamestore.Services.GenreService] Created new genre entity with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 01:22:02.062] [INFO] [Gamestore.Services.GenreService] Added new genre to repository with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 01:22:02.063] [INFO] [Gamestore.Services.GenreService] Successfully saved new genre with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 01:23:12.892] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:23:12.896] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:23:14.941] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:23:14.944] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:23:30.971] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:23:32.840] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:23:32.841] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:23:32.869] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating genre with name: (null)
+Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateNewGenreEntity(GenreDtoCreate genre) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 222
+   at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 23
+[2025-05-05 01:24:46.556] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:24:46.618] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:24:46.792] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:24:46.796] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:24:49.324] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:24:51.292] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:24:51.293] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:24:51.333] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating genre with name: (null)
+Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateNewGenreEntity(GenreDtoCreate genre) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 222
+   at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 23
+[2025-05-05 01:25:00.817] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:25:02.687] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:25:02.688] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:25:02.702] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating genre with name: (null)
+Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateNewGenreEntity(GenreDtoCreate genre) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 222
+   at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 23
+[2025-05-05 01:26:38.039] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:26:38.103] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:26:38.631] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:26:38.635] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:26:42.959] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:26:45.647] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:26:45.649] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:26:45.729] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating genre with name: (null)
+Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateNewGenreEntity(GenreDtoCreate genre) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 222
+   at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 23
+[2025-05-05 01:27:31.858] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:27:31.925] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:27:34.656] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:27:34.660] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:27:39.543] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:27:41.607] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:27:41.609] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:27:41.644] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating genre with name: (null)
+Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateNewGenreEntity(GenreDtoCreate genre) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 222
+   at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 23
+[2025-05-05 01:30:05.780] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:30:05.846] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:30:09.270] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:30:09.274] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:30:15.636] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:30:17.996] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:30:17.997] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:30:18.035] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating genre with name: (null)
+Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateNewGenreEntity(GenreDtoCreate genre) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 222
+   at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 23
+[2025-05-05 01:32:36.807] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:32:36.872] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:32:37.251] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:32:37.256] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:32:43.151] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:32:51.105] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:32:51.106] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:32:51.145] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating genre with name: (null)
+Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateNewGenreEntity(GenreDtoCreate genre) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 227
+   at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 23
+[2025-05-05 01:33:13.275] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:33:13.340] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:33:13.688] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:33:13.692] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:33:18.786] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: (null)
+[2025-05-05 01:33:20.733] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: (null)
+[2025-05-05 01:33:20.734] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 
+[2025-05-05 01:33:20.773] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating genre with name: (null)
+Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateNewGenreEntity(GenreDtoCreate genre) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 227
+   at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 23
+[2025-05-05 01:55:11.846] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:55:11.908] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:55:14.116] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:55:14.120] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:55:39.706] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:55:39.768] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:55:41.755] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:55:41.760] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:56:13.620] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:56:13.625] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 01:56:17.607] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: sfa
+[2025-05-05 01:56:17.608] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: sfa
+[2025-05-05 01:56:17.609] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: sfa
+[2025-05-05 01:56:17.613] [INFO] [Gamestore.Services.GenreService] Created new genre entity with ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 01:56:17.680] [INFO] [Gamestore.Services.GenreService] Added new genre to repository with ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 01:56:17.681] [INFO] [Gamestore.Services.GenreService] Successfully saved new genre with ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 01:56:17.702] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:56:17.706] [INFO] [Gamestore.Services.GenreService] Retrieved 9 genres from database
+[2025-05-05 01:57:51.442] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:57:51.506] [INFO] [Gamestore.Services.GenreService] Retrieved 9 genres from database
+[2025-05-05 01:57:53.546] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:57:53.550] [INFO] [Gamestore.Services.GenreService] Retrieved 9 genres from database
+[2025-05-05 01:57:58.035] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: asfas
+[2025-05-05 01:57:58.036] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: asfas
+[2025-05-05 01:57:58.037] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: asfas
+[2025-05-05 01:57:58.041] [INFO] [Gamestore.Services.GenreService] Created new genre entity with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 01:57:58.109] [INFO] [Gamestore.Services.GenreService] Added new genre to repository with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 01:57:58.110] [INFO] [Gamestore.Services.GenreService] Successfully saved new genre with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 01:57:58.132] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:57:58.136] [INFO] [Gamestore.Services.GenreService] Retrieved 10 genres from database
+[2025-05-05 01:58:52.789] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:58:52.853] [INFO] [Gamestore.Services.GenreService] Retrieved 10 genres from database
+[2025-05-05 01:58:53.221] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 01:58:53.225] [INFO] [Gamestore.Services.GenreService] Retrieved 10 genres from database
+[2025-05-05 02:05:17.989] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 02:05:18.051] [INFO] [Gamestore.Services.GenreService] Retrieved 10 genres from database
+[2025-05-05 02:11:21.441] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 02:11:21.504] [INFO] [Gamestore.Services.GenreService] Retrieved 10 genres from database
+[2025-05-05 02:11:44.238] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 02:11:44.243] [INFO] [Gamestore.Services.GenreService] Retrieved 10 genres from database
+[2025-05-05 02:11:48.543] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: bjn
+[2025-05-05 02:11:48.544] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: bjn
+[2025-05-05 02:11:48.546] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: bjn
+[2025-05-05 02:11:48.551] [INFO] [Gamestore.Services.GenreService] Validating parent genre existence for parent ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 02:11:48.554] [INFO] [Gamestore.Services.GenreService] Created new genre entity with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:11:48.623] [INFO] [Gamestore.Services.GenreService] Added new genre to repository with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:11:48.625] [INFO] [Gamestore.Services.GenreService] Successfully saved new genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:11:48.646] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 02:11:48.650] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 02:12:01.124] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:12:01.125] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:12:01.156] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:13:24.920] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 02:13:24.984] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 02:13:31.362] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:13:31.363] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:13:31.406] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:21:13.150] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 02:21:13.218] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 02:21:14.588] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:21:14.589] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:21:14.633] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:21:32.936] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 02:21:32.940] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 02:41:59.162] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 02:41:59.185] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 02:42:19.199] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 02:42:19.202] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 02:42:39.128] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:42:39.130] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:42:39.137] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:45:00.102] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 02:45:00.165] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 02:45:07.624] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:45:07.626] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:45:07.673] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:46:28.693] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 02:46:28.696] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 02:46:33.270] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:46:33.271] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:46:33.277] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:52:12.188] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 02:52:12.251] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 02:52:17.913] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 02:52:17.914] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 02:52:17.961] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 02:53:00.137] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 02:53:00.200] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 02:53:05.078] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:53:05.079] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:53:05.122] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:06:56.951] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:06:57.014] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 03:07:02.104] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:07:02.106] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:07:02.148] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:11:14.002] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:11:14.079] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 03:11:16.872] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:11:16.873] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:11:16.918] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:15:35.431] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:15:35.495] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 03:15:38.083] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:15:38.084] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:15:38.129] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:16:12.137] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:16:12.205] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 03:16:13.268] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:16:13.269] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:16:13.312] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:20:30.445] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:20:30.510] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 03:20:37.303] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:20:37.305] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:20:37.350] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:20:51.356] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:20:51.360] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 03:20:52.821] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:20:52.822] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:20:52.828] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:21:36.833] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:21:36.899] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 03:21:44.617] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:21:44.619] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:21:44.662] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:22:34.318] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:22:34.319] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:22:34.324] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:23:20.479] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:23:20.485] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 03:23:25.172] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:23:25.173] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:23:25.197] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:26:27.980] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 95c0c86c-9006-4901-ad27-cc7449b44d38
+[2025-05-05 03:26:27.982] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 95c0c86c-9006-4901-ad27-cc7449b44d38
+[2025-05-05 03:26:27.986] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 95c0c86c-9006-4901-ad27-cc7449b44d38
+[2025-05-05 03:27:27.119] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:27:27.183] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 03:27:33.871] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:27:33.872] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:27:33.915] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:28:35.996] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:28:36.062] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 03:28:42.436] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:28:42.437] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:28:42.491] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:29:09.339] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:29:09.406] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 03:29:11.108] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:29:11.109] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:29:11.152] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:29:33.104] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:29:33.108] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 03:29:39.596] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:29:39.597] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:29:39.603] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:04.448] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:32:04.517] [INFO] [Gamestore.Services.GenreService] Retrieved 11 genres from database
+[2025-05-05 03:32:07.738] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:07.740] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:07.782] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:22.218] [INFO] [Gamestore.Services.GenreService] Starting delete genre operation for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:22.219] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:22.225] [INFO] [Gamestore.Services.GenreService] Validating if genre can be deleted for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:22.226] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:22.227] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:22.230] [INFO] [Gamestore.Services.GenreService] Genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8 has sub-genres: False
+[2025-05-05 03:32:22.231] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:22.232] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:22.243] [INFO] [Gamestore.Services.GenreService] Genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8 is used by games: False
+[2025-05-05 03:32:22.244] [INFO] [Gamestore.Services.GenreService] Deleting genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:22.300] [INFO] [Gamestore.Services.GenreService] Successfully deleted genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:22.313] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:32:22.317] [INFO] [Gamestore.Services.GenreService] Retrieved 10 genres from database
+[2025-05-05 03:33:08.089] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:33:08.153] [INFO] [Gamestore.Services.GenreService] Retrieved 10 genres from database
+[2025-05-05 03:33:15.653] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:15.654] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:15.697] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:20.692] [INFO] [Gamestore.Services.GenreService] Starting delete genre operation for ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:20.693] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:20.698] [INFO] [Gamestore.Services.GenreService] Validating if genre can be deleted for ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:20.699] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:20.701] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:20.703] [INFO] [Gamestore.Services.GenreService] Genre with ID: 89733b49-125e-4df0-9f33-db293cae550f has sub-genres: False
+[2025-05-05 03:33:20.704] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:20.705] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:20.716] [INFO] [Gamestore.Services.GenreService] Genre with ID: 89733b49-125e-4df0-9f33-db293cae550f is used by games: False
+[2025-05-05 03:33:20.717] [INFO] [Gamestore.Services.GenreService] Deleting genre with ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:20.767] [INFO] [Gamestore.Services.GenreService] Successfully deleted genre with ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:20.780] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:33:20.784] [INFO] [Gamestore.Services.GenreService] Retrieved 9 genres from database
+[2025-05-05 03:33:23.565] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:23.566] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:23.570] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:24.279] [INFO] [Gamestore.Services.GenreService] Starting delete genre operation for ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:24.279] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:24.283] [INFO] [Gamestore.Services.GenreService] Validating if genre can be deleted for ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:24.284] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:24.285] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:24.287] [INFO] [Gamestore.Services.GenreService] Genre with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d has sub-genres: False
+[2025-05-05 03:33:24.288] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:24.289] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:24.291] [INFO] [Gamestore.Services.GenreService] Genre with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d is used by games: False
+[2025-05-05 03:33:24.292] [INFO] [Gamestore.Services.GenreService] Deleting genre with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:24.298] [INFO] [Gamestore.Services.GenreService] Successfully deleted genre with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:24.309] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:33:24.311] [INFO] [Gamestore.Services.GenreService] Retrieved 8 genres from database
+[2025-05-05 03:33:27.068] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.069] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.072] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.795] [INFO] [Gamestore.Services.GenreService] Starting delete genre operation for ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.796] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.799] [INFO] [Gamestore.Services.GenreService] Validating if genre can be deleted for ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.800] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.801] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.804] [INFO] [Gamestore.Services.GenreService] Genre with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726 has sub-genres: False
+[2025-05-05 03:33:27.805] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.806] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.809] [INFO] [Gamestore.Services.GenreService] Genre with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726 is used by games: False
+[2025-05-05 03:33:27.809] [INFO] [Gamestore.Services.GenreService] Deleting genre with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.813] [INFO] [Gamestore.Services.GenreService] Successfully deleted genre with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.824] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:33:27.827] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:33:29.952] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:29.953] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:29.956] [INFO] [Gamestore.Services.GenreService] Genre found with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:30.579] [INFO] [Gamestore.Services.GenreService] Starting delete genre operation for ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:30.580] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:30.583] [INFO] [Gamestore.Services.GenreService] Validating if genre can be deleted for ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:30.584] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:30.585] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:30.587] [INFO] [Gamestore.Services.GenreService] Genre with ID: e3577c38-1eb1-449d-87c3-e71888acb01f has sub-genres: False
+[2025-05-05 03:33:30.588] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:30.589] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:30.591] [INFO] [Gamestore.Services.GenreService] Genre with ID: e3577c38-1eb1-449d-87c3-e71888acb01f is used by games: False
+[2025-05-05 03:33:30.592] [INFO] [Gamestore.Services.GenreService] Deleting genre with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:30.595] [INFO] [Gamestore.Services.GenreService] Successfully deleted genre with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:30.604] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:33:30.607] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 03:33:34.831] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:33:34.835] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 03:33:37.821] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: 123
+[2025-05-05 03:33:37.822] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: 123
+[2025-05-05 03:33:37.823] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 123
+[2025-05-05 03:33:37.827] [INFO] [Gamestore.Services.GenreService] Validating parent genre existence for parent ID: 95c0c86c-9006-4901-ad27-cc7449b44d38
+[2025-05-05 03:33:37.828] [INFO] [Gamestore.Services.GenreService] Created new genre entity with ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:37.849] [INFO] [Gamestore.Services.GenreService] Added new genre to repository with ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:37.849] [INFO] [Gamestore.Services.GenreService] Successfully saved new genre with ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:37.871] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:33:37.874] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:33:38.888] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:38.888] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:38.892] [INFO] [Gamestore.Services.GenreService] Genre found with ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:39.474] [INFO] [Gamestore.Services.GenreService] Starting delete genre operation for ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:39.475] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:39.478] [INFO] [Gamestore.Services.GenreService] Validating if genre can be deleted for ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:39.479] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:39.480] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:39.482] [INFO] [Gamestore.Services.GenreService] Genre with ID: d38be053-0ba9-43b5-9600-1910947421d5 has sub-genres: False
+[2025-05-05 03:33:39.483] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:39.484] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:39.487] [INFO] [Gamestore.Services.GenreService] Genre with ID: d38be053-0ba9-43b5-9600-1910947421d5 is used by games: False
+[2025-05-05 03:33:39.487] [INFO] [Gamestore.Services.GenreService] Deleting genre with ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:39.495] [INFO] [Gamestore.Services.GenreService] Successfully deleted genre with ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:39.504] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:33:39.507] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 03:33:40.421] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:33:40.425] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 03:33:42.801] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: 123
+[2025-05-05 03:33:42.802] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: 123
+[2025-05-05 03:33:42.803] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 123
+[2025-05-05 03:33:42.806] [INFO] [Gamestore.Services.GenreService] Validating parent genre existence for parent ID: 95c0c86c-9006-4901-ad27-cc7449b44d38
+[2025-05-05 03:33:42.807] [INFO] [Gamestore.Services.GenreService] Created new genre entity with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:33:42.810] [INFO] [Gamestore.Services.GenreService] Added new genre to repository with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:33:42.811] [INFO] [Gamestore.Services.GenreService] Successfully saved new genre with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:33:42.822] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:33:42.824] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:33:44.804] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:33:44.805] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:33:44.808] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:33:44.821] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:33:44.824] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:34:59.381] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:34:59.384] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:35:00.926] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:35:00.928] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:35:00.931] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:35:00.948] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:35:01.012] [WARN] [Gamestore.Services.GenreService] Game not found for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:35:01.060] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 03:35:12.532] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:35:12.535] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:36:34.070] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:36:34.137] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:36:41.126] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:36:41.127] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:36:41.170] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:36:41.179] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:36:41.183] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:39:14.989] [INFO] [Gamestore.Services.GenreService] Starting update genre operation for ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:39:14.990] [INFO] [Gamestore.Services.GenreService] Getting genre entity for ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:39:15.056] [ERROR] [Gamestore.Services.GenreService] Error occurred while updating genre with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+Exception: System.Collections.Generic.KeyNotFoundException: Entity not found.
+Stack Trace:    at Gamestore.Data.Repository.Repository`1.GetByIdAsync(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Data\Repository\Repository.cs:line 21
+   at Gamestore.Services.GenreService.GetGenreEntityAsync(Guid genreId) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 199
+   at Gamestore.Services.GenreService.UpdateGenre(Guid id, GenreRequestDto genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 55
+[2025-05-05 03:39:49.156] [INFO] [Gamestore.Services.GenreService] Starting update genre operation for ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:39:49.157] [INFO] [Gamestore.Services.GenreService] Getting genre entity for ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:39:49.160] [INFO] [Gamestore.Services.GenreService] Found existing genre with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:39:49.161] [INFO] [Gamestore.Services.GenreService] Genre name changed from 'Action' to 'stringTEST' - validating uniqueness
+[2025-05-05 03:39:49.162] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: stringTEST
+[2025-05-05 03:39:49.214] [INFO] [Gamestore.Services.GenreService] Successfully updated genre with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:41:26.142] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:41:26.219] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:41:29.316] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:41:29.318] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:41:29.361] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:41:29.370] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:41:29.374] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:41:49.538] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:41:49.542] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:41:51.576] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:41:51.577] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:41:51.582] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:41:51.593] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:41:51.596] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:45:39.443] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:45:39.508] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:45:44.411] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:45:44.413] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:45:44.458] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:45:44.468] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:45:44.471] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:47:15.687] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:47:15.691] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:47:17.847] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:47:17.848] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:47:17.853] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:47:17.864] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:47:17.867] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:54:47.223] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:54:47.227] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:54:56.646] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:54:56.647] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:54:56.652] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:54:56.668] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:54:56.735] [WARN] [Gamestore.Services.GenreService] Game not found for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:54:56.789] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 03:55:04.718] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:55:04.722] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:55:06.797] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:06.798] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:06.802] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:06.815] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:06.819] [WARN] [Gamestore.Services.GenreService] Game not found for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:06.847] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 03:55:38.585] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:55:38.588] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:55:41.934] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:41.935] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:41.938] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:41.951] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:41.959] [WARN] [Gamestore.Services.GenreService] Game not found for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:41.984] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 03:56:11.586] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:56:11.589] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-05-05 03:56:25.519] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:25.520] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:25.524] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:26.599] [INFO] [Gamestore.Services.GenreService] Starting delete genre operation for ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:26.600] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:26.605] [INFO] [Gamestore.Services.GenreService] Validating if genre can be deleted for ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:26.606] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:26.607] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:26.613] [INFO] [Gamestore.Services.GenreService] Genre with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644 has sub-genres: False
+[2025-05-05 03:56:26.614] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:26.615] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:26.624] [INFO] [Gamestore.Services.GenreService] Genre with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644 is used by games: False
+[2025-05-05 03:56:26.625] [INFO] [Gamestore.Services.GenreService] Deleting genre with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:26.685] [INFO] [Gamestore.Services.GenreService] Successfully deleted genre with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:26.697] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:56:26.700] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 03:56:32.294] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.295] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.298] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.977] [INFO] [Gamestore.Services.GenreService] Starting delete genre operation for ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.978] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.981] [INFO] [Gamestore.Services.GenreService] Validating if genre can be deleted for ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.982] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.983] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.986] [INFO] [Gamestore.Services.GenreService] Genre with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab has sub-genres: False
+[2025-05-05 03:56:32.987] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.988] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.990] [INFO] [Gamestore.Services.GenreService] Genre with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab is used by games: False
+[2025-05-05 03:56:32.991] [INFO] [Gamestore.Services.GenreService] Deleting genre with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.994] [INFO] [Gamestore.Services.GenreService] Successfully deleted genre with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:33.007] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 03:56:33.011] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 04:50:31.347] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 04:50:31.375] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 04:57:53.580] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 04:57:53.601] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 04:59:00.674] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 04:59:00.687] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 04:59:16.651] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 04:59:16.662] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 05:00:54.235] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 05:00:54.250] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 05:03:27.168] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 05:03:27.172] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 05:03:31.884] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:03:31.886] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:03:31.898] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:03:31.906] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 05:03:31.909] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 05:22:55.991] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 05:22:56.047] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 05:23:06.677] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 05:23:06.682] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 05:23:17.060] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: 123
+[2025-05-05 05:23:17.062] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: 123
+[2025-05-05 05:23:17.063] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 123
+[2025-05-05 05:23:17.067] [INFO] [Gamestore.Services.GenreService] Validating parent genre existence for parent ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:23:17.071] [INFO] [Gamestore.Services.GenreService] Created new genre entity with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:23:17.152] [INFO] [Gamestore.Services.GenreService] Added new genre to repository with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:23:17.153] [INFO] [Gamestore.Services.GenreService] Successfully saved new genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:23:17.177] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 05:23:17.183] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 05:26:15.980] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 05:26:16.046] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 05:26:18.872] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:26:18.873] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:26:18.918] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:26:18.933] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:26:19.003] [WARN] [Gamestore.Services.GenreService] Game not found for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:26:19.054] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 05:26:27.454] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 05:26:27.458] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 05:26:32.096] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:26:32.097] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:26:32.102] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:26:32.114] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:26:32.115] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:26:32.116] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:26:32.124] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:26:32.131] [WARN] [Gamestore.Services.GenreService] Game not found for key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:26:32.159] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 05:27:25.949] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 05:27:26.017] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 05:27:27.854] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:27.855] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:27.898] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:27.909] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:27.910] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:27.913] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:27.917] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:27.986] [WARN] [Gamestore.Services.GenreService] Game not found for key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:28.037] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 05:27:32.755] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 05:27:32.760] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 05:27:38.893] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:38.894] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:38.898] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:38.911] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:38.912] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:38.913] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:38.920] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:38.926] [WARN] [Gamestore.Services.GenreService] Game not found for key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:38.951] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 05:27:51.692] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:51.693] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:51.698] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:51.712] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:51.713] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:51.714] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:51.720] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:51.725] [WARN] [Gamestore.Services.GenreService] Game not found for key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:51.753] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 05:28:00.497] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 05:28:00.502] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 05:28:02.775] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:28:02.776] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:28:02.781] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:28:02.796] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:28:02.797] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:28:02.799] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:28:02.805] [WARN] [Gamestore.Services.GenreService] Game not found for key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:28:02.806] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:28:02.835] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 05:29:27.900] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:27.908] [WARN] [Gamestore.Services.GenreService] Game not found for key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:27.933] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 05:29:48.306] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 05:29:48.313] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 05:29:50.801] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:50.802] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:50.807] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:51.924] [INFO] [Gamestore.Services.GenreService] Starting delete genre operation for ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:51.925] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:51.932] [INFO] [Gamestore.Services.GenreService] Validating if genre can be deleted for ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:51.933] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:51.934] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:51.939] [INFO] [Gamestore.Services.GenreService] Genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5 has sub-genres: False
+[2025-05-05 05:29:51.940] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:51.941] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:51.948] [INFO] [Gamestore.Services.GenreService] Genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5 is used by games: False
+[2025-05-05 05:29:51.949] [INFO] [Gamestore.Services.GenreService] Deleting genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:52.007] [INFO] [Gamestore.Services.GenreService] Successfully deleted genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:52.020] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 05:29:52.024] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 06:50:24.298] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 06:50:24.321] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 07:00:45.218] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 07:00:45.244] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 07:00:53.090] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 07:00:53.100] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 08:02:58.039] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 08:02:58.048] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 08:02:59.251] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:02:59.253] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:02:59.269] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:02:59.282] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:02:59.292] [WARN] [Gamestore.Services.GenreService] Game not found for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:02:59.348] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 08:03:05.214] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 08:03:05.218] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 08:03:06.222] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:03:06.223] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:03:06.227] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:03:06.241] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:03:06.246] [WARN] [Gamestore.Services.GenreService] Game not found for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:03:06.268] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 13:12:04.855] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 13:12:04.870] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 13:12:07.845] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 13:12:07.846] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 13:12:07.888] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 13:12:07.898] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 13:12:07.902] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 13:12:28.151] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 13:12:28.158] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 13:12:44.271] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 13:12:44.282] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 13:12:56.833] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 13:12:56.843] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 15:31:06.241] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 15:31:06.301] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 15:31:09.003] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:31:09.004] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:31:09.047] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:31:09.057] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 15:31:09.060] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 15:35:48.987] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:35:48.988] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:35:48.994] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:35:49.014] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:35:49.085] [WARN] [Gamestore.Services.GenreService] Game not found for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:35:49.141] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 15:39:35.436] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 15:39:35.491] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 15:39:36.350] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:39:36.351] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:39:36.395] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:21.013] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:21.015] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:21.019] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:21.031] [INFO] [Gamestore.Services.GenreService] Starting get genres by game key operation for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:21.103] [WARN] [Gamestore.Services.GenreService] Game not found for key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:21.152] [ERROR] [Gamestore.Services.GenreService] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGameByKeyAsync(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 412
+   at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 185
+[2025-05-05 15:41:23.377] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 15:41:23.381] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 15:41:24.513] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:24.514] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:24.518] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:24.529] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 15:41:24.532] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 15:44:45.886] [INFO] [Gamestore.Services.GenreService] Starting update genre operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:44:45.887] [INFO] [Gamestore.Services.GenreService] Getting genre entity for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:44:45.891] [INFO] [Gamestore.Services.GenreService] Found existing genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:44:45.892] [INFO] [Gamestore.Services.GenreService] Genre name changed from 'Adventure' to 'string123' - validating uniqueness
+[2025-05-05 15:44:45.894] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: string123
+[2025-05-05 15:44:45.897] [INFO] [Gamestore.Services.GenreService] Validating genre hierarchy for genre ID: ca70f6be-bbd5-4ef2-8602-0446590c105c with parent ID: 85e13f87-0f54-4774-9fce-d225ef5e097e
+[2025-05-05 15:44:45.899] [INFO] [Gamestore.Services.GenreService] Validating genre hierarchy for genre ID: ca70f6be-bbd5-4ef2-8602-0446590c105c with parent ID: 85e13f87-0f54-4774-9fce-d225ef5e097e
+[2025-05-05 15:44:45.900] [INFO] [Gamestore.Services.GenreService] Checking for circular references in genre hierarchy
+[2025-05-05 15:44:45.961] [INFO] [Gamestore.Services.GenreService] Successfully updated genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:46:37.814] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 15:46:37.884] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 15:46:39.586] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:46:39.587] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:46:39.632] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:46:39.643] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 15:46:39.647] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 15:58:20.858] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 15:58:20.930] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 15:58:21.815] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:58:21.816] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:58:21.864] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:58:21.874] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 15:58:21.878] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 15:58:30.194] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 15:58:30.197] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 15:58:31.243] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:58:31.244] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:58:31.250] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:58:31.259] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 15:58:31.263] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 15:59:59.491] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 15:59:59.571] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:00:01.968] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:00:01.969] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:00:02.017] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:00:02.028] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:00:02.032] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:05:20.721] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:05:20.792] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:05:35.117] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:05:35.118] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:05:35.161] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:05:35.171] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:05:35.175] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:06:15.647] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:06:15.720] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:06:19.759] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:06:19.761] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:06:19.805] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:06:19.816] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:06:19.820] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:06:45.182] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:06:45.248] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:06:47.888] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:06:47.889] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:06:47.935] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:06:47.946] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:06:47.950] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:12:13.128] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:12:13.197] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:12:14.649] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:12:14.650] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:12:14.699] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:12:14.710] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:12:14.714] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:18:33.928] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:18:33.931] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:18:38.548] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:18:38.549] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:18:38.554] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:18:43.543] [INFO] [Gamestore.Services.GenreService] Starting delete genre operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:18:43.544] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:18:43.548] [INFO] [Gamestore.Services.GenreService] Validating if genre can be deleted for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:18:43.549] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:18:43.550] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:18:43.555] [INFO] [Gamestore.Services.GenreService] Genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c has sub-genres: False
+[2025-05-05 16:18:43.556] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:18:43.558] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:18:43.579] [INFO] [Gamestore.Services.GenreService] Genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c is used by games: True
+[2025-05-05 16:18:43.580] [WARN] [Gamestore.Services.GenreService] Cannot delete genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c because it is used by games
+[2025-05-05 16:18:43.630] [ERROR] [Gamestore.Services.GenreService] Error deleting genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.InvalidOperationException: Cannot delete a genre that is used by games. Please remove the genre from games first
+Stack Trace:    at Gamestore.Services.GenreService.ValidateGenreCanBeDeleted(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 392
+   at Gamestore.Services.GenreService.DeleteGenreById(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 155
+[2025-05-05 16:19:36.106] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:19:36.110] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:19:36.825] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:19:36.828] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:22:59.163] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:22:59.166] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:23:00.250] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:23:00.251] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:23:00.255] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:23:00.267] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:23:00.270] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:24:16.398] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:24:16.401] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:24:20.130] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:24:20.131] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:24:20.135] [INFO] [Gamestore.Services.GenreService] Genre found with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:24:25.527] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:24:25.530] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:24:26.463] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:24:26.466] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:24:40.369] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: 123444
+[2025-05-05 16:24:40.370] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: 123444
+[2025-05-05 16:24:40.372] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 123444
+[2025-05-05 16:24:40.412] [INFO] [Gamestore.Services.GenreService] Validating parent genre existence for parent ID: 85e13f87-0f54-4774-9fce-d225ef5e097e
+[2025-05-05 16:24:40.414] [INFO] [Gamestore.Services.GenreService] Created new genre entity with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:40.475] [INFO] [Gamestore.Services.GenreService] Added new genre to repository with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:40.476] [INFO] [Gamestore.Services.GenreService] Successfully saved new genre with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:40.500] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:24:40.503] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:24:47.296] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:47.297] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:47.301] [INFO] [Gamestore.Services.GenreService] Genre found with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:52.988] [INFO] [Gamestore.Services.GenreService] Starting delete genre operation for ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:52.989] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:52.992] [INFO] [Gamestore.Services.GenreService] Validating if genre can be deleted for ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:52.993] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:52.994] [INFO] [Gamestore.Services.GenreService] Checking if genre has sub-genres for ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:52.997] [INFO] [Gamestore.Services.GenreService] Genre with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7 has sub-genres: False
+[2025-05-05 16:24:52.998] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:52.999] [INFO] [Gamestore.Services.GenreService] Checking if genre is used by games for ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:53.001] [INFO] [Gamestore.Services.GenreService] Genre with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7 is used by games: False
+[2025-05-05 16:24:53.002] [INFO] [Gamestore.Services.GenreService] Deleting genre with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:53.016] [INFO] [Gamestore.Services.GenreService] Successfully deleted genre with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:53.027] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:24:53.031] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:24:57.195] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:24:57.199] [INFO] [Gamestore.Services.GenreService] Retrieved 5 genres from database
+[2025-05-05 16:25:00.386] [INFO] [Gamestore.Services.GenreService] Starting create genre operation for name: 123444
+[2025-05-05 16:25:00.387] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: 123444
+[2025-05-05 16:25:00.388] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: 123444
+[2025-05-05 16:25:00.392] [INFO] [Gamestore.Services.GenreService] Validating parent genre existence for parent ID: b63026f5-68fc-4602-95ae-49a99afb41b5
+[2025-05-05 16:25:00.393] [INFO] [Gamestore.Services.GenreService] Created new genre entity with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:25:00.399] [INFO] [Gamestore.Services.GenreService] Added new genre to repository with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:25:00.400] [INFO] [Gamestore.Services.GenreService] Successfully saved new genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:25:00.412] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:25:00.415] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:25:19.050] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:25:19.051] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:25:19.054] [INFO] [Gamestore.Services.GenreService] Genre found with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:27:56.514] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:27:56.516] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:27:58.247] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:27:58.249] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:27:58.252] [INFO] [Gamestore.Services.GenreService] Genre found with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:27:58.266] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:27:58.269] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:31:26.966] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:31:27.030] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:31:28.449] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:31:28.450] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:31:28.492] [INFO] [Gamestore.Services.GenreService] Genre found with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:31:28.503] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:31:28.507] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:31:59.833] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:31:59.921] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:32:02.919] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:32:02.924] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:32:03.554] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:32:03.558] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:32:06.920] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:32:06.922] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:32:06.972] [INFO] [Gamestore.Services.GenreService] Genre found with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:32:06.982] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:32:06.986] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:35:04.055] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:35:04.130] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:35:09.765] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:35:09.766] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:35:09.811] [INFO] [Gamestore.Services.GenreService] Genre found with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:35:09.821] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:35:09.825] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:35:46.547] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:35:46.615] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:35:47.618] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:35:47.620] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:35:47.663] [INFO] [Gamestore.Services.GenreService] Genre found with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:35:47.673] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:35:47.677] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:42:08.437] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:42:08.506] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:42:09.997] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:42:09.998] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:42:10.047] [INFO] [Gamestore.Services.GenreService] Genre found with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:42:10.058] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:42:10.062] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:43:29.164] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:43:29.233] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 16:43:30.619] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:43:30.620] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:43:30.665] [INFO] [Gamestore.Services.GenreService] Genre found with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:43:30.675] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 16:43:30.679] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 17:01:35.384] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 17:01:35.451] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 17:01:37.441] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:01:37.443] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:01:37.489] [INFO] [Gamestore.Services.GenreService] Genre found with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:01:37.501] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 17:01:37.505] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 17:02:10.474] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 17:02:10.541] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 17:02:14.120] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 17:02:14.125] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 17:02:14.770] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:02:14.771] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:02:14.818] [INFO] [Gamestore.Services.GenreService] Genre found with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:02:14.827] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 17:02:14.831] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 17:06:44.804] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 17:06:44.870] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 17:06:47.593] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:06:47.595] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:06:47.642] [INFO] [Gamestore.Services.GenreService] Genre found with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:06:47.655] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 17:06:47.660] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 17:07:54.803] [INFO] [Gamestore.Services.GenreService] Starting update genre operation for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 17:07:54.805] [INFO] [Gamestore.Services.GenreService] Getting genre entity for ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 17:07:54.814] [INFO] [Gamestore.Services.GenreService] Found existing genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 17:07:54.815] [INFO] [Gamestore.Services.GenreService] Genre name changed from 'string123' to 'string1234' - validating uniqueness
+[2025-05-05 17:07:54.817] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: string1234
+[2025-05-05 17:07:54.820] [INFO] [Gamestore.Services.GenreService] Validating genre hierarchy for genre ID: ca70f6be-bbd5-4ef2-8602-0446590c105c with parent ID: 85e13f87-0f54-4774-9fce-d225ef5e097e
+[2025-05-05 17:07:54.822] [INFO] [Gamestore.Services.GenreService] Checking for circular references in genre hierarchy
+[2025-05-05 17:07:54.869] [INFO] [Gamestore.Services.GenreService] Successfully updated genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 17:17:18.270] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 17:17:18.339] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 17:17:24.828] [INFO] [Gamestore.Services.GenreService] Starting get genre by ID operation for ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:17:24.830] [INFO] [Gamestore.Services.GenreService] Validating genre exists with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:17:24.874] [INFO] [Gamestore.Services.GenreService] Genre found with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:17:24.887] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-05-05 17:17:24.891] [INFO] [Gamestore.Services.GenreService] Retrieved 6 genres from database
+[2025-05-05 17:42:06.632] [INFO] [Gamestore.Services.GenreService] Starting update genre operation for ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6
+[2025-05-05 17:42:06.633] [INFO] [Gamestore.Services.GenreService] Getting genre entity for ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6
+[2025-05-05 17:42:06.702] [ERROR] [Gamestore.Services.GenreService] Error occurred while updating genre with ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6
+Exception: System.Collections.Generic.KeyNotFoundException: Entity not found.
+Stack Trace:    at Gamestore.Data.Repository.Repository`1.GetByIdAsync(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Data\Repository\Repository.cs:line 21
+   at Gamestore.Services.GenreService.GetGenreEntityAsync(Guid genreId) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 197
+   at Gamestore.Services.GenreService.UpdateGenre(Guid id, GenreUpdateDto genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 54

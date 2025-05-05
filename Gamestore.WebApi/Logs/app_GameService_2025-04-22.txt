@@ -1,0 +1,117 @@
+[2025-04-22 15:16:33.554] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-22 15:16:34.835] [INFO] [Gamestore.Services.GameService] Total games count: 10
+[2025-04-22 15:21:51.439] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-22 15:21:51.854] [INFO] [Gamestore.Services.GameService] Total games count: 0
+[2025-04-22 15:25:12.734] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-22 15:25:13.104] [INFO] [Gamestore.Services.GameService] Total games count: 0
+[2025-04-22 15:26:44.390] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-22 15:26:44.700] [INFO] [Gamestore.Services.GameService] Total games count: 0
+[2025-04-22 15:27:46.704] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-22 15:27:46.708] [INFO] [Gamestore.Services.GameService] Total games count: 0
+[2025-04-22 15:29:18.785] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-22 15:29:19.198] [INFO] [Gamestore.Services.GameService] Total games count: 0
+[2025-04-22 15:47:54.002] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-22 15:47:54.335] [INFO] [Gamestore.Services.GameService] Total games count: 0
+[2025-04-22 15:55:03.048] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-22 15:55:03.365] [INFO] [Gamestore.Services.GameService] Total games count: 0
+[2025-04-22 15:55:33.173] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: string
+[2025-04-22 15:55:33.276] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: string
+[2025-04-22 15:55:33.449] [ERROR] [Gamestore.Services.GameService] Error occurred while adding or updating game with key: string
+Exception: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+Inner Exception: Microsoft.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Games_Publishers_PublisherId". The conflict occurred in database "GamesDb", table "dbo.Publishers", column 'Id'.
+The statement has been terminated.
+Stack Trace:    at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Gamestore.Data.Repository.Repository`1.AddAsync(T entity) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Data\Repository\Repository.cs:line 32
+   at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 35
+[2025-04-22 16:30:35.679] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-22 16:30:36.080] [INFO] [Gamestore.Services.GameService] Total games count: 0
+[2025-04-22 16:30:47.012] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: string
+[2025-04-22 16:30:47.117] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: string
+[2025-04-22 16:30:47.294] [ERROR] [Gamestore.Services.GameService] Error occurred while adding or updating game with key: string
+Exception: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+Inner Exception: Microsoft.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Games_Publishers_PublisherId". The conflict occurred in database "GamesDb", table "dbo.Publishers", column 'Id'.
+The statement has been terminated.
+Stack Trace:    at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Gamestore.Data.Repository.Repository`1.AddAsync(T entity) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Data\Repository\Repository.cs:line 32
+   at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 38
+[2025-04-22 16:31:40.174] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-22 16:31:40.178] [INFO] [Gamestore.Services.GameService] Total games count: 0
+[2025-04-22 16:31:40.182] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: string
+[2025-04-22 16:31:40.185] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: string
+[2025-04-22 16:31:40.230] [ERROR] [Gamestore.Services.GameService] Error occurred while adding or updating game with key: string
+Exception: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+Inner Exception: Microsoft.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Games_Publishers_PublisherId". The conflict occurred in database "GamesDb", table "dbo.Publishers", column 'Id'.
+The statement has been terminated.
+Stack Trace:    at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Gamestore.Data.Repository.Repository`1.AddAsync(T entity) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Data\Repository\Repository.cs:line 32
+   at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 38
+[2025-04-22 16:34:09.255] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-22 16:34:09.258] [INFO] [Gamestore.Services.GameService] Total games count: 0
+[2025-04-22 16:34:09.260] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: string
+[2025-04-22 16:34:09.263] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: string
+[2025-04-22 16:34:09.304] [ERROR] [Gamestore.Services.GameService] Error occurred while adding or updating game with key: string
+Exception: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+Inner Exception: Microsoft.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Games_Publishers_PublisherId". The conflict occurred in database "GamesDb", table "dbo.Publishers", column 'Id'.
+The statement has been terminated.
+Stack Trace:    at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Gamestore.Data.Repository.Repository`1.AddAsync(T entity) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Data\Repository\Repository.cs:line 32
+   at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 38
+[2025-04-22 16:34:21.691] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: string
+[2025-04-22 16:34:21.694] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: string
+[2025-04-22 16:34:21.735] [ERROR] [Gamestore.Services.GameService] Error occurred while adding or updating game with key: string
+Exception: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+Inner Exception: Microsoft.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Games_Publishers_PublisherId". The conflict occurred in database "GamesDb", table "dbo.Publishers", column 'Id'.
+The statement has been terminated.
+Stack Trace:    at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Gamestore.Data.Repository.Repository`1.AddAsync(T entity) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Data\Repository\Repository.cs:line 32
+   at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 38

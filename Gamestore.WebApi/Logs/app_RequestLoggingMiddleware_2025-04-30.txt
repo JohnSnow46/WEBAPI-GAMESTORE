@@ -1,0 +1,1795 @@
+[2025-04-30 15:56:56.222] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/index.html | Status: 304 | Duration: 13ms | Request:  | Response: 
+[2025-04-30 15:56:56.239] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/styles.css | Status: 304 | Duration: 0ms | Request:  | Response: 
+[2025-04-30 15:56:56.257] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/runtime.js | Status: 304 | Duration: 0ms | Request:  | Response: 
+[2025-04-30 15:56:56.259] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/polyfills.js | Status: 304 | Duration: 0ms | Request:  | Response: 
+[2025-04-30 15:56:56.259] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/main.js | Status: 304 | Duration: 0ms | Request:  | Response: 
+[2025-04-30 15:56:56.258] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/vendor.js | Status: 304 | Duration: 0ms | Request:  | Response: 
+[2025-04-30 15:56:56.307] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/assets/configuration/route-configuration.json | Status: 304 | Duration: 0ms | Request:  | Response: 
+[2025-04-30 15:56:56.308] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/assets/configuration/configuration.json | Status: 304 | Duration: 0ms | Request:  | Response: 
+[2025-04-30 15:56:57.573] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/games | Status: 500 | Duration: 186ms | Request:  | Response: {"message":"An error occurred.","details":"Error retrieving all games: Invalid column name 'CreatedAt'.\r\nInvalid column name 'Discontinued'.\r\nInvalid column name 'UpdatedAt'."}
+[2025-04-30 15:56:59.771] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/platforms | Status: 200 | Duration: 59ms | Request:  | Response: [{"type":"PlayStation 4"},{"type":"Nintendo Switch"},{"type":"PlayStation 5"},{"type":"PlayStation 5"},{"type":"Xbox Series X"},{"type":"Nintendo Switch"},{"type":"Xbox Series X"},{"type":"PlayStation 4"},{"type":"Valid"},{"type":"PC"}]
+[2025-04-30 15:56:59.772] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/genres | Status: 200 | Duration: 60ms | Request:  | Response: [{"name":"Adventure","parentGenreId":null},{"name":"Sports","parentGenreId":null},{"name":"Simulation","parentGenreId":null},{"name":"RPG","parentGenreId":null},{"name":"Action","parentGenreId":null},{"name":"Strategy","parentGenreId":null},{"name":"string2","parentGenreId":null}]
+[2025-04-30 15:56:59.779] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/publishers | Status: 200 | Duration: 67ms | Request:  | Response: [{"id":"a3f6a33a-7d7f-4343-b4c2-2e6e689d23da","companyName":"Square Enix","description":"Japonska firma produkujaca i wydajaca gry komputerowe, znana z serii Final Fantasy.","homePage":"https://www.square-enix.com","games":null},{"id":"f1ca5b26-668d-4b1f-8413-4ad94ed5e4c8","companyName":"Rockstar Games","description":"Amerykanski wydawca i producent gier, znany z serii Grand Theft Auto i Red Dead Redemption.","homePage":"https://www.rockstargames.com","games":null},{"id":"8e202e5a-9c7d-4113-9e1a-4bfa75d2daff","companyName":"Electronic Arts","description":"Amerykanski producent i wydawca gier komputerowych. Jedna z najwiekszych firm na rynku gier.","homePage":"https://www.ea.com","games":null},{"id":"ce8a46b7-91d5-4316-bf72-8b57551054e5","companyName":"CD Projekt Red","description":"Polski producent gier komputerowych, znany z serii Wiedzmin oraz Cyberpunk 2077.","homePage":"https://www.cdprojektred.com","games":null},{"id":"d5b83dbd-3a41-4f3a-8dcf-8be4f11ccbf1","companyName":"Bethesda Softworks","description":"Amerykanski wydawca gier komputerowych, znany z serii The Elder Scrolls i Fallout.","homePage":"https://bethesda.net","games":null},{"id":"03c6c446-6a6f-4714-abf7-8c4b9a151af6","companyName":"2K Games","description":"Amerykanski wydawca gier komputerowych, nalezacy do Take-Two Interactive.","homePage":"https://2k.com","games":null},{"id":"2a3e5dfa-c57b-4a24-8f52-9c99b20dedcb","companyName":"Ubisoft","description":"Francuska firma zajmujaca sie produkcja oraz wydawaniem gier komputerowych.","homePage":"https://www.ubisoft.com","games":null}]
+[2025-04-30 15:57:05.340] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/runtime.js.map | Status: 304 | Duration: 0ms | Request:  | Response: 
+[2025-04-30 15:57:05.341] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/polyfills.js.map | Status: 304 | Duration: 0ms | Request:  | Response: 
+[2025-04-30 15:57:05.342] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/vendor.js.map | Status: 304 | Duration: 0ms | Request:  | Response: 
+[2025-04-30 15:57:05.342] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/main.js.map | Status: 304 | Duration: 0ms | Request:  | Response: 
+[2025-04-30 15:57:05.345] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/styles.css.map | Status: 304 | Duration: 0ms | Request:  | Response: 
+[2025-04-30 15:57:20.171] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 40ms | Request: {"game":{"id":"","name":"123","description":"123","key":"123","unitInStock":123,"price":123,"discontinued":123},"genres":[""],"platforms":[""],"publisher":"8e202e5a-9c7d-4113-9e1a-4bfa75d2daff"} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.genres[0]":["The JSON value could not be converted to System.Guid. Path: $.genres[0] | LineNumber: 0 | BytePositionInLine: 124."]},"traceId":"00-cc909a63b0f1d5de16ee85d1f056115a-467da3658cd9a859-00"}
+[2025-04-30 16:03:39.137] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/index.html | Status: 200 | Duration: 27ms | Request:  | Response: <!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="stylesheet" type="text/css" href="./index.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+       
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <script src="./swagger-ui-bundle.js" charset="utf-8"></script>
+    <script src="./swagger-ui-standalone-preset.js" charset="utf-8"></script>
+    <script src="index.js" charset="utf-8"></script>
+</body>
+</html>
+
+[2025-04-30 16:03:39.162] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/index.js | Status: 200 | Duration: 0ms | Request:  | Response: /* Source: https://gist.github.com/lamberta/3768814
+ * Parse a string function definition and return a function object. Does not use eval.
+ * @param {string} str
+ * @return {function}
+ *
+ * Example:
+ *  var f = function (x, y) { return x * y; };
+ *  var g = parseFunction(f.toString());
+ *  g(33, 3); //=> 99
+ */
+function parseFunction(str) {
+    if (!str) return void (0);
+
+    var fn_body_idx = str.indexOf('{'),
+        fn_body = str.substring(fn_body_idx + 1, str.lastIndexOf('}')),
+        fn_declare = str.substring(0, fn_body_idx),
+        fn_params = fn_declare.substring(fn_declare.indexOf('(') + 1, fn_declare.lastIndexOf(')')),
+        args = fn_params.split(',');
+
+    args.push(fn_body);
+
+    function Fn() {
+        return Function.apply(this, args);
+    }
+    Fn.prototype = Function.prototype;
+
+    return new Fn();
+}
+
+window.onload = function () {
+    var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"Game Store API V1"}],"deepLinking":false,"persistAuthorization":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"],"tryItOutEnabled":false}');
+    var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","scopes":[],"useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+    // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+    configObject.urls.forEach(function (item) {
+        if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+        item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+    });
+
+    // If validatorUrl is not explicitly provided, disable the feature by setting to null
+    if (!configObject.hasOwnProperty("validatorUrl"))
+        configObject.validatorUrl = null
+
+    // If oauth2RedirectUrl isn't specified, use the built-in default
+    if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+        configObject.oauth2RedirectUrl = (new URL("oauth2-redirect.html", window.location.href)).href;
+
+    // Apply mandatory parameters
+    configObject.dom_id = "#swagger-ui";
+    configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+    configObject.layout = "StandaloneLayout";
+
+    // Parse and add interceptor functions
+    var interceptors = JSON.parse('{}');
+    if (interceptors.RequestInterceptorFunction)
+        configObject.requestInterceptor = parseFunction(interceptors.RequestInterceptorFunction);
+    if (interceptors.ResponseInterceptorFunction)
+        configObject.responseInterceptor = parseFunction(interceptors.ResponseInterceptorFunction);
+
+    if (configObject.plugins) {
+        configObject.plugins = configObject.plugins.map(eval);
+    }
+    
+    // Begin Swagger UI call region
+
+    const ui = SwaggerUIBundle(configObject);
+
+    ui.initOAuth(oauthConfigObject);
+
+    // End Swagger UI call region
+
+    window.ui = ui
+}
+
+[2025-04-30 16:03:39.224] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/v1/swagger.json | Status: 200 | Duration: 13ms | Request:  | Response: {
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Gamestore.WebApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/games/add-game": {
+      "post": {
+        "tags": [
+          "Game"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/{key}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "key",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "key",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/find/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/download-game-file/{gameId}": {
+      "post": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "gameId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/get-games-by-platform-id/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/get-games-by-genre-id/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/genres/add-genre": {
+      "post": {
+        "tags": [
+          "Genre"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenreRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+... [truncated]
+[2025-04-30 16:07:14.125] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/index.html | Status: 200 | Duration: 0ms | Request:  | Response: <!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="stylesheet" type="text/css" href="./index.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+       
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <script src="./swagger-ui-bundle.js" charset="utf-8"></script>
+    <script src="./swagger-ui-standalone-preset.js" charset="utf-8"></script>
+    <script src="index.js" charset="utf-8"></script>
+</body>
+</html>
+
+[2025-04-30 16:07:14.156] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/index.js | Status: 200 | Duration: 0ms | Request:  | Response: /* Source: https://gist.github.com/lamberta/3768814
+ * Parse a string function definition and return a function object. Does not use eval.
+ * @param {string} str
+ * @return {function}
+ *
+ * Example:
+ *  var f = function (x, y) { return x * y; };
+ *  var g = parseFunction(f.toString());
+ *  g(33, 3); //=> 99
+ */
+function parseFunction(str) {
+    if (!str) return void (0);
+
+    var fn_body_idx = str.indexOf('{'),
+        fn_body = str.substring(fn_body_idx + 1, str.lastIndexOf('}')),
+        fn_declare = str.substring(0, fn_body_idx),
+        fn_params = fn_declare.substring(fn_declare.indexOf('(') + 1, fn_declare.lastIndexOf(')')),
+        args = fn_params.split(',');
+
+    args.push(fn_body);
+
+    function Fn() {
+        return Function.apply(this, args);
+    }
+    Fn.prototype = Function.prototype;
+
+    return new Fn();
+}
+
+window.onload = function () {
+    var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"Game Store API V1"}],"deepLinking":false,"persistAuthorization":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"],"tryItOutEnabled":false}');
+    var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","scopes":[],"useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+    // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+    configObject.urls.forEach(function (item) {
+        if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+        item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+    });
+
+    // If validatorUrl is not explicitly provided, disable the feature by setting to null
+    if (!configObject.hasOwnProperty("validatorUrl"))
+        configObject.validatorUrl = null
+
+    // If oauth2RedirectUrl isn't specified, use the built-in default
+    if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+        configObject.oauth2RedirectUrl = (new URL("oauth2-redirect.html", window.location.href)).href;
+
+    // Apply mandatory parameters
+    configObject.dom_id = "#swagger-ui";
+    configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+    configObject.layout = "StandaloneLayout";
+
+    // Parse and add interceptor functions
+    var interceptors = JSON.parse('{}');
+    if (interceptors.RequestInterceptorFunction)
+        configObject.requestInterceptor = parseFunction(interceptors.RequestInterceptorFunction);
+    if (interceptors.ResponseInterceptorFunction)
+        configObject.responseInterceptor = parseFunction(interceptors.ResponseInterceptorFunction);
+
+    if (configObject.plugins) {
+        configObject.plugins = configObject.plugins.map(eval);
+    }
+    
+    // Begin Swagger UI call region
+
+    const ui = SwaggerUIBundle(configObject);
+
+    ui.initOAuth(oauthConfigObject);
+
+    // End Swagger UI call region
+
+    window.ui = ui
+}
+
+[2025-04-30 16:07:14.219] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/favicon-32x32.png | Status: 200 | Duration: 3ms | Request:  | Response: �PNG
+
+   IHDR           D���   �PLTE   3D5F6F6F .:5F8E7F<E1@3D5F6F5F5E5F4F6F5F3G��-6G!GC��,3f?p�1/^@7k>Z�6~�.C�;w�/_�59o>n�2?x<s�0&OB,YABEe�4z�.��,H�:J�:I�:N�9xo��   tRNS ������� wĩF�S׽-�k�t  ~IDATxڅS�v�0%"�	kdŶ��w-I =��Lr��>�i�&�K����X9���|T!C�Y-�[�<�%�<Dk���f�I��%���G��_ gě�	7��	':{MK�J��U~���\�I�(X��9ƣ��q6�����TX��i�WiD�_�%�~��q^c+�յဪ�Ť�6�q�8L�����K0.�zb���PE�/@
+�8L�S%Ϡ���}�eAÅ�M_se��#!8�΃�k��	:��6!����!v:I��6&����L�`7�y&܍^ �e�W����V�~Vl�U`5�Lˣ�4*� ��x)k�ㆣ�AT������ʁg�_Z����>�ă	��� �.���0g���|�&����� ƌF{��g    IEND�B`�
+[2025-04-30 16:07:14.224] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/v1/swagger.json | Status: 200 | Duration: 7ms | Request:  | Response: {
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Gamestore.WebApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/games/add-game": {
+      "post": {
+        "tags": [
+          "Game"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/{key}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "key",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "key",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/find/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/download-game-file/{gameId}": {
+      "post": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "gameId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/get-games-by-platform-id/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/get-games-by-genre-id/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/genres/add-genre": {
+      "post": {
+        "tags": [
+          "Genre"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenreRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+... [truncated]
+[2025-04-30 16:08:18.206] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/index.html | Status: 200 | Duration: 0ms | Request:  | Response: <!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="stylesheet" type="text/css" href="./index.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+       
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <script src="./swagger-ui-bundle.js" charset="utf-8"></script>
+    <script src="./swagger-ui-standalone-preset.js" charset="utf-8"></script>
+    <script src="index.js" charset="utf-8"></script>
+</body>
+</html>
+
+[2025-04-30 16:08:18.235] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/index.js | Status: 200 | Duration: 0ms | Request:  | Response: /* Source: https://gist.github.com/lamberta/3768814
+ * Parse a string function definition and return a function object. Does not use eval.
+ * @param {string} str
+ * @return {function}
+ *
+ * Example:
+ *  var f = function (x, y) { return x * y; };
+ *  var g = parseFunction(f.toString());
+ *  g(33, 3); //=> 99
+ */
+function parseFunction(str) {
+    if (!str) return void (0);
+
+    var fn_body_idx = str.indexOf('{'),
+        fn_body = str.substring(fn_body_idx + 1, str.lastIndexOf('}')),
+        fn_declare = str.substring(0, fn_body_idx),
+        fn_params = fn_declare.substring(fn_declare.indexOf('(') + 1, fn_declare.lastIndexOf(')')),
+        args = fn_params.split(',');
+
+    args.push(fn_body);
+
+    function Fn() {
+        return Function.apply(this, args);
+    }
+    Fn.prototype = Function.prototype;
+
+    return new Fn();
+}
+
+window.onload = function () {
+    var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"Game Store API V1"}],"deepLinking":false,"persistAuthorization":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"],"tryItOutEnabled":false}');
+    var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","scopes":[],"useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+    // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+    configObject.urls.forEach(function (item) {
+        if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+        item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+    });
+
+    // If validatorUrl is not explicitly provided, disable the feature by setting to null
+    if (!configObject.hasOwnProperty("validatorUrl"))
+        configObject.validatorUrl = null
+
+    // If oauth2RedirectUrl isn't specified, use the built-in default
+    if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+        configObject.oauth2RedirectUrl = (new URL("oauth2-redirect.html", window.location.href)).href;
+
+    // Apply mandatory parameters
+    configObject.dom_id = "#swagger-ui";
+    configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+    configObject.layout = "StandaloneLayout";
+
+    // Parse and add interceptor functions
+    var interceptors = JSON.parse('{}');
+    if (interceptors.RequestInterceptorFunction)
+        configObject.requestInterceptor = parseFunction(interceptors.RequestInterceptorFunction);
+    if (interceptors.ResponseInterceptorFunction)
+        configObject.responseInterceptor = parseFunction(interceptors.ResponseInterceptorFunction);
+
+    if (configObject.plugins) {
+        configObject.plugins = configObject.plugins.map(eval);
+    }
+    
+    // Begin Swagger UI call region
+
+    const ui = SwaggerUIBundle(configObject);
+
+    ui.initOAuth(oauthConfigObject);
+
+    // End Swagger UI call region
+
+    window.ui = ui
+}
+
+[2025-04-30 16:08:18.347] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/v1/swagger.json | Status: 200 | Duration: 4ms | Request:  | Response: {
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Gamestore.WebApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/games/add-game": {
+      "post": {
+        "tags": [
+          "Game"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/{key}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "key",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "key",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/find/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/download-game-file/{gameId}": {
+      "post": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "gameId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/get-games-by-platform-id/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/get-games-by-genre-id/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/genres/add-genre": {
+      "post": {
+        "tags": [
+          "Genre"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenreRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+... [truncated]
+[2025-04-30 16:08:40.829] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 500 | Duration: 260ms | Request: {
+  "game": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "key": "string",
+    "name": "string",
+    "description": "string",
+    "price": 0,
+    "unitInStock": 0,
+    "discontinued": 0
+  },
+  "platforms": [
+    "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+  ],
+  "genres": [
+    "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+  ],
+  "publisher": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+} | Response: {"message":"An error occurred.","details":"Error adding game: Game with key 'string' already exists"}
+[2025-04-30 16:08:46.347] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 500 | Duration: 163ms | Request: {
+  "game": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "key": "string1",
+    "name": "string",
+    "description": "string",
+    "price": 0,
+    "unitInStock": 0,
+    "discontinued": 0
+  },
+  "platforms": [
+    "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+  ],
+  "genres": [
+    "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+  ],
+  "publisher": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+} | Response: {"message":"An error occurred.","details":"Error adding game: An error occurred while saving the entity changes. See the inner exception for details."}
+[2025-04-30 16:08:58.433] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 13ms | Request: {
+  "game": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "key": "string1",
+    "name": "string",
+    "description": "string",
+    "price": 0,
+    "unitInStock": 0,
+    "discontinued": 0
+  },
+  "platforms": [
+    ""
+  ],
+  "genres": [
+    ""
+  ],
+  "publisher": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.platforms[0]":["The JSON value could not be converted to System.Guid. Path: $.platforms[0] | LineNumber: 11 | BytePositionInLine: 6."]},"traceId":"00-48e26b283ef464d6432f3bb7ab716607-e65265feda3aa34e-00"}
+[2025-04-30 16:09:17.253] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 1ms | Request: {
+  "game": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "key": "string1",
+    "name": "string",
+    "description": "string",
+    "price": 0,
+    "unitInStock": 0,
+    "discontinued": 0
+  },
+  "platforms": [
+    null
+  ],
+  "genres": [
+    null
+  ],
+  "publisher": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.platforms[0]":["The JSON value could not be converted to System.Guid. Path: $.platforms[0] | LineNumber: 11 | BytePositionInLine: 8."]},"traceId":"00-3b5168320b05f5c765c90afd9815e8cd-bef9723d442cb725-00"}
+[2025-04-30 16:09:23.792] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 1ms | Request: {
+  "game": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "key": "string1",
+    "name": "string",
+    "description": "string",
+    "price": 0,
+    "unitInStock": 0,
+    "discontinued": 0
+  },
+  "platforms": [
+    null
+  ],
+  "genres": [
+    null
+  ],
+  "publisher": null
+} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.platforms[0]":["The JSON value could not be converted to System.Guid. Path: $.platforms[0] | LineNumber: 11 | BytePositionInLine: 8."]},"traceId":"00-b53a3a6f6d46c6ef7f8897fd8184e5d0-f9354d9941c1d837-00"}
+[2025-04-30 16:10:30.369] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 201 | Duration: 57ms | Request: {
+  "game": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "key": "string1",
+    "name": "string1",
+    "description": "string1",
+    "price": 0,
+    "unitInStock": 0,
+    "discontinued": 0
+  },
+  "platforms": [
+    "DA7E271C-D900-4895-91B9-05F5DE8E0AA5"
+  ],
+  "genres": [
+    "B63026F5-68FC-4602-95AE-49A99AFB41B5"
+  ],
+  "publisher": "8E202E5A-9C7D-4113-9E1A-4BFA75D2DAFF"
+} | Response: {"game":{"id":"c01b128e-cded-4573-9219-bacf81d1874d","key":"string1","name":"string1","description":"string1","price":0,"unitInStock":0,"discontinued":0},"platforms":["da7e271c-d900-4895-91b9-05f5de8e0aa5"],"genres":["b63026f5-68fc-4602-95ae-49a99afb41b5"],"publisher":"8e202e5a-9c7d-4113-9e1a-4bfa75d2daff"}
+[2025-04-30 16:11:18.513] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/games | Status: 200 | Duration: 18ms | Request:  | Response: [{"id":"9572cc88-6413-4c0c-be6e-1241edb50f97","key":"das","name":"asd","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"id":"ffcb61af-292c-4018-85ae-5afb2adb0293","key":"string25","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"id":"9991d454-2fd0-4f45-af2a-88e560267cc2","key":"fgsa","name":"sad","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"id":"c5f83405-ecc7-43bd-80af-8cf1426bd0dc","key":"string","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"id":"c01b128e-cded-4573-9219-bacf81d1874d","key":"string1","name":"string1","description":"string1","price":0,"unitInStock":0,"discontinued":0}]
+[2025-04-30 16:11:21.999] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/platforms | Status: 200 | Duration: 35ms | Request:  | Response: [{"type":"PlayStation 4"},{"type":"Nintendo Switch"},{"type":"PlayStation 5"},{"type":"PlayStation 5"},{"type":"Xbox Series X"},{"type":"Nintendo Switch"},{"type":"Xbox Series X"},{"type":"PlayStation 4"},{"type":"Valid"},{"type":"PC"}]
+[2025-04-30 16:11:22.005] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/genres | Status: 200 | Duration: 40ms | Request:  | Response: [{"name":"Adventure","parentGenreId":null},{"name":"Sports","parentGenreId":null},{"name":"Simulation","parentGenreId":null},{"name":"RPG","parentGenreId":null},{"name":"Action","parentGenreId":null},{"name":"Strategy","parentGenreId":null},{"name":"string2","parentGenreId":null}]
+[2025-04-30 16:11:22.006] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/publishers | Status: 200 | Duration: 41ms | Request:  | Response: [{"id":"a3f6a33a-7d7f-4343-b4c2-2e6e689d23da","companyName":"Square Enix","description":"Japonska firma produkujaca i wydajaca gry komputerowe, znana z serii Final Fantasy.","homePage":"https://www.square-enix.com","games":null},{"id":"f1ca5b26-668d-4b1f-8413-4ad94ed5e4c8","companyName":"Rockstar Games","description":"Amerykanski wydawca i producent gier, znany z serii Grand Theft Auto i Red Dead Redemption.","homePage":"https://www.rockstargames.com","games":null},{"id":"8e202e5a-9c7d-4113-9e1a-4bfa75d2daff","companyName":"Electronic Arts","description":"Amerykanski producent i wydawca gier komputerowych. Jedna z najwiekszych firm na rynku gier.","homePage":"https://www.ea.com","games":null},{"id":"ce8a46b7-91d5-4316-bf72-8b57551054e5","companyName":"CD Projekt Red","description":"Polski producent gier komputerowych, znany z serii Wiedzmin oraz Cyberpunk 2077.","homePage":"https://www.cdprojektred.com","games":null},{"id":"d5b83dbd-3a41-4f3a-8dcf-8be4f11ccbf1","companyName":"Bethesda Softworks","description":"Amerykanski wydawca gier komputerowych, znany z serii The Elder Scrolls i Fallout.","homePage":"https://bethesda.net","games":null},{"id":"03c6c446-6a6f-4714-abf7-8c4b9a151af6","companyName":"2K Games","description":"Amerykanski wydawca gier komputerowych, nalezacy do Take-Two Interactive.","homePage":"https://2k.com","games":null},{"id":"2a3e5dfa-c57b-4a24-8f52-9c99b20dedcb","companyName":"Ubisoft","description":"Francuska firma zajmujaca sie produkcja oraz wydawaniem gier komputerowych.","homePage":"https://www.ubisoft.com","games":null}]
+[2025-04-30 16:11:33.075] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 1ms | Request: {"game":{"id":"","name":"123","description":"123","key":"123","unitInStock":123,"price":123,"discontinued":123},"genres":[""],"platforms":[""],"publisher":"a3f6a33a-7d7f-4343-b4c2-2e6e689d23da"} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.game.id":["The JSON value could not be converted to System.Guid. Path: $.game.id | LineNumber: 0 | BytePositionInLine: 16."]},"traceId":"00-0a654843b5c88e47d369fa9a50ab128f-84be9597160d8f92-00"}
+[2025-04-30 16:11:40.609] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 1ms | Request: {"game":{"id":"","name":"123","description":"123","key":"123","unitInStock":123,"price":123,"discontinued":123},"genres":[""],"platforms":[""],"publisher":"a3f6a33a-7d7f-4343-b4c2-2e6e689d23da"} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.game.id":["The JSON value could not be converted to System.Guid. Path: $.game.id | LineNumber: 0 | BytePositionInLine: 16."]},"traceId":"00-130eab0f2b8e7a2d4b5db7b4b7ee7275-4c0164b29b4e01aa-00"}
+[2025-04-30 16:17:09.059] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/index.html | Status: 200 | Duration: 26ms | Request:  | Response: <!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="stylesheet" type="text/css" href="./index.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+       
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <script src="./swagger-ui-bundle.js" charset="utf-8"></script>
+    <script src="./swagger-ui-standalone-preset.js" charset="utf-8"></script>
+    <script src="index.js" charset="utf-8"></script>
+</body>
+</html>
+
+[2025-04-30 16:17:09.094] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/index.js | Status: 200 | Duration: 1ms | Request:  | Response: /* Source: https://gist.github.com/lamberta/3768814
+ * Parse a string function definition and return a function object. Does not use eval.
+ * @param {string} str
+ * @return {function}
+ *
+ * Example:
+ *  var f = function (x, y) { return x * y; };
+ *  var g = parseFunction(f.toString());
+ *  g(33, 3); //=> 99
+ */
+function parseFunction(str) {
+    if (!str) return void (0);
+
+    var fn_body_idx = str.indexOf('{'),
+        fn_body = str.substring(fn_body_idx + 1, str.lastIndexOf('}')),
+        fn_declare = str.substring(0, fn_body_idx),
+        fn_params = fn_declare.substring(fn_declare.indexOf('(') + 1, fn_declare.lastIndexOf(')')),
+        args = fn_params.split(',');
+
+    args.push(fn_body);
+
+    function Fn() {
+        return Function.apply(this, args);
+    }
+    Fn.prototype = Function.prototype;
+
+    return new Fn();
+}
+
+window.onload = function () {
+    var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"Game Store API V1"}],"deepLinking":false,"persistAuthorization":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"],"tryItOutEnabled":false}');
+    var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","scopes":[],"useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+    // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+    configObject.urls.forEach(function (item) {
+        if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+        item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+    });
+
+    // If validatorUrl is not explicitly provided, disable the feature by setting to null
+    if (!configObject.hasOwnProperty("validatorUrl"))
+        configObject.validatorUrl = null
+
+    // If oauth2RedirectUrl isn't specified, use the built-in default
+    if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+        configObject.oauth2RedirectUrl = (new URL("oauth2-redirect.html", window.location.href)).href;
+
+    // Apply mandatory parameters
+    configObject.dom_id = "#swagger-ui";
+    configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+    configObject.layout = "StandaloneLayout";
+
+    // Parse and add interceptor functions
+    var interceptors = JSON.parse('{}');
+    if (interceptors.RequestInterceptorFunction)
+        configObject.requestInterceptor = parseFunction(interceptors.RequestInterceptorFunction);
+    if (interceptors.ResponseInterceptorFunction)
+        configObject.responseInterceptor = parseFunction(interceptors.ResponseInterceptorFunction);
+
+    if (configObject.plugins) {
+        configObject.plugins = configObject.plugins.map(eval);
+    }
+    
+    // Begin Swagger UI call region
+
+    const ui = SwaggerUIBundle(configObject);
+
+    ui.initOAuth(oauthConfigObject);
+
+    // End Swagger UI call region
+
+    window.ui = ui
+}
+
+[2025-04-30 16:17:09.158] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/v1/swagger.json | Status: 200 | Duration: 10ms | Request:  | Response: {
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Gamestore.WebApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/games/add-game": {
+      "post": {
+        "tags": [
+          "Game"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/{key}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "key",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "key",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/find/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/download-game-file/{gameId}": {
+      "post": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "gameId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/get-games-by-platform-id/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/get-games-by-genre-id/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/genres/add-genre": {
+      "post": {
+        "tags": [
+          "Genre"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenreRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+... [truncated]
+[2025-04-30 16:17:16.630] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/games | Status: 200 | Duration: 132ms | Request:  | Response: [{"id":"9572cc88-6413-4c0c-be6e-1241edb50f97","key":"das","name":"asd","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"id":"ffcb61af-292c-4018-85ae-5afb2adb0293","key":"string25","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"id":"9991d454-2fd0-4f45-af2a-88e560267cc2","key":"fgsa","name":"sad","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"id":"c5f83405-ecc7-43bd-80af-8cf1426bd0dc","key":"string","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"id":"c01b128e-cded-4573-9219-bacf81d1874d","key":"string1","name":"string1","description":"string1","price":0,"unitInStock":0,"discontinued":0}]
+[2025-04-30 16:17:17.859] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/platforms | Status: 200 | Duration: 41ms | Request:  | Response: [{"type":"PlayStation 4"},{"type":"Nintendo Switch"},{"type":"PlayStation 5"},{"type":"PlayStation 5"},{"type":"Xbox Series X"},{"type":"Nintendo Switch"},{"type":"Xbox Series X"},{"type":"PlayStation 4"},{"type":"Valid"},{"type":"PC"}]
+[2025-04-30 16:17:17.866] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/publishers | Status: 200 | Duration: 48ms | Request:  | Response: [{"id":"a3f6a33a-7d7f-4343-b4c2-2e6e689d23da","companyName":"Square Enix","description":"Japonska firma produkujaca i wydajaca gry komputerowe, znana z serii Final Fantasy.","homePage":"https://www.square-enix.com","games":null},{"id":"f1ca5b26-668d-4b1f-8413-4ad94ed5e4c8","companyName":"Rockstar Games","description":"Amerykanski wydawca i producent gier, znany z serii Grand Theft Auto i Red Dead Redemption.","homePage":"https://www.rockstargames.com","games":null},{"id":"8e202e5a-9c7d-4113-9e1a-4bfa75d2daff","companyName":"Electronic Arts","description":"Amerykanski producent i wydawca gier komputerowych. Jedna z najwiekszych firm na rynku gier.","homePage":"https://www.ea.com","games":null},{"id":"ce8a46b7-91d5-4316-bf72-8b57551054e5","companyName":"CD Projekt Red","description":"Polski producent gier komputerowych, znany z serii Wiedzmin oraz Cyberpunk 2077.","homePage":"https://www.cdprojektred.com","games":null},{"id":"d5b83dbd-3a41-4f3a-8dcf-8be4f11ccbf1","companyName":"Bethesda Softworks","description":"Amerykanski wydawca gier komputerowych, znany z serii The Elder Scrolls i Fallout.","homePage":"https://bethesda.net","games":null},{"id":"03c6c446-6a6f-4714-abf7-8c4b9a151af6","companyName":"2K Games","description":"Amerykanski wydawca gier komputerowych, nalezacy do Take-Two Interactive.","homePage":"https://2k.com","games":null},{"id":"2a3e5dfa-c57b-4a24-8f52-9c99b20dedcb","companyName":"Ubisoft","description":"Francuska firma zajmujaca sie produkcja oraz wydawaniem gier komputerowych.","homePage":"https://www.ubisoft.com","games":null}]
+[2025-04-30 16:17:17.867] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/genres | Status: 200 | Duration: 49ms | Request:  | Response: [{"name":"Adventure","parentGenreId":null},{"name":"Sports","parentGenreId":null},{"name":"Simulation","parentGenreId":null},{"name":"RPG","parentGenreId":null},{"name":"Action","parentGenreId":null},{"name":"Strategy","parentGenreId":null},{"name":"string2","parentGenreId":null}]
+[2025-04-30 16:17:32.755] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 31ms | Request: {"game":{"id":"","name":"123","description":"123","key":"123","unitInStock":123,"price":123,"discontinued":123},"genres":[""],"platforms":[""],"publisher":"a3f6a33a-7d7f-4343-b4c2-2e6e689d23da"} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.game.id":["The JSON value could not be converted to System.Guid. Path: $.game.id | LineNumber: 0 | BytePositionInLine: 16."]},"traceId":"00-065962267f338427f5cb2b4d5e0aabee-ec6725b4001e3ab9-00"}
+[2025-04-30 16:17:42.941] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 2ms | Request: {"game":{"id":"","name":"123","description":"123","key":"123","unitInStock":123,"price":123,"discontinued":123},"genres":["",""],"platforms":[""],"publisher":"a3f6a33a-7d7f-4343-b4c2-2e6e689d23da"} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.game.id":["The JSON value could not be converted to System.Guid. Path: $.game.id | LineNumber: 0 | BytePositionInLine: 16."]},"traceId":"00-cc63a2777a40fb5aa06173160122ebd3-522076493d839ae9-00"}
+[2025-04-30 16:17:52.276] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 1ms | Request: {"game":{"id":"","name":"123","description":"123","key":"123","unitInStock":123,"price":123,"discontinued":123},"genres":[],"platforms":[],"publisher":"a3f6a33a-7d7f-4343-b4c2-2e6e689d23da"} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.game.id":["The JSON value could not be converted to System.Guid. Path: $.game.id | LineNumber: 0 | BytePositionInLine: 16."]},"traceId":"00-8957f88d8c698817b57c0f4adb7a4201-404d4cb24b5faed3-00"}
+[2025-04-30 16:30:35.094] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/index.html | Status: 200 | Duration: 0ms | Request:  | Response: <!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="stylesheet" type="text/css" href="./index.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+       
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <script src="./swagger-ui-bundle.js" charset="utf-8"></script>
+    <script src="./swagger-ui-standalone-preset.js" charset="utf-8"></script>
+    <script src="index.js" charset="utf-8"></script>
+</body>
+</html>
+
+[2025-04-30 16:30:35.122] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/index.js | Status: 200 | Duration: 0ms | Request:  | Response: /* Source: https://gist.github.com/lamberta/3768814
+ * Parse a string function definition and return a function object. Does not use eval.
+ * @param {string} str
+ * @return {function}
+ *
+ * Example:
+ *  var f = function (x, y) { return x * y; };
+ *  var g = parseFunction(f.toString());
+ *  g(33, 3); //=> 99
+ */
+function parseFunction(str) {
+    if (!str) return void (0);
+
+    var fn_body_idx = str.indexOf('{'),
+        fn_body = str.substring(fn_body_idx + 1, str.lastIndexOf('}')),
+        fn_declare = str.substring(0, fn_body_idx),
+        fn_params = fn_declare.substring(fn_declare.indexOf('(') + 1, fn_declare.lastIndexOf(')')),
+        args = fn_params.split(',');
+
+    args.push(fn_body);
+
+    function Fn() {
+        return Function.apply(this, args);
+    }
+    Fn.prototype = Function.prototype;
+
+    return new Fn();
+}
+
+window.onload = function () {
+    var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"Game Store API V1"}],"deepLinking":false,"persistAuthorization":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"],"tryItOutEnabled":false}');
+    var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","scopes":[],"useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+    // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+    configObject.urls.forEach(function (item) {
+        if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+        item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+    });
+
+    // If validatorUrl is not explicitly provided, disable the feature by setting to null
+    if (!configObject.hasOwnProperty("validatorUrl"))
+        configObject.validatorUrl = null
+
+    // If oauth2RedirectUrl isn't specified, use the built-in default
+    if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+        configObject.oauth2RedirectUrl = (new URL("oauth2-redirect.html", window.location.href)).href;
+
+    // Apply mandatory parameters
+    configObject.dom_id = "#swagger-ui";
+    configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+    configObject.layout = "StandaloneLayout";
+
+    // Parse and add interceptor functions
+    var interceptors = JSON.parse('{}');
+    if (interceptors.RequestInterceptorFunction)
+        configObject.requestInterceptor = parseFunction(interceptors.RequestInterceptorFunction);
+    if (interceptors.ResponseInterceptorFunction)
+        configObject.responseInterceptor = parseFunction(interceptors.ResponseInterceptorFunction);
+
+    if (configObject.plugins) {
+        configObject.plugins = configObject.plugins.map(eval);
+    }
+    
+    // Begin Swagger UI call region
+
+    const ui = SwaggerUIBundle(configObject);
+
+    ui.initOAuth(oauthConfigObject);
+
+    // End Swagger UI call region
+
+    window.ui = ui
+}
+
+[2025-04-30 16:30:35.255] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/v1/swagger.json | Status: 200 | Duration: 27ms | Request:  | Response: 
+[2025-04-30 16:30:35.316] [ERROR] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] Error occurred while logging request
+Exception: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Failed to generate Operation for action - Gamestore.WebApi.Controllers.GameController.CreateGame (Gamestore.WebApi). See inner exception
+Inner Exception: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Failed to generate schema for type - Gamestore.Services.Dto.GameRequestDto. See inner exception
+Stack Trace:    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository, Func`3 parametersGenerator, Func`3 bodyGenerator, Func`3 applyFilters)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 40
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 77
+[2025-04-30 16:30:41.482] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 200 | Duration: 14ms | Request: {"game":{"id":"","name":"123","description":"123","key":"123","unitInStock":123,"price":123,"discontinued":123},"genres":[],"platforms":[],"publisher":"a3f6a33a-7d7f-4343-b4c2-2e6e689d23da"} | Response: 
+[2025-04-30 16:30:41.495] [ERROR] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] Error occurred while logging request
+Exception: System.TypeLoadException: Could not load type '<FindPublisherById>d__20' from assembly 'Gamestore.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' due to value type mismatch.
+Stack Trace:    at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeMethodInfo.<get_Signature>g__LazyCreateSignature|25_0()
+   at System.Reflection.RuntimeMethodInfo.FetchNonReturnParameters()
+   at System.Reflection.RuntimePropertyInfo.GetIndexParametersNoCopy()
+   at System.Reflection.RuntimePropertyInfo.GetIndexParameters()
+   at System.Text.Json.Serialization.Metadata.DefaultJsonTypeInfoResolver.AddMembersDeclaredBySuperType(JsonTypeInfo typeInfo, Type currentType, NullabilityInfoContext nullabilityCtx, Boolean constructorHasSetsRequiredMembersAttribute, PropertyHierarchyResolutionState& state)
+   at System.Text.Json.Serialization.Metadata.DefaultJsonTypeInfoResolver.PopulateProperties(JsonTypeInfo typeInfo, NullabilityInfoContext nullabilityCtx)
+   at System.Text.Json.Serialization.Metadata.DefaultJsonTypeInfoResolver.CreateTypeInfoCore(Type type, JsonConverter converter, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Metadata.DefaultJsonTypeInfoResolver.CreateJsonTypeInfo(Type type, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Metadata.DefaultJsonTypeInfoResolver.GetTypeInfo(Type type, JsonSerializerOptions options)
+   at System.Text.Json.JsonSerializerOptions.GetTypeInfoNoCaching(Type type)
+   at System.Text.Json.JsonSerializerOptions.CachingContext.CreateCacheEntry(Type type, CachingContext context)
+--- End of stack trace from previous location ---
+   at System.Text.Json.Serialization.Metadata.JsonPropertyInfo.Configure()
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo.ConfigureProperties()
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo.Configure()
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo.<EnsureConfigured>g__ConfigureSynchronized|172_0()
+   at System.Text.Json.JsonSerializerOptions.GetTypeInfoInternal(Type type, Boolean ensureConfigured, Nullable`1 ensureNotNull, Boolean resolveIfMutable, Boolean fallBackToNearestAncestorType)
+   at System.Text.Json.JsonSerializerOptions.GetTypeInfoForRootType(Type type, Boolean fallBackToNearestAncestorType)
+   at System.Text.Json.JsonSerializer.GetTypeInfo(JsonSerializerOptions options, Type inputType)
+   at System.Text.Json.JsonSerializer.DeserializeAsync(Stream utf8Json, Type returnType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder.BindModelAsync(ModelBindingContext bindingContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value, Object container)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 40
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 77
+[2025-04-30 16:30:55.343] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/games | Status: 200 | Duration: 129ms | Request:  | Response: [{"id":"9572cc88-6413-4c0c-be6e-1241edb50f97","key":"das","name":"asd","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"id":"ffcb61af-292c-4018-85ae-5afb2adb0293","key":"string25","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"id":"9991d454-2fd0-4f45-af2a-88e560267cc2","key":"fgsa","name":"sad","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"id":"c5f83405-ecc7-43bd-80af-8cf1426bd0dc","key":"string","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"id":"c01b128e-cded-4573-9219-bacf81d1874d","key":"string1","name":"string1","description":"string1","price":0,"unitInStock":0,"discontinued":0}]
+[2025-04-30 16:30:55.723] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/platforms | Status: 200 | Duration: 42ms | Request:  | Response: [{"type":"PlayStation 4"},{"type":"Nintendo Switch"},{"type":"PlayStation 5"},{"type":"PlayStation 5"},{"type":"Xbox Series X"},{"type":"Nintendo Switch"},{"type":"Xbox Series X"},{"type":"PlayStation 4"},{"type":"Valid"},{"type":"PC"}]
+[2025-04-30 16:30:55.731] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/genres | Status: 200 | Duration: 50ms | Request:  | Response: [{"name":"Adventure","parentGenreId":null},{"name":"Sports","parentGenreId":null},{"name":"Simulation","parentGenreId":null},{"name":"RPG","parentGenreId":null},{"name":"Action","parentGenreId":null},{"name":"Strategy","parentGenreId":null},{"name":"string2","parentGenreId":null}]
+[2025-04-30 16:30:55.732] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/publishers | Status: 200 | Duration: 51ms | Request:  | Response: [{"id":"a3f6a33a-7d7f-4343-b4c2-2e6e689d23da","companyName":"Square Enix","description":"Japonska firma produkujaca i wydajaca gry komputerowe, znana z serii Final Fantasy.","homePage":"https://www.square-enix.com","games":null},{"id":"f1ca5b26-668d-4b1f-8413-4ad94ed5e4c8","companyName":"Rockstar Games","description":"Amerykanski wydawca i producent gier, znany z serii Grand Theft Auto i Red Dead Redemption.","homePage":"https://www.rockstargames.com","games":null},{"id":"8e202e5a-9c7d-4113-9e1a-4bfa75d2daff","companyName":"Electronic Arts","description":"Amerykanski producent i wydawca gier komputerowych. Jedna z najwiekszych firm na rynku gier.","homePage":"https://www.ea.com","games":null},{"id":"ce8a46b7-91d5-4316-bf72-8b57551054e5","companyName":"CD Projekt Red","description":"Polski producent gier komputerowych, znany z serii Wiedzmin oraz Cyberpunk 2077.","homePage":"https://www.cdprojektred.com","games":null},{"id":"d5b83dbd-3a41-4f3a-8dcf-8be4f11ccbf1","companyName":"Bethesda Softworks","description":"Amerykanski wydawca gier komputerowych, znany z serii The Elder Scrolls i Fallout.","homePage":"https://bethesda.net","games":null},{"id":"03c6c446-6a6f-4714-abf7-8c4b9a151af6","companyName":"2K Games","description":"Amerykanski wydawca gier komputerowych, nalezacy do Take-Two Interactive.","homePage":"https://2k.com","games":null},{"id":"2a3e5dfa-c57b-4a24-8f52-9c99b20dedcb","companyName":"Ubisoft","description":"Francuska firma zajmujaca sie produkcja oraz wydawaniem gier komputerowych.","homePage":"https://www.ubisoft.com","games":null}]
+[2025-04-30 16:31:03.743] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 31ms | Request: {"game":{"id":"","name":"123","description":"123","key":"123","unitInStock":123,"price":123,"discontinued":123},"genres":[""],"platforms":[""],"publisher":"ce8a46b7-91d5-4316-bf72-8b57551054e5"} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.game.id":["The JSON value could not be converted to System.Nullable`1[System.Guid]. Path: $.game.id | LineNumber: 0 | BytePositionInLine: 16."]},"traceId":"00-9ded65904bbcc17bd68c56ab0345ae95-efb22ddd3564705d-00"}
+[2025-04-30 16:31:09.074] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 2ms | Request: {"game":{"id":"","name":"123","description":"123","key":"123","unitInStock":123,"price":123,"discontinued":123},"genres":[""],"platforms":[""],"publisher":"ce8a46b7-91d5-4316-bf72-8b57551054e5"} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.game.id":["The JSON value could not be converted to System.Nullable`1[System.Guid]. Path: $.game.id | LineNumber: 0 | BytePositionInLine: 16."]},"traceId":"00-9efffdbb53ca35ad31390954c65c29b5-cea807629f11ba6b-00"}
+[2025-04-30 16:31:16.700] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 1ms | Request: {"game":{"id":"","name":"123","description":"123","key":"123","unitInStock":123,"price":123,"discontinued":123},"genres":[],"platforms":[],"publisher":"ce8a46b7-91d5-4316-bf72-8b57551054e5"} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.game.id":["The JSON value could not be converted to System.Nullable`1[System.Guid]. Path: $.game.id | LineNumber: 0 | BytePositionInLine: 16."]},"traceId":"00-7686ab8db06229b3f653b4d2feaff6e9-6276761c11460131-00"}
+[2025-04-30 16:32:38.120] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/index.html | Status: 200 | Duration: 24ms | Request:  | Response: <!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="stylesheet" type="text/css" href="./index.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+       
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <script src="./swagger-ui-bundle.js" charset="utf-8"></script>
+    <script src="./swagger-ui-standalone-preset.js" charset="utf-8"></script>
+    <script src="index.js" charset="utf-8"></script>
+</body>
+</html>
+
+[2025-04-30 16:32:38.150] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/index.js | Status: 200 | Duration: 0ms | Request:  | Response: /* Source: https://gist.github.com/lamberta/3768814
+ * Parse a string function definition and return a function object. Does not use eval.
+ * @param {string} str
+ * @return {function}
+ *
+ * Example:
+ *  var f = function (x, y) { return x * y; };
+ *  var g = parseFunction(f.toString());
+ *  g(33, 3); //=> 99
+ */
+function parseFunction(str) {
+    if (!str) return void (0);
+
+    var fn_body_idx = str.indexOf('{'),
+        fn_body = str.substring(fn_body_idx + 1, str.lastIndexOf('}')),
+        fn_declare = str.substring(0, fn_body_idx),
+        fn_params = fn_declare.substring(fn_declare.indexOf('(') + 1, fn_declare.lastIndexOf(')')),
+        args = fn_params.split(',');
+
+    args.push(fn_body);
+
+    function Fn() {
+        return Function.apply(this, args);
+    }
+    Fn.prototype = Function.prototype;
+
+    return new Fn();
+}
+
+window.onload = function () {
+    var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"Game Store API V1"}],"deepLinking":false,"persistAuthorization":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"],"tryItOutEnabled":false}');
+    var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","scopes":[],"useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+    // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+    configObject.urls.forEach(function (item) {
+        if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+        item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+    });
+
+    // If validatorUrl is not explicitly provided, disable the feature by setting to null
+    if (!configObject.hasOwnProperty("validatorUrl"))
+        configObject.validatorUrl = null
+
+    // If oauth2RedirectUrl isn't specified, use the built-in default
+    if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+        configObject.oauth2RedirectUrl = (new URL("oauth2-redirect.html", window.location.href)).href;
+
+    // Apply mandatory parameters
+    configObject.dom_id = "#swagger-ui";
+    configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+    configObject.layout = "StandaloneLayout";
+
+    // Parse and add interceptor functions
+    var interceptors = JSON.parse('{}');
+    if (interceptors.RequestInterceptorFunction)
+        configObject.requestInterceptor = parseFunction(interceptors.RequestInterceptorFunction);
+    if (interceptors.ResponseInterceptorFunction)
+        configObject.responseInterceptor = parseFunction(interceptors.ResponseInterceptorFunction);
+
+    if (configObject.plugins) {
+        configObject.plugins = configObject.plugins.map(eval);
+    }
+    
+    // Begin Swagger UI call region
+
+    const ui = SwaggerUIBundle(configObject);
+
+    ui.initOAuth(oauthConfigObject);
+
+    // End Swagger UI call region
+
+    window.ui = ui
+}
+
+[2025-04-30 16:32:38.210] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/swagger/v1/swagger.json | Status: 200 | Duration: 10ms | Request:  | Response: {
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Gamestore.WebApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/games/add-game": {
+      "post": {
+        "tags": [
+          "Game"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/{key}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "key",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "key",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/find/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/download-game-file/{gameId}": {
+      "post": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "gameId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/get-games-by-platform-id/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/games/get-games-by-genre-id/{id}": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/genres/add-genre": {
+      "post": {
+        "tags": [
+          "Genre"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenreRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+... [truncated]
+[2025-04-30 16:33:01.832] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/games | Status: 200 | Duration: 162ms | Request:  | Response: [{"key":"das","name":"asd","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"key":"string25","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"key":"fgsa","name":"sad","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"key":"string","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"key":"string1","name":"string1","description":"string1","price":0,"unitInStock":0,"discontinued":0}]
+[2025-04-30 16:33:02.225] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/platforms | Status: 200 | Duration: 44ms | Request:  | Response: [{"type":"PlayStation 4"},{"type":"Nintendo Switch"},{"type":"PlayStation 5"},{"type":"PlayStation 5"},{"type":"Xbox Series X"},{"type":"Nintendo Switch"},{"type":"Xbox Series X"},{"type":"PlayStation 4"},{"type":"Valid"},{"type":"PC"}]
+[2025-04-30 16:33:02.235] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/genres | Status: 200 | Duration: 54ms | Request:  | Response: [{"name":"Adventure","parentGenreId":null},{"name":"Sports","parentGenreId":null},{"name":"Simulation","parentGenreId":null},{"name":"RPG","parentGenreId":null},{"name":"Action","parentGenreId":null},{"name":"Strategy","parentGenreId":null},{"name":"string2","parentGenreId":null}]
+[2025-04-30 16:33:02.236] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/publishers | Status: 200 | Duration: 55ms | Request:  | Response: [{"id":"a3f6a33a-7d7f-4343-b4c2-2e6e689d23da","companyName":"Square Enix","description":"Japonska firma produkujaca i wydajaca gry komputerowe, znana z serii Final Fantasy.","homePage":"https://www.square-enix.com","games":null},{"id":"f1ca5b26-668d-4b1f-8413-4ad94ed5e4c8","companyName":"Rockstar Games","description":"Amerykanski wydawca i producent gier, znany z serii Grand Theft Auto i Red Dead Redemption.","homePage":"https://www.rockstargames.com","games":null},{"id":"8e202e5a-9c7d-4113-9e1a-4bfa75d2daff","companyName":"Electronic Arts","description":"Amerykanski producent i wydawca gier komputerowych. Jedna z najwiekszych firm na rynku gier.","homePage":"https://www.ea.com","games":null},{"id":"ce8a46b7-91d5-4316-bf72-8b57551054e5","companyName":"CD Projekt Red","description":"Polski producent gier komputerowych, znany z serii Wiedzmin oraz Cyberpunk 2077.","homePage":"https://www.cdprojektred.com","games":null},{"id":"d5b83dbd-3a41-4f3a-8dcf-8be4f11ccbf1","companyName":"Bethesda Softworks","description":"Amerykanski wydawca gier komputerowych, znany z serii The Elder Scrolls i Fallout.","homePage":"https://bethesda.net","games":null},{"id":"03c6c446-6a6f-4714-abf7-8c4b9a151af6","companyName":"2K Games","description":"Amerykanski wydawca gier komputerowych, nalezacy do Take-Two Interactive.","homePage":"https://2k.com","games":null},{"id":"2a3e5dfa-c57b-4a24-8f52-9c99b20dedcb","companyName":"Ubisoft","description":"Francuska firma zajmujaca sie produkcja oraz wydawaniem gier komputerowych.","homePage":"https://www.ubisoft.com","games":null}]
+[2025-04-30 16:33:12.619] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 201 | Duration: 190ms | Request: {"game":{"id":"","name":"123","description":"123","key":"123","unitInStock":123,"price":123,"discontinued":123},"genres":[],"platforms":[],"publisher":"8e202e5a-9c7d-4113-9e1a-4bfa75d2daff"} | Response: {"game":{"key":"123","name":"123","description":"123","price":123,"unitInStock":123,"discontinued":123},"genres":[],"platforms":[],"publisher":"8e202e5a-9c7d-4113-9e1a-4bfa75d2daff"}
+[2025-04-30 16:33:12.638] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/games | Status: 200 | Duration: 7ms | Request:  | Response: [{"key":"das","name":"asd","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"key":"123","name":"123","description":"123","price":0,"unitInStock":0,"discontinued":0},{"key":"string25","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"key":"fgsa","name":"sad","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"key":"string","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"key":"string1","name":"string1","description":"string1","price":0,"unitInStock":0,"discontinued":0}]
+[2025-04-30 16:33:22.183] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/games/123 | Status: 200 | Duration: 17ms | Request:  | Response: {"key":"123","name":"123","description":"123","price":0,"unitInStock":0,"discontinued":0}
+[2025-04-30 16:33:22.947] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | DELETE https://localhost:7040/api/games/123 | Status: 200 | Duration: 27ms | Request: {} | Response: {"key":"123","name":"123","description":"123","price":0,"unitInStock":0,"discontinued":0}
+[2025-04-30 16:33:22.961] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/games | Status: 200 | Duration: 6ms | Request:  | Response: [{"key":"das","name":"asd","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"key":"string25","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"key":"fgsa","name":"sad","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"key":"string","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"key":"string1","name":"string1","description":"string1","price":0,"unitInStock":0,"discontinued":0}]
+[2025-04-30 16:33:24.646] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/publishers | Status: 200 | Duration: 17ms | Request:  | Response: [{"id":"a3f6a33a-7d7f-4343-b4c2-2e6e689d23da","companyName":"Square Enix","description":"Japonska firma produkujaca i wydajaca gry komputerowe, znana z serii Final Fantasy.","homePage":"https://www.square-enix.com","games":null},{"id":"f1ca5b26-668d-4b1f-8413-4ad94ed5e4c8","companyName":"Rockstar Games","description":"Amerykanski wydawca i producent gier, znany z serii Grand Theft Auto i Red Dead Redemption.","homePage":"https://www.rockstargames.com","games":null},{"id":"8e202e5a-9c7d-4113-9e1a-4bfa75d2daff","companyName":"Electronic Arts","description":"Amerykanski producent i wydawca gier komputerowych. Jedna z najwiekszych firm na rynku gier.","homePage":"https://www.ea.com","games":null},{"id":"ce8a46b7-91d5-4316-bf72-8b57551054e5","companyName":"CD Projekt Red","description":"Polski producent gier komputerowych, znany z serii Wiedzmin oraz Cyberpunk 2077.","homePage":"https://www.cdprojektred.com","games":null},{"id":"d5b83dbd-3a41-4f3a-8dcf-8be4f11ccbf1","companyName":"Bethesda Softworks","description":"Amerykanski wydawca gier komputerowych, znany z serii The Elder Scrolls i Fallout.","homePage":"https://bethesda.net","games":null},{"id":"03c6c446-6a6f-4714-abf7-8c4b9a151af6","companyName":"2K Games","description":"Amerykanski wydawca gier komputerowych, nalezacy do Take-Two Interactive.","homePage":"https://2k.com","games":null},{"id":"2a3e5dfa-c57b-4a24-8f52-9c99b20dedcb","companyName":"Ubisoft","description":"Francuska firma zajmujaca sie produkcja oraz wydawaniem gier komputerowych.","homePage":"https://www.ubisoft.com","games":null}]
+[2025-04-30 16:33:24.648] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/genres | Status: 200 | Duration: 19ms | Request:  | Response: [{"name":"Adventure","parentGenreId":null},{"name":"Sports","parentGenreId":null},{"name":"Simulation","parentGenreId":null},{"name":"RPG","parentGenreId":null},{"name":"Action","parentGenreId":null},{"name":"Strategy","parentGenreId":null},{"name":"string2","parentGenreId":null}]
+[2025-04-30 16:33:24.649] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/platforms | Status: 200 | Duration: 20ms | Request:  | Response: [{"type":"PlayStation 4"},{"type":"Nintendo Switch"},{"type":"PlayStation 5"},{"type":"PlayStation 5"},{"type":"Xbox Series X"},{"type":"Nintendo Switch"},{"type":"Xbox Series X"},{"type":"PlayStation 4"},{"type":"Valid"},{"type":"PC"}]
+[2025-04-30 16:33:36.351] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 16ms | Request: {"game":{"id":"","name":"123","description":"123","key":"123","unitInStock":123,"price":123,"discontinued":123},"genres":[""],"platforms":[""],"publisher":"8e202e5a-9c7d-4113-9e1a-4bfa75d2daff"} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.genres[0]":["The JSON value could not be converted to System.Guid. Path: $.genres[0] | LineNumber: 0 | BytePositionInLine: 124."]},"traceId":"00-d2ef18e813cef31aaa00e0cde7f7026c-f326e5a6db32e441-00"}
+[2025-04-30 16:40:51.064] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/games | Status: 200 | Duration: 133ms | Request:  | Response: [{"key":"das","name":"asd","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"key":"string25","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"key":"fgsa","name":"sad","description":"asd","price":0,"unitInStock":0,"discontinued":0},{"key":"string","name":"string","description":"string","price":0,"unitInStock":0,"discontinued":0},{"key":"string1","name":"string1","description":"string1","price":0,"unitInStock":0,"discontinued":0}]
+[2025-04-30 16:40:59.904] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/platforms | Status: 200 | Duration: 41ms | Request:  | Response: [{"type":"PlayStation 4"},{"type":"Nintendo Switch"},{"type":"PlayStation 5"},{"type":"PlayStation 5"},{"type":"Xbox Series X"},{"type":"Nintendo Switch"},{"type":"Xbox Series X"},{"type":"PlayStation 4"},{"type":"Valid"},{"type":"PC"}]
+[2025-04-30 16:40:59.914] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/genres | Status: 200 | Duration: 51ms | Request:  | Response: [{"name":"Adventure","parentGenreId":null},{"name":"Sports","parentGenreId":null},{"name":"Simulation","parentGenreId":null},{"name":"RPG","parentGenreId":null},{"name":"Action","parentGenreId":null},{"name":"Strategy","parentGenreId":null},{"name":"string2","parentGenreId":null}]
+[2025-04-30 16:40:59.915] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | GET https://localhost:7040/api/publishers | Status: 200 | Duration: 52ms | Request:  | Response: [{"id":"a3f6a33a-7d7f-4343-b4c2-2e6e689d23da","companyName":"Square Enix","description":"Japonska firma produkujaca i wydajaca gry komputerowe, znana z serii Final Fantasy.","homePage":"https://www.square-enix.com","games":null},{"id":"f1ca5b26-668d-4b1f-8413-4ad94ed5e4c8","companyName":"Rockstar Games","description":"Amerykanski wydawca i producent gier, znany z serii Grand Theft Auto i Red Dead Redemption.","homePage":"https://www.rockstargames.com","games":null},{"id":"8e202e5a-9c7d-4113-9e1a-4bfa75d2daff","companyName":"Electronic Arts","description":"Amerykanski producent i wydawca gier komputerowych. Jedna z najwiekszych firm na rynku gier.","homePage":"https://www.ea.com","games":null},{"id":"ce8a46b7-91d5-4316-bf72-8b57551054e5","companyName":"CD Projekt Red","description":"Polski producent gier komputerowych, znany z serii Wiedzmin oraz Cyberpunk 2077.","homePage":"https://www.cdprojektred.com","games":null},{"id":"d5b83dbd-3a41-4f3a-8dcf-8be4f11ccbf1","companyName":"Bethesda Softworks","description":"Amerykanski wydawca gier komputerowych, znany z serii The Elder Scrolls i Fallout.","homePage":"https://bethesda.net","games":null},{"id":"03c6c446-6a6f-4714-abf7-8c4b9a151af6","companyName":"2K Games","description":"Amerykanski wydawca gier komputerowych, nalezacy do Take-Two Interactive.","homePage":"https://2k.com","games":null},{"id":"2a3e5dfa-c57b-4a24-8f52-9c99b20dedcb","companyName":"Ubisoft","description":"Francuska firma zajmujaca sie produkcja oraz wydawaniem gier komputerowych.","homePage":"https://www.ubisoft.com","games":null}]
+[2025-04-30 16:41:13.862] [INFO] [Gamestore.WebApi.Middleware.RequestLoggingMiddleware] HTTP Request: ::1 | POST https://localhost:7040/api/games/add-game | Status: 400 | Duration: 34ms | Request: {"game":{"id":"","name":"123","description":"123","key":"123","unitInStock":123,"price":123,"discontinued":123},"genres":[""],"platforms":[""],"publisher":"ce8a46b7-91d5-4316-bf72-8b57551054e5"} | Response: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$.genres[0]":["The JSON value could not be converted to System.Guid. Path: $.genres[0] | LineNumber: 0 | BytePositionInLine: 124."]},"traceId":"00-6d69b6f4151fad7e5a819c78520f3a11-1522a495d39abc8b-00"}

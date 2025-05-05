@@ -1,0 +1,274 @@
+[2025-04-16 05:09:50.572] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (18ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-16 05:11:33.537] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-16 05:11:33.652] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (12ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[Description], [g2].[Key], [g2].[Name], [g0].[GameId], [g0].[GenreId], [g1].[GameId], [g1].[PlatformId]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-16 05:11:33.690] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[Description], [g2].[Key], [g2].[Name], [g0].[GameId], [g0].[GenreId], [g1].[GameId], [g1].[PlatformId]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-16 05:11:33.765] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 450), @p3='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Games] ([Id], [Description], [Key], [Name])
+VALUES (@p0, @p1, @p2, @p3);
+[2025-04-16 05:11:33.777] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@__gameId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [g].[GameId], [g].[PlatformId]
+FROM [GamePlatforms] AS [g]
+WHERE [g].[GameId] = @__gameId_0
+[2025-04-16 05:11:33.795] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [GamePlatforms] ([GameId], [PlatformId])
+VALUES (@p0, @p1);
+[2025-04-16 05:11:33.801] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@__gameId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [g].[GameId], [g].[GenreId]
+FROM [GameGenres] AS [g]
+WHERE [g].[GameId] = @__gameId_0
+[2025-04-16 05:11:33.809] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [GameGenres] ([GameId], [GenreId])
+VALUES (@p0, @p1);
+[2025-04-16 05:14:24.721] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-16 05:14:24.734] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+FROM [Games] AS [g]
+[2025-04-16 05:14:39.422] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[Description], [g2].[Key], [g2].[Name], [g0].[GameId], [g0].[GenreId], [g1].[GameId], [g1].[PlatformId]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-16 05:22:08.122] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (15ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-16 05:22:20.848] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+FROM [Games] AS [g]
+[2025-04-16 05:22:35.171] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (8ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[Description], [g2].[Key], [g2].[Name], [g0].[GameId], [g0].[GenreId], [g1].[GameId], [g1].[PlatformId]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-16 05:22:35.192] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@__gameId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [g].[GameId], [g].[PlatformId]
+FROM [GamePlatforms] AS [g]
+WHERE [g].[GameId] = @__gameId_0
+[2025-04-16 05:22:35.249] [ERROR] [Microsoft.EntityFrameworkCore.Database.Command] Failed executing DbCommand (2ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [GamePlatforms] ([GameId], [PlatformId])
+VALUES (@p0, @p1);
+[2025-04-16 05:23:06.126] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[Description], [g2].[Key], [g2].[Name], [g0].[GameId], [g0].[GenreId], [g1].[GameId], [g1].[PlatformId]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-16 05:23:06.128] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[Description], [g2].[Key], [g2].[Name], [g0].[GameId], [g0].[GenreId], [g1].[GameId], [g1].[PlatformId]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-16 05:23:06.135] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 450), @p3='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Games] ([Id], [Description], [Key], [Name])
+VALUES (@p0, @p1, @p2, @p3);
+[2025-04-16 05:23:06.140] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@__gameId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [g].[GameId], [g].[PlatformId]
+FROM [GamePlatforms] AS [g]
+WHERE [g].[GameId] = @__gameId_0
+[2025-04-16 05:23:06.142] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [GamePlatforms] ([GameId], [PlatformId])
+VALUES (@p0, @p1);
+[2025-04-16 05:23:06.148] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@__gameId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [g].[GameId], [g].[GenreId]
+FROM [GameGenres] AS [g]
+WHERE [g].[GameId] = @__gameId_0
+[2025-04-16 05:23:06.150] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [GameGenres] ([GameId], [GenreId])
+VALUES (@p0, @p1);
+[2025-04-16 05:33:55.024] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (15ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-16 05:34:19.260] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (10ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[Description], [g2].[Key], [g2].[Name], [g0].[GameId], [g0].[GenreId], [g1].[GameId], [g1].[PlatformId]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-16 05:34:19.267] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[Description], [g2].[Key], [g2].[Name], [g0].[GameId], [g0].[GenreId], [g1].[GameId], [g1].[PlatformId]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-16 05:34:19.340] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 450), @p3='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Games] ([Id], [Description], [Key], [Name])
+VALUES (@p0, @p1, @p2, @p3);
+[2025-04-16 05:34:19.351] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@__gameId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [g].[GameId], [g].[PlatformId]
+FROM [GamePlatforms] AS [g]
+WHERE [g].[GameId] = @__gameId_0
+[2025-04-16 05:34:19.368] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [GamePlatforms] ([GameId], [PlatformId])
+VALUES (@p0, @p1);
+[2025-04-16 05:34:19.373] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@__gameId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [g].[GameId], [g].[GenreId]
+FROM [GameGenres] AS [g]
+WHERE [g].[GameId] = @__gameId_0
+[2025-04-16 05:34:19.380] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [GameGenres] ([GameId], [GenreId])
+VALUES (@p0, @p1);
+[2025-04-16 05:36:32.022] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (15ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-16 05:36:39.102] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (10ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[Description], [g2].[Key], [g2].[Name], [g0].[GameId], [g0].[GenreId], [g1].[GameId], [g1].[PlatformId]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-16 05:36:39.153] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@__gameId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [g].[GameId], [g].[PlatformId]
+FROM [GamePlatforms] AS [g]
+WHERE [g].[GameId] = @__gameId_0
+[2025-04-16 05:36:39.196] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [GamePlatforms]
+OUTPUT 1
+WHERE [GameId] = @p0 AND [PlatformId] = @p1;
+[2025-04-16 05:36:39.218] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [GamePlatforms] ([GameId], [PlatformId])
+VALUES (@p0, @p1);
+[2025-04-16 05:36:39.223] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@__gameId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [g].[GameId], [g].[GenreId]
+FROM [GameGenres] AS [g]
+WHERE [g].[GameId] = @__gameId_0
+[2025-04-16 05:36:39.226] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [GameGenres]
+OUTPUT 1
+WHERE [GameId] = @p0 AND [GenreId] = @p1;
+[2025-04-16 05:36:39.228] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [GameGenres] ([GameId], [GenreId])
+VALUES (@p0, @p1);
+[2025-04-16 05:38:01.739] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (15ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-16 05:38:19.867] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (11ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[Description], [g2].[Key], [g2].[Name], [g0].[GameId], [g0].[GenreId], [g1].[GameId], [g1].[PlatformId]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-16 05:38:19.872] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[Description], [g2].[Key], [g2].[Name], [g0].[GameId], [g0].[GenreId], [g1].[GameId], [g1].[PlatformId]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-16 05:38:19.947] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 450), @p3='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Games] ([Id], [Description], [Key], [Name])
+VALUES (@p0, @p1, @p2, @p3);
+[2025-04-16 05:38:19.957] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@__gameId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [g].[GameId], [g].[PlatformId]
+FROM [GamePlatforms] AS [g]
+WHERE [g].[GameId] = @__gameId_0
+[2025-04-16 05:38:19.976] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [GamePlatforms] ([GameId], [PlatformId])
+VALUES (@p0, @p1);
+[2025-04-16 05:38:19.982] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@__gameId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [g].[GameId], [g].[GenreId]
+FROM [GameGenres] AS [g]
+WHERE [g].[GameId] = @__gameId_0
+[2025-04-16 05:38:19.989] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [GameGenres] ([GameId], [GenreId])
+VALUES (@p0, @p1);
+[2025-04-16 06:33:02.648] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (17ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-16 06:55:18.718] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (16ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]

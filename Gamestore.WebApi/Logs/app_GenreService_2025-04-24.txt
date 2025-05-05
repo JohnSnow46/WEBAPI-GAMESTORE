@@ -1,0 +1,32 @@
+[2025-04-24 15:46:41.254] [INFO] [Gamestore.Services.GenreService] Starting create or update genre operation for ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6
+[2025-04-24 15:46:41.256] [INFO] [Gamestore.Services.GenreService] Getting genre entity for ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6
+[2025-04-24 15:46:41.369] [INFO] [Gamestore.Services.GenreService] No existing genre found with ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6 - will create new genre
+[2025-04-24 15:46:41.370] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: string
+[2025-04-24 15:46:41.371] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: string
+[2025-04-24 15:46:41.406] [INFO] [Gamestore.Services.GenreService] Created new genre entity with ID: 17a2c402-ace5-4fd0-8d90-e7dc07fc76c0
+[2025-04-24 15:46:41.471] [INFO] [Gamestore.Services.GenreService] Added new genre to repository with ID: 17a2c402-ace5-4fd0-8d90-e7dc07fc76c0
+[2025-04-24 15:46:41.472] [INFO] [Gamestore.Services.GenreService] Successfully saved genre with ID: 17a2c402-ace5-4fd0-8d90-e7dc07fc76c0
+[2025-04-24 15:48:35.138] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-04-24 15:48:35.259] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-04-24 15:49:53.819] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-04-24 15:49:53.939] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-04-24 15:51:50.145] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-04-24 15:51:50.202] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-04-24 15:52:06.021] [INFO] [Gamestore.Services.GenreService] Starting create or update genre operation for ID: 00000000-0000-0000-0000-000000000000
+[2025-04-24 15:52:06.022] [INFO] [Gamestore.Services.GenreService] Getting genre entity for ID: 00000000-0000-0000-0000-000000000000
+[2025-04-24 15:52:06.115] [INFO] [Gamestore.Services.GenreService] No existing genre found with ID: 00000000-0000-0000-0000-000000000000 - will create new genre
+[2025-04-24 15:52:06.116] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for new genre name: string
+[2025-04-24 15:52:06.118] [INFO] [Gamestore.Services.GenreService] Validating uniqueness for genre name: string
+[2025-04-24 15:52:06.121] [WARN] [Gamestore.Services.GenreService] Genre with name 'string' already exists
+[2025-04-24 15:52:06.161] [ERROR] [Gamestore.Services.GenreService] Error occurred while creating or updating genre with ID: 00000000-0000-0000-0000-000000000000
+Exception: System.ComponentModel.DataAnnotations.ValidationException: Genre with name 'string' already exists
+Stack Trace:    at Gamestore.Services.GenreService.ValidateGenreNameUniqueness(String name) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 249
+   at Gamestore.Services.GenreService.CreateOrUpdateGenre(GenreRequestDto genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 56
+[2025-04-24 15:52:12.829] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-04-24 15:52:12.833] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-04-24 17:30:33.451] [INFO] [Gamestore.Services.GenreService] Starting delete publisher operation for ID: 9b5aac8a-183c-4bf0-9de2-d1c6ea7a3203
+[2025-04-24 17:30:33.541] [INFO] [Gamestore.Services.GenreService] Deleting publisher with ID: 9b5aac8a-183c-4bf0-9de2-d1c6ea7a3203
+[2025-04-24 17:30:33.596] [INFO] [Gamestore.Services.GenreService] Successfully deleted publisher with ID: 9b5aac8a-183c-4bf0-9de2-d1c6ea7a3203
+[2025-04-24 17:31:16.703] [INFO] [Gamestore.Services.GenreService] Starting delete publisher operation for ID: 62f9d9fe-5a35-43c1-b35c-b949d5033e28
+[2025-04-24 17:31:16.793] [INFO] [Gamestore.Services.GenreService] Deleting publisher with ID: 62f9d9fe-5a35-43c1-b35c-b949d5033e28
+[2025-04-24 17:31:16.850] [INFO] [Gamestore.Services.GenreService] Successfully deleted publisher with ID: 62f9d9fe-5a35-43c1-b35c-b949d5033e28

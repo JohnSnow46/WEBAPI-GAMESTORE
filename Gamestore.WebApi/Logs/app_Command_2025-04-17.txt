@@ -1,0 +1,6 @@
+[2025-04-17 13:43:00.312] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (18ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-17 13:43:16.445] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[Description], [g].[Key], [g].[Name]
+FROM [Games] AS [g]

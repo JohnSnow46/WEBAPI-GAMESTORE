@@ -1,0 +1,821 @@
+[2025-05-05 00:04:43.738] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:04:43.749] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:04:47.062] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:47.083] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:48.177] [INFO] [Gamestore.WebApi.Controllers.GenreController] Deleting genre with ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:48.254] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully deleted genre with ID: 5ec35264-53e0-4e3a-bf6b-f666771e3bfc
+[2025-05-05 00:04:48.263] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:04:48.268] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:09:29.166] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:09:29.224] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:09:30.720] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:09:30.726] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:11:35.082] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:11:35.086] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:11:56.675] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:11:56.680] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:12:10.087] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 00:12:10.133] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 00:12:10.138] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:12:10.143] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:12:28.566] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:12:28.572] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:14:14.956] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:14:15.013] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:14:15.623] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:14:15.630] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:17:30.518] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:17:30.575] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:17:31.954] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:17:31.960] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:17:43.806] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating or updating genre with Name: 123
+[2025-05-05 00:17:43.965] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully processed genre
+[2025-05-05 00:17:43.974] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:17:43.979] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:17:53.221] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:17:53.226] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:18:03.855] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:18:03.861] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:18:15.285] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:18:15.290] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:18:28.826] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:18:28.882] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:18:33.826] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:18:33.832] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:19:00.582] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:19:00.588] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:19:46.032] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:19:46.111] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:19:47.429] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:47.475] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:48.209] [INFO] [Gamestore.WebApi.Controllers.GenreController] Deleting genre with ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:48.291] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully deleted genre with ID: dd7cf519-1048-4c2c-956f-a86969cc626c
+[2025-05-05 00:19:48.300] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:19:48.304] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:36:04.200] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:36:04.257] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:36:08.190] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:36:08.197] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:37:30.629] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:37:30.685] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:37:31.397] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:37:31.403] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:43:54.555] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:43:54.612] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:43:58.264] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:43:58.271] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:55:44.813] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:55:44.870] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:55:46.943] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:55:46.949] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:57:20.725] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:57:20.783] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:57:20.991] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:57:20.997] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:58:31.242] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:58:31.301] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:58:31.806] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 00:58:31.813] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 00:58:37.867] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 00:58:45.870] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating genre
+Exception: System.InvalidOperationException: Error creating genre: Genre name cannot be null or empty. (Parameter 'genre')
+Inner Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 42
+   at Gamestore.WebApi.Controllers.GenreController.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-05-05 01:00:03.612] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:04:15.200] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:04:15.266] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:04:16.100] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:04:16.107] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:04:20.025] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:04:23.231] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating genre
+Exception: System.InvalidOperationException: Error creating genre: Genre name cannot be null or empty. (Parameter 'genre')
+Inner Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 42
+   at Gamestore.WebApi.Controllers.GenreController.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-05-05 01:15:27.518] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:18:59.801] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:18:59.859] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:19:00.297] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:19:00.303] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:19:02.768] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:19:04.926] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating genre
+Exception: System.InvalidOperationException: Error creating genre: Genre name cannot be null or empty. (Parameter 'genre')
+Inner Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 42
+   at Gamestore.WebApi.Controllers.GenreController.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-05-05 01:19:10.579] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:19:12.964] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating genre
+Exception: System.InvalidOperationException: Error creating genre: Genre name cannot be null or empty. (Parameter 'genre')
+Inner Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 42
+   at Gamestore.WebApi.Controllers.GenreController.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-05-05 01:19:16.472] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:19:20.598] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating genre
+Exception: System.InvalidOperationException: Error creating genre: Genre name cannot be null or empty. (Parameter 'genre')
+Inner Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 42
+   at Gamestore.WebApi.Controllers.GenreController.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-05-05 01:20:48.477] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: string
+[2025-05-05 01:20:50.982] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully created genre with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 01:22:00.284] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: string2
+[2025-05-05 01:22:02.064] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully created genre with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 01:23:12.891] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:23:12.897] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:23:14.940] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:23:14.945] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:23:30.970] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:23:32.893] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating genre
+Exception: System.InvalidOperationException: Error creating genre: Genre name cannot be null or empty. (Parameter 'genre')
+Inner Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 42
+   at Gamestore.WebApi.Controllers.GenreController.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-05-05 01:24:46.554] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:24:46.619] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:24:46.790] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:24:46.797] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:24:49.322] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:24:51.363] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating genre
+Exception: System.InvalidOperationException: Error creating genre: Genre name cannot be null or empty. (Parameter 'genre')
+Inner Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 42
+   at Gamestore.WebApi.Controllers.GenreController.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-05-05 01:25:00.816] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:25:02.723] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating genre
+Exception: System.InvalidOperationException: Error creating genre: Genre name cannot be null or empty. (Parameter 'genre')
+Inner Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 42
+   at Gamestore.WebApi.Controllers.GenreController.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-05-05 01:26:38.038] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:26:38.104] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:26:38.630] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:26:38.636] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:26:42.958] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:26:45.761] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating genre
+Exception: System.InvalidOperationException: Error creating genre: Genre name cannot be null or empty. (Parameter 'genre')
+Inner Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 42
+   at Gamestore.WebApi.Controllers.GenreController.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-05-05 01:27:31.857] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:27:31.926] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:27:34.655] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:27:34.661] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:27:39.542] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:27:41.668] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating genre
+Exception: System.InvalidOperationException: Error creating genre: Genre name cannot be null or empty. (Parameter 'genre')
+Inner Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 42
+   at Gamestore.WebApi.Controllers.GenreController.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-05-05 01:30:05.778] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:30:05.847] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:30:09.268] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:30:09.275] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:30:15.634] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:30:18.062] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating genre
+Exception: System.InvalidOperationException: Error creating genre: Genre name cannot be null or empty. (Parameter 'genre')
+Inner Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 42
+   at Gamestore.WebApi.Controllers.GenreController.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-05-05 01:32:36.806] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:32:36.873] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:32:37.250] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:32:37.257] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:32:43.149] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:32:51.173] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating genre
+Exception: System.InvalidOperationException: Error creating genre: Genre name cannot be null or empty. (Parameter 'genre')
+Inner Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 47
+   at Gamestore.WebApi.Controllers.GenreController.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-05-05 01:33:13.274] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:33:13.341] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:33:13.687] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:33:13.693] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:33:18.784] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: (null)
+[2025-05-05 01:33:20.800] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating genre
+Exception: System.InvalidOperationException: Error creating genre: Genre name cannot be null or empty. (Parameter 'genre')
+Inner Exception: System.ArgumentException: Genre name cannot be null or empty. (Parameter 'genre')
+Stack Trace:    at Gamestore.Services.GenreService.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 47
+   at Gamestore.WebApi.Controllers.GenreController.CreateGenre(GenreDtoCreate genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-05-05 01:55:11.844] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:55:11.909] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:55:14.115] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:55:14.121] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:55:39.704] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:55:39.768] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:55:41.754] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:55:41.761] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:56:13.619] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:56:13.626] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:56:17.605] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: sfa
+[2025-05-05 01:56:17.682] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully created genre with ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 01:56:17.701] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:56:17.707] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:57:51.441] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:57:51.507] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:57:53.544] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:57:53.551] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:57:58.033] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: asfas
+[2025-05-05 01:57:58.111] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully created genre with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 01:57:58.131] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:57:58.137] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:58:52.788] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:58:52.854] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 01:58:53.220] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 01:58:53.226] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:05:17.987] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 02:05:18.052] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:11:21.439] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 02:11:21.505] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:11:44.237] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 02:11:44.244] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:11:48.542] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: bjn
+[2025-05-05 02:11:48.626] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully created genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:11:48.645] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 02:11:48.651] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:12:01.122] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:12:01.157] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:13:24.919] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 02:13:24.985] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:13:31.360] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:13:31.407] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:21:13.148] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 02:21:13.219] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:21:14.586] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:21:14.634] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:21:32.936] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 02:21:32.940] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:41:59.161] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 02:41:59.186] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:42:19.198] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 02:42:19.203] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:42:39.127] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:42:39.138] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:45:00.100] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 02:45:00.165] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:45:07.623] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:45:07.674] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:46:28.692] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 02:46:28.697] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:46:33.269] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:46:33.278] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:52:12.187] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 02:52:12.252] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:52:17.911] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 02:52:17.962] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 02:53:00.136] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 02:53:00.201] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 02:53:05.076] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 02:53:05.123] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:06:56.949] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:06:57.015] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:07:02.103] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:07:02.150] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:11:14.001] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:11:14.080] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:11:16.870] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:11:16.920] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:15:35.429] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:15:35.495] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:15:38.081] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:15:38.130] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:16:12.136] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:16:12.206] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:16:13.266] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:16:13.313] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:20:30.444] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:20:30.511] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:20:37.302] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:20:37.351] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:20:51.355] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:20:51.361] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:20:52.820] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:20:52.829] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:21:36.832] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:21:36.900] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:21:44.616] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:21:44.663] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:22:34.317] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:22:34.325] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:23:20.478] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:23:20.486] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:23:25.171] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:23:25.198] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:26:27.979] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 95c0c86c-9006-4901-ad27-cc7449b44d38
+[2025-05-05 03:26:27.986] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 95c0c86c-9006-4901-ad27-cc7449b44d38
+[2025-05-05 03:27:27.117] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:27:27.184] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:27:33.869] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:27:33.916] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:28:35.994] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:28:36.063] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:28:38.158] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:29:09.337] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:29:09.407] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:29:11.106] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:29:11.153] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:29:33.103] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:29:33.109] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:29:39.594] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:29:39.604] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:04.446] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:32:04.519] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:32:07.737] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:07.784] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:20.158] [INFO] [Gamestore.WebApi.Controllers.GenreController] Deleting genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:22.301] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully deleted genre with ID: 05e5da0b-448f-437a-9b36-13008cc299d8
+[2025-05-05 03:32:22.312] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:32:22.318] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:33:08.088] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:33:08.154] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:33:15.652] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:15.698] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:20.690] [INFO] [Gamestore.WebApi.Controllers.GenreController] Deleting genre with ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:20.768] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully deleted genre with ID: 89733b49-125e-4df0-9f33-db293cae550f
+[2025-05-05 03:33:20.779] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:33:20.784] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:33:23.564] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:23.571] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:24.278] [INFO] [Gamestore.WebApi.Controllers.GenreController] Deleting genre with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:24.299] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully deleted genre with ID: 53aeb15f-1b2e-4799-ab00-1c3f92cee67d
+[2025-05-05 03:33:24.308] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:33:24.312] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:33:27.067] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.073] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.794] [INFO] [Gamestore.WebApi.Controllers.GenreController] Deleting genre with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.814] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully deleted genre with ID: 538e93c0-7edb-4f75-ba74-f5ca308b8726
+[2025-05-05 03:33:27.822] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:33:27.828] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:33:29.951] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:29.957] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:30.578] [INFO] [Gamestore.WebApi.Controllers.GenreController] Deleting genre with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:30.596] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully deleted genre with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:33:30.604] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:33:30.608] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:33:34.830] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:33:34.836] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:33:37.820] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: 123
+[2025-05-05 03:33:37.850] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully created genre with ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:37.870] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:33:37.875] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:33:38.887] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:38.893] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:39.473] [INFO] [Gamestore.WebApi.Controllers.GenreController] Deleting genre with ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:39.495] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully deleted genre with ID: d38be053-0ba9-43b5-9600-1910947421d5
+[2025-05-05 03:33:39.503] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:33:39.508] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:33:40.420] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:33:40.426] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:33:42.800] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: 123
+[2025-05-05 03:33:42.812] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully created genre with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:33:42.821] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:33:42.825] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:33:44.803] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:33:44.809] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:33:44.820] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:33:44.825] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:34:59.380] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:34:59.385] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:35:00.925] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:35:00.932] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:35:00.947] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:35:01.086] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 03:35:12.531] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:35:12.536] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:36:34.069] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:36:34.138] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:36:41.124] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:36:41.171] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:36:41.178] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:36:41.184] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:39:14.987] [INFO] [Gamestore.WebApi.Controllers.GenreController] Updating genre with ID: e3577c38-1eb1-449d-87c3-e71888acb01f
+[2025-05-05 03:39:15.080] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error updating genre
+Exception: System.InvalidOperationException: Error updating genre: Entity not found.
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Entity not found.
+Stack Trace:    at Gamestore.Services.GenreService.UpdateGenre(Guid id, GenreRequestDto genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 85
+   at Gamestore.WebApi.Controllers.GenreController.UpdateGenre(Guid id, GenreRequestDto genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 48
+[2025-05-05 03:39:49.155] [INFO] [Gamestore.WebApi.Controllers.GenreController] Updating genre with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:39:49.215] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully updated genre with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:41:26.141] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:41:26.220] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:41:29.315] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:41:29.362] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:41:29.369] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:41:29.375] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:41:49.537] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:41:49.543] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:41:51.575] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:41:51.583] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:41:51.592] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:41:51.597] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:45:39.441] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:45:39.509] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:45:44.410] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:45:44.459] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:45:44.467] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:45:44.472] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:47:15.686] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:47:15.692] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:47:17.846] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:47:17.854] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:47:17.863] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:47:17.868] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:54:47.223] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:54:47.228] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:54:56.645] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:54:56.653] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:54:56.666] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:54:56.817] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 03:55:04.717] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:55:04.723] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:55:06.796] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:06.803] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:06.814] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:06.871] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 03:55:38.584] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:55:38.589] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:55:41.933] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:41.940] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:41.950] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 03:55:42.007] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 03:56:11.585] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:56:11.590] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:56:25.518] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:25.525] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:26.598] [INFO] [Gamestore.WebApi.Controllers.GenreController] Deleting genre with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:26.686] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully deleted genre with ID: 3aff34b0-1691-4dde-8953-d5bdcfaa3644
+[2025-05-05 03:56:26.696] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:56:26.701] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 03:56:32.292] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.299] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.976] [INFO] [Gamestore.WebApi.Controllers.GenreController] Deleting genre with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:32.996] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully deleted genre with ID: 49ee94cf-5d19-44d1-84bf-daf847eb5eab
+[2025-05-05 03:56:33.005] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 03:56:33.013] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 04:50:31.344] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 04:50:31.376] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 04:57:53.575] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 04:57:53.603] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 04:59:00.671] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 04:59:00.690] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 04:59:16.648] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 04:59:16.664] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 05:00:54.233] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 05:00:54.255] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 05:03:27.167] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 05:03:27.173] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 05:03:31.883] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:03:31.899] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:03:31.905] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 05:03:31.910] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 05:22:55.989] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 05:22:56.048] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 05:23:06.675] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 05:23:06.683] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 05:23:17.059] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: 123
+[2025-05-05 05:23:17.154] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully created genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:23:17.176] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 05:23:17.185] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 05:26:15.978] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 05:26:16.047] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 05:26:18.870] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:26:18.920] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:26:18.931] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:26:19.082] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 05:26:27.453] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 05:26:27.459] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 05:26:32.095] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:26:32.103] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:26:32.112] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:26:32.113] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:26:32.125] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:26:32.183] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 05:27:25.947] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 05:27:26.018] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 05:27:27.852] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:27.899] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:27.907] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:27.911] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:27.918] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:28.062] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 05:27:32.754] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 05:27:32.761] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 05:27:38.892] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:38.899] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:38.909] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:38.910] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:38.921] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:38.977] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 05:27:51.690] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:51.699] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:51.710] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:51.711] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:27:51.721] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:27:51.782] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 05:28:00.496] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 05:28:00.503] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 05:28:02.773] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:28:02.782] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:28:02.794] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:28:02.795] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:28:02.821] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 05:28:02.860] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 05:29:27.899] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:27.957] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: 17498a81-69df-4b26-b93c-e3299d6316b5
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key '17498a81-69df-4b26-b93c-e3299d6316b5' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 05:29:48.305] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 05:29:48.314] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 05:29:50.798] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:50.808] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:51.922] [INFO] [Gamestore.WebApi.Controllers.GenreController] Deleting genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:52.008] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully deleted genre with ID: 17498a81-69df-4b26-b93c-e3299d6316b5
+[2025-05-05 05:29:52.019] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 05:29:52.025] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 06:50:24.294] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 06:50:24.323] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 07:00:45.215] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 07:00:45.245] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 07:00:53.087] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 07:00:53.103] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 08:02:58.038] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 08:02:58.049] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 08:02:59.250] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:02:59.270] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:02:59.281] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:02:59.376] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 08:03:05.213] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 08:03:05.219] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 08:03:06.221] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:03:06.228] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:03:06.240] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 08:03:06.292] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 13:12:04.853] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 13:12:04.871] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 13:12:07.844] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 13:12:07.889] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 13:12:07.897] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 13:12:07.903] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 13:12:28.149] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 13:12:28.159] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 13:12:44.268] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 13:12:44.284] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 13:12:56.831] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 13:12:56.846] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 15:31:06.239] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 15:31:06.303] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 15:31:09.001] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:31:09.049] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:31:09.056] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 15:31:09.061] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 15:35:48.986] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:35:48.995] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:35:49.012] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:35:49.169] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 15:39:35.434] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 15:39:35.492] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 15:39:36.348] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:39:36.396] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:21.012] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:21.020] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:21.029] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:21.177] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error retrieving genres for game with key: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.InvalidOperationException: Error retrieving genres by game key: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'ca70f6be-bbd5-4ef2-8602-0446590c105c' not found
+Stack Trace:    at Gamestore.Services.GenreService.GetGenresByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 191
+   at Gamestore.WebApi.Controllers.GenreController.GetGenresByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 170
+[2025-05-05 15:41:23.376] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 15:41:23.382] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 15:41:24.512] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:24.519] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:41:24.528] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 15:41:24.533] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 15:44:45.881] [INFO] [Gamestore.WebApi.Controllers.GenreController] Updating genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:44:45.962] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully updated genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:46:37.812] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 15:46:37.885] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 15:46:39.584] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:46:39.633] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:46:39.642] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 15:46:39.648] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 15:58:20.857] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 15:58:20.931] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 15:58:21.813] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:58:21.866] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:58:21.873] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 15:58:21.879] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 15:58:30.192] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 15:58:30.198] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 15:58:31.242] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:58:31.251] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 15:58:31.258] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 15:58:31.264] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 15:59:59.489] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 15:59:59.573] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:00:01.966] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:00:02.018] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:00:02.027] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:00:02.033] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:05:20.719] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:05:20.794] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:05:35.115] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:05:35.162] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:05:35.170] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:05:35.175] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:06:15.645] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:06:15.722] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:06:19.758] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:06:19.806] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:06:19.815] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:06:19.822] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:06:45.180] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:06:45.249] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:06:47.886] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:06:47.936] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:06:47.945] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:06:47.951] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:12:13.126] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:12:13.198] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:12:14.647] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:12:14.700] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:12:14.709] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:12:14.715] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:18:33.926] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:18:33.932] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:18:38.547] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:18:38.555] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:18:43.542] [INFO] [Gamestore.WebApi.Controllers.GenreController] Deleting genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:18:43.661] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error deleting genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+Exception: System.InvalidOperationException: Error deleting genre: Cannot delete a genre that is used by games. Please remove the genre from games first
+Inner Exception: System.InvalidOperationException: Cannot delete a genre that is used by games. Please remove the genre from games first
+Stack Trace:    at Gamestore.Services.GenreService.DeleteGenreById(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 173
+   at Gamestore.WebApi.Controllers.GenreController.DeleteGenreById(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 146
+[2025-05-05 16:19:36.105] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:19:36.111] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:19:36.824] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:19:36.830] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:22:59.162] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:22:59.167] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:23:00.249] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:23:00.256] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:23:00.266] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:23:00.271] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:24:16.397] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:24:16.402] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:24:20.129] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:24:20.136] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 16:24:25.526] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:24:25.531] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:24:26.462] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:24:26.467] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:24:40.367] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: 123444
+[2025-05-05 16:24:40.477] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully created genre with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:40.499] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:24:40.505] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:24:47.295] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:47.302] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:52.987] [INFO] [Gamestore.WebApi.Controllers.GenreController] Deleting genre with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:53.017] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully deleted genre with ID: 8737a56c-9d02-4fe6-ba28-cad182f49ad7
+[2025-05-05 16:24:53.026] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:24:53.032] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:24:57.193] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:24:57.200] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:25:00.384] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating new genre with Name: 123444
+[2025-05-05 16:25:00.401] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully created genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:25:00.411] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:25:00.416] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:25:19.049] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:25:19.055] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:27:56.513] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:27:56.517] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:27:58.246] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:27:58.253] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:27:58.265] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:27:58.270] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:31:26.964] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:31:27.031] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:31:28.447] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:31:28.493] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:31:28.501] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:31:28.508] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:31:59.824] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:31:59.922] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:32:02.918] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:32:02.926] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:32:03.553] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:32:03.559] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:32:06.919] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:32:06.973] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:32:06.981] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:32:06.987] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:35:04.053] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:35:04.131] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:35:09.763] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:35:09.812] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:35:09.820] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:35:09.826] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:35:46.546] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:35:46.616] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:35:47.616] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:35:47.664] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:35:47.672] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:35:47.678] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:42:08.435] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:42:08.508] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:42:09.995] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:42:10.048] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:42:10.056] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:42:10.063] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:43:29.162] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:43:29.234] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 16:43:30.617] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:43:30.666] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 16:43:30.674] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 16:43:30.680] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 17:01:35.382] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 17:01:35.453] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 17:01:37.440] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:01:37.491] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:01:37.499] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 17:01:37.506] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 17:02:10.472] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 17:02:10.542] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 17:02:14.118] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 17:02:14.126] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 17:02:14.768] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:02:14.819] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:02:14.826] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 17:02:14.832] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 17:06:44.802] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 17:06:44.871] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 17:06:47.591] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:06:47.643] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:06:47.653] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 17:06:47.661] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 17:07:54.801] [INFO] [Gamestore.WebApi.Controllers.GenreController] Updating genre with ID: string1234
+[2025-05-05 17:07:54.870] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully updated genre with ID: ca70f6be-bbd5-4ef2-8602-0446590c105c
+[2025-05-05 17:17:18.268] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 17:17:18.341] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 17:17:24.827] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting genre by ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:17:24.875] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved genre with ID: c7322331-4ee4-4bef-8cf5-194bcc708431
+[2025-05-05 17:17:24.885] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-05 17:17:24.892] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-05 17:42:06.630] [INFO] [Gamestore.WebApi.Controllers.GenreController] Updating genre with ID: string
+[2025-05-05 17:42:06.730] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error updating genre
+Exception: System.InvalidOperationException: Error updating genre: Entity not found.
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Entity not found.
+Stack Trace:    at Gamestore.Services.GenreService.UpdateGenre(Guid id, GenreUpdateDto genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 83
+   at Gamestore.WebApi.Controllers.GenreController.UpdateGenre(GenreUpdateDto genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 49

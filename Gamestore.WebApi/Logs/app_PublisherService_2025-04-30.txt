@@ -1,0 +1,14 @@
+[2025-04-30 15:56:59.726] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-04-30 15:56:59.764] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-04-30 16:11:21.975] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-04-30 16:11:21.996] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-04-30 16:17:17.835] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-04-30 16:17:17.853] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-04-30 16:30:55.695] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-04-30 16:30:55.719] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-04-30 16:33:02.195] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-04-30 16:33:02.222] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-04-30 16:33:24.632] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-04-30 16:33:24.642] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-04-30 16:40:59.878] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-04-30 16:40:59.901] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database

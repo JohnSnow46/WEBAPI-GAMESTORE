@@ -1,0 +1,14 @@
+[2025-04-30 15:56:59.726] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-04-30 15:56:59.763] [INFO] [Gamestore.Services.PlatformService] Retrieved 10 platforms from database
+[2025-04-30 16:11:21.974] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-04-30 16:11:21.995] [INFO] [Gamestore.Services.PlatformService] Retrieved 10 platforms from database
+[2025-04-30 16:17:17.835] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-04-30 16:17:17.854] [INFO] [Gamestore.Services.PlatformService] Retrieved 10 platforms from database
+[2025-04-30 16:30:55.696] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-04-30 16:30:55.718] [INFO] [Gamestore.Services.PlatformService] Retrieved 10 platforms from database
+[2025-04-30 16:33:02.196] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-04-30 16:33:02.219] [INFO] [Gamestore.Services.PlatformService] Retrieved 10 platforms from database
+[2025-04-30 16:33:24.632] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-04-30 16:33:24.644] [INFO] [Gamestore.Services.PlatformService] Retrieved 10 platforms from database
+[2025-04-30 16:40:59.878] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-04-30 16:40:59.898] [INFO] [Gamestore.Services.PlatformService] Retrieved 10 platforms from database

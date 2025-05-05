@@ -1,0 +1,165 @@
+[2025-05-05 00:10:32.037] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 00:10:32.050] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 10 platforms
+[2025-05-05 00:10:57.363] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 00:10:57.368] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 10 platforms
+[2025-05-05 00:18:45.191] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 00:18:45.206] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 10 platforms
+[2025-05-05 00:18:46.562] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: 4e133bac-568d-4f03-b162-a5eebdb7614a
+[2025-05-05 00:18:46.608] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: 4e133bac-568d-4f03-b162-a5eebdb7614a
+[2025-05-05 00:18:47.937] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Deleting platform with ID: 4e133bac-568d-4f03-b162-a5eebdb7614a
+[2025-05-05 00:18:48.003] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully deleted platform with ID: 4e133bac-568d-4f03-b162-a5eebdb7614a
+[2025-05-05 00:18:48.019] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 00:18:48.023] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 9 platforms
+[2025-05-05 00:18:52.372] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: 29405e7d-a47a-4e18-95ed-9447877ab795
+[2025-05-05 00:18:52.378] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: 29405e7d-a47a-4e18-95ed-9447877ab795
+[2025-05-05 00:18:53.185] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Deleting platform with ID: 29405e7d-a47a-4e18-95ed-9447877ab795
+[2025-05-05 00:18:53.193] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully deleted platform with ID: 29405e7d-a47a-4e18-95ed-9447877ab795
+[2025-05-05 00:18:53.201] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 00:18:53.205] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 8 platforms
+[2025-05-05 02:40:59.373] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 02:40:59.425] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 8 platforms
+[2025-05-05 02:41:05.003] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: 41f0ce13-acf4-45d2-b7d1-3f2d654a6d28
+[2025-05-05 02:41:05.048] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: 41f0ce13-acf4-45d2-b7d1-3f2d654a6d28
+[2025-05-05 02:41:06.810] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Deleting platform with ID: 41f0ce13-acf4-45d2-b7d1-3f2d654a6d28
+[2025-05-05 02:41:06.879] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully deleted platform with ID: 41f0ce13-acf4-45d2-b7d1-3f2d654a6d28
+[2025-05-05 02:41:06.895] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 02:41:06.900] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 7 platforms
+[2025-05-05 02:41:14.098] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: bcebc045-5471-4b86-965f-8ddc0b56a556
+[2025-05-05 02:41:14.103] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: bcebc045-5471-4b86-965f-8ddc0b56a556
+[2025-05-05 02:41:16.546] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Deleting platform with ID: bcebc045-5471-4b86-965f-8ddc0b56a556
+[2025-05-05 02:41:16.554] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully deleted platform with ID: bcebc045-5471-4b86-965f-8ddc0b56a556
+[2025-05-05 02:41:16.563] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 02:41:16.567] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 6 platforms
+[2025-05-05 02:45:30.623] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 02:45:30.637] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 6 platforms
+[2025-05-05 02:45:44.162] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: 33e3d525-21e2-47f7-bc6a-8f7fd9d972cc
+[2025-05-05 02:45:44.173] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: 33e3d525-21e2-47f7-bc6a-8f7fd9d972cc
+[2025-05-05 02:45:47.126] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Deleting platform with ID: 33e3d525-21e2-47f7-bc6a-8f7fd9d972cc
+[2025-05-05 02:45:47.191] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully deleted platform with ID: 33e3d525-21e2-47f7-bc6a-8f7fd9d972cc
+[2025-05-05 02:45:47.205] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 02:45:47.210] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 5 platforms
+[2025-05-05 02:46:51.642] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 02:46:51.647] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 5 platforms
+[2025-05-05 02:46:53.648] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: 7d34969f-4e6a-4968-86c6-8bf084db1ac6
+[2025-05-05 02:46:53.653] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: 7d34969f-4e6a-4968-86c6-8bf084db1ac6
+[2025-05-05 02:46:55.116] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Deleting platform with ID: 7d34969f-4e6a-4968-86c6-8bf084db1ac6
+[2025-05-05 02:46:55.130] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully deleted platform with ID: 7d34969f-4e6a-4968-86c6-8bf084db1ac6
+[2025-05-05 02:46:55.139] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 02:46:55.144] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 02:56:16.879] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 02:56:16.891] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 02:56:21.989] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-05 02:56:21.999] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-05 02:56:25.204] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 02:56:25.209] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 04:50:31.345] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 04:50:31.367] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 04:57:53.576] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 04:57:53.600] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 04:59:00.673] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 04:59:00.691] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 04:59:16.649] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 04:59:16.662] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 05:00:54.232] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:00:54.250] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 05:03:43.329] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:03:43.335] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 05:04:19.347] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:04:19.426] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 05:04:45.703] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:04:45.711] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 05:05:03.484] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:05:03.491] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 05:15:00.423] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:15:00.481] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 05:21:26.504] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:21:26.561] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 05:21:51.802] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:21:51.810] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 05:29:54.958] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:29:54.974] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 05:35:56.699] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:35:56.757] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 05:37:50.375] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:37:50.432] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 05:38:32.085] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:38:32.139] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 05:44:25.888] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Creating or updating platform with ID: 00000000-0000-0000-0000-000000000000, Name: Valid
+[2025-05-05 05:44:25.972] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully processed platform with ID: 5e32485b-b9f2-41a4-83ef-d5986c392f97
+[2025-05-05 05:45:55.513] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:45:55.570] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 5 platforms
+[2025-05-05 05:46:02.111] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Creating or updating platform with ID: 00000000-0000-0000-0000-000000000000, Name: XD
+[2025-05-05 05:46:02.186] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully processed platform with ID: ba8104d4-59a3-4bfd-b79c-0d8db81b3087
+[2025-05-05 05:46:02.198] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:46:02.204] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 6 platforms
+[2025-05-05 05:46:05.147] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: ba8104d4-59a3-4bfd-b79c-0d8db81b3087
+[2025-05-05 05:46:05.183] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: ba8104d4-59a3-4bfd-b79c-0d8db81b3087
+[2025-05-05 05:46:07.075] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:46:07.081] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 6 platforms
+[2025-05-05 05:46:08.408] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: 5e32485b-b9f2-41a4-83ef-d5986c392f97
+[2025-05-05 05:46:08.416] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: 5e32485b-b9f2-41a4-83ef-d5986c392f97
+[2025-05-05 05:46:10.069] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:46:10.075] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 6 platforms
+[2025-05-05 05:46:23.334] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-05 05:46:23.341] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-05 05:46:23.880] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:46:23.886] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 6 platforms
+[2025-05-05 05:46:37.137] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-05 05:46:37.143] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-05 05:47:12.390] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:47:12.396] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 6 platforms
+[2025-05-05 05:47:31.737] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-05 05:47:31.743] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-05 05:48:18.245] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:48:18.251] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 6 platforms
+[2025-05-05 05:48:23.386] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: ba8104d4-59a3-4bfd-b79c-0d8db81b3087
+[2025-05-05 05:49:01.449] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: ba8104d4-59a3-4bfd-b79c-0d8db81b3087
+[2025-05-05 05:50:19.234] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:50:19.289] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 6 platforms
+[2025-05-05 05:50:20.829] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: ba8104d4-59a3-4bfd-b79c-0d8db81b3087
+[2025-05-05 05:51:28.809] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: ba8104d4-59a3-4bfd-b79c-0d8db81b3087
+[2025-05-05 05:51:32.407] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:51:32.412] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 6 platforms
+[2025-05-05 05:51:35.927] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: ba8104d4-59a3-4bfd-b79c-0d8db81b3087
+[2025-05-05 05:52:53.874] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:52:53.929] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 6 platforms
+[2025-05-05 05:52:55.640] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: ba8104d4-59a3-4bfd-b79c-0d8db81b3087
+[2025-05-05 05:52:59.415] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: ba8104d4-59a3-4bfd-b79c-0d8db81b3087
+[2025-05-05 05:53:02.949] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Deleting platform with ID: ba8104d4-59a3-4bfd-b79c-0d8db81b3087
+[2025-05-05 05:53:05.046] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully deleted platform with ID: ba8104d4-59a3-4bfd-b79c-0d8db81b3087
+[2025-05-05 05:53:05.056] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:53:05.062] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 5 platforms
+[2025-05-05 05:53:14.574] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Creating or updating platform with ID: 00000000-0000-0000-0000-000000000000, Name: 123
+[2025-05-05 05:53:14.602] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully processed platform with ID: 89f362a3-58cd-468d-b445-fd14dee09a9b
+[2025-05-05 05:53:14.612] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:53:14.618] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 6 platforms
+[2025-05-05 05:53:16.475] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: 89f362a3-58cd-468d-b445-fd14dee09a9b
+[2025-05-05 05:53:22.310] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: 89f362a3-58cd-468d-b445-fd14dee09a9b
+[2025-05-05 05:53:25.854] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Deleting platform with ID: 89f362a3-58cd-468d-b445-fd14dee09a9b
+[2025-05-05 05:53:25.868] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully deleted platform with ID: 89f362a3-58cd-468d-b445-fd14dee09a9b
+[2025-05-05 05:53:25.877] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:53:25.882] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 5 platforms
+[2025-05-05 05:53:28.180] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: 5e32485b-b9f2-41a4-83ef-d5986c392f97
+[2025-05-05 05:53:28.186] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: 5e32485b-b9f2-41a4-83ef-d5986c392f97
+[2025-05-05 05:53:28.819] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Deleting platform with ID: 5e32485b-b9f2-41a4-83ef-d5986c392f97
+[2025-05-05 05:53:28.831] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully deleted platform with ID: 5e32485b-b9f2-41a4-83ef-d5986c392f97
+[2025-05-05 05:53:28.842] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 05:53:28.848] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 06:50:24.295] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 06:50:24.320] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 07:00:45.213] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 07:00:45.239] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 07:00:53.086] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 07:00:53.102] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 07:08:43.637] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 07:08:43.691] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 07:08:50.643] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 07:08:50.650] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 07:10:01.406] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting platform by ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-05 07:10:01.451] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved platform with ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-05 13:12:28.160] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 13:12:28.193] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 13:12:44.272] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 13:12:44.299] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms
+[2025-05-05 13:12:56.834] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-05 13:12:56.851] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms

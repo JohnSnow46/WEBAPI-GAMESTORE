@@ -1,0 +1,964 @@
+[2025-04-28 13:09:38.643] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:09:39.047] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:10:04.203] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:10:04.265] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 13:11:42.772] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:11:43.070] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:13:21.480] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:13:21.772] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:16:59.887] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:17:00.187] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:17:02.768] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:17:02.830] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 13:17:26.605] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:17:26.609] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 13:18:32.940] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:18:33.235] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:22:31.146] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:22:31.147] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:22:31.519] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:22:31.520] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:26:31.780] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:26:31.781] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:26:32.178] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:26:32.179] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:28:45.581] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:28:45.582] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:28:45.893] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:28:45.894] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:31:25.956] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:31:25.956] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:31:26.335] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:31:26.336] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:31:39.538] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:31:39.539] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:31:39.942] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:31:39.943] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:33:50.635] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:33:50.635] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:33:50.642] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:33:50.643] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:33:57.173] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:33:57.234] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 13:35:20.245] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:35:20.246] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:35:20.641] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:35:20.642] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:38:04.511] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:38:04.512] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:38:04.830] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:38:04.831] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:39:32.133] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:39:32.134] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:39:32.535] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:39:32.536] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:40:35.708] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:40:35.709] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:40:36.089] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:40:36.089] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:40:44.465] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:40:44.526] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 13:43:30.216] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:43:30.216] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:43:30.600] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:43:30.600] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:44:08.593] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:44:08.909] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:44:16.983] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:44:17.046] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 13:44:21.326] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:44:21.330] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 13:45:17.171] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:45:17.172] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:45:17.493] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:45:17.494] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:45:31.332] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:45:31.640] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:46:23.534] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:46:23.849] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:46:26.920] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:46:26.984] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 13:46:49.790] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:46:49.791] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:46:50.209] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:46:50.209] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:47:20.564] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:47:20.961] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 13:47:21.895] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:47:21.958] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 13:48:14.019] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:48:14.023] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 13:48:16.201] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: string1
+[2025-04-28 13:48:16.297] [INFO] [Gamestore.Services.GameService] Game found with ID: 72b8b014-95bd-4817-95d0-fa5420e985e3
+[2025-04-28 13:48:17.478] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: string1
+[2025-04-28 13:48:17.483] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: 72b8b014-95bd-4817-95d0-fa5420e985e3
+[2025-04-28 13:48:17.485] [INFO] [Gamestore.Services.GameService] Removing 1 genre relations for game ID: 72b8b014-95bd-4817-95d0-fa5420e985e3
+[2025-04-28 13:48:17.543] [INFO] [Gamestore.Services.GameService] Removing 1 platform relations for game ID: 72b8b014-95bd-4817-95d0-fa5420e985e3
+[2025-04-28 13:48:17.548] [INFO] [Gamestore.Services.GameService] Deleting game with ID: 72b8b014-95bd-4817-95d0-fa5420e985e3
+[2025-04-28 13:48:17.559] [INFO] [Gamestore.Services.GameService] Game with key: string1 deleted successfully
+[2025-04-28 13:48:17.571] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:48:17.575] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 13:48:41.738] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:48:41.739] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:48:41.740] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:48:41.749] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 13:48:41.750] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 13:48:41.751] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 13:49:52.254] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:49:52.257] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 13:51:39.365] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:51:39.365] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:51:39.674] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 13:51:39.675] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 13:51:45.479] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:51:45.544] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 13:51:47.943] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: string
+[2025-04-28 13:51:48.040] [INFO] [Gamestore.Services.GameService] Game found with ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-28 13:51:56.708] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:51:56.711] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 13:52:53.491] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:52:53.497] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 13:54:12.171] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:54:12.176] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 13:57:07.303] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:57:07.304] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:57:07.610] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 13:57:07.610] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 13:57:08.513] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:57:08.578] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 13:58:11.629] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 13:58:11.935] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 13:58:12.780] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 13:58:12.844] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 14:00:06.706] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:00:06.707] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:00:07.129] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:00:07.130] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:00:11.280] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:00:11.344] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 14:00:59.560] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:00:59.926] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:01:16.080] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:01:16.478] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:01:44.302] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:01:44.366] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 14:02:17.113] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:02:17.121] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 14:02:20.031] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:02:20.032] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:02:20.033] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:02:20.039] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:02:20.041] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:02:20.042] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:02:31.574] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:02:31.578] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 14:03:23.284] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:03:23.287] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:03:23.290] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:03:23.293] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 14:03:29.181] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:03:29.182] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:03:29.601] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:03:29.602] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:03:30.261] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:03:30.329] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 14:07:59.287] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:07:59.287] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:07:59.686] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:07:59.686] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:08:00.410] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:08:00.476] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 14:09:35.378] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:09:35.379] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:09:35.743] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:09:35.744] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:09:36.772] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:09:36.835] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 14:09:46.778] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: das
+[2025-04-28 14:09:46.860] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: das
+[2025-04-28 14:09:46.926] [INFO] [Gamestore.Services.GameService] New game created with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:09:46.927] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: ce8a46b7-91d5-4316-bf72-8b57551054e5 to game ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:09:46.939] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:09:46.945] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:09:46.965] [INFO] [Gamestore.Services.GameService] Game saved successfully with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:09:46.982] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:09:46.986] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:10:14.185] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: das
+[2025-04-28 14:10:14.193] [INFO] [Gamestore.Services.GameService] Game found. Updating game with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:10:14.194] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: d5b83dbd-3a41-4f3a-8dcf-8be4f11ccbf1 to game ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:10:14.197] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:10:14.231] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:10:14.234] [INFO] [Gamestore.Services.GameService] Game saved successfully with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:10:14.249] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:10:14.254] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:10:23.954] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:10:23.958] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:10:39.297] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:10:39.300] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 14:10:39.303] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: 1234
+[2025-04-28 14:10:39.307] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: 1234
+[2025-04-28 14:10:39.317] [INFO] [Gamestore.Services.GameService] New game created with ID: 1690d394-3b58-499b-8388-2131d0a2fc29
+[2025-04-28 14:10:39.318] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: d5b83dbd-3a41-4f3a-8dcf-8be4f11ccbf1 to game ID: 1690d394-3b58-499b-8388-2131d0a2fc29
+[2025-04-28 14:10:39.321] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: 1690d394-3b58-499b-8388-2131d0a2fc29
+[2025-04-28 14:10:39.327] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: 1690d394-3b58-499b-8388-2131d0a2fc29
+[2025-04-28 14:10:39.330] [INFO] [Gamestore.Services.GameService] Game saved successfully with ID: 1690d394-3b58-499b-8388-2131d0a2fc29
+[2025-04-28 14:10:39.342] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:10:39.346] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 14:10:46.074] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: 1234
+[2025-04-28 14:10:46.080] [INFO] [Gamestore.Services.GameService] Game found with ID: 1690d394-3b58-499b-8388-2131d0a2fc29
+[2025-04-28 14:10:58.127] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:10:58.131] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 14:11:14.801] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: 1234
+[2025-04-28 14:11:14.805] [INFO] [Gamestore.Services.GameService] Game found with ID: 1690d394-3b58-499b-8388-2131d0a2fc29
+[2025-04-28 14:11:15.756] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: 1234
+[2025-04-28 14:11:15.760] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: 1690d394-3b58-499b-8388-2131d0a2fc29
+[2025-04-28 14:11:15.762] [INFO] [Gamestore.Services.GameService] Removing 1 platform relations for game ID: 1690d394-3b58-499b-8388-2131d0a2fc29
+[2025-04-28 14:11:15.770] [INFO] [Gamestore.Services.GameService] Deleting game with ID: 1690d394-3b58-499b-8388-2131d0a2fc29
+[2025-04-28 14:11:15.780] [INFO] [Gamestore.Services.GameService] Game with key: 1234 deleted successfully
+[2025-04-28 14:11:15.791] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:11:15.794] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:11:25.328] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:11:25.332] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:11:27.379] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 14:11:27.385] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:11:29.922] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:11:29.925] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:11:44.757] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:11:44.761] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 14:11:44.764] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 14:11:44.767] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:11:47.796] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:11:47.799] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:12:38.548] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:12:38.549] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:12:38.992] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 14:12:38.993] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 14:12:39.956] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:12:40.020] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:12:42.047] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 14:12:42.144] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:12:51.226] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:12:51.230] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:12:52.310] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: string
+[2025-04-28 14:12:52.319] [INFO] [Gamestore.Services.GameService] Game found with ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-28 14:12:56.092] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:12:56.096] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:12:57.635] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: string
+[2025-04-28 14:12:57.639] [INFO] [Gamestore.Services.GameService] Game found with ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-28 14:12:58.345] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: string
+[2025-04-28 14:12:58.350] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-28 14:12:58.351] [INFO] [Gamestore.Services.GameService] Removing 1 genre relations for game ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-28 14:12:58.412] [INFO] [Gamestore.Services.GameService] Removing 1 platform relations for game ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-28 14:12:58.417] [INFO] [Gamestore.Services.GameService] Deleting game with ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-28 14:12:58.430] [INFO] [Gamestore.Services.GameService] Game with key: string deleted successfully
+[2025-04-28 14:12:58.442] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:12:58.446] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 14:16:26.712] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:16:26.712] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:16:27.082] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:16:27.082] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:17:46.347] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:17:46.759] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:17:47.562] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:17:47.638] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 14:18:23.184] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:18:23.184] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:18:23.598] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:18:23.598] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-28 14:18:27.286] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:18:27.353] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-28 14:18:38.599] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: 123
+[2025-04-28 14:18:38.679] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: 123
+[2025-04-28 14:18:38.748] [INFO] [Gamestore.Services.GameService] New game created with ID: 425d2340-85d9-4fef-b1e3-96f9d0f3116b
+[2025-04-28 14:18:38.750] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: 8e202e5a-9c7d-4113-9e1a-4bfa75d2daff to game ID: 425d2340-85d9-4fef-b1e3-96f9d0f3116b
+[2025-04-28 14:18:38.761] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: 425d2340-85d9-4fef-b1e3-96f9d0f3116b
+[2025-04-28 14:18:38.767] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: 425d2340-85d9-4fef-b1e3-96f9d0f3116b
+[2025-04-28 14:18:38.788] [INFO] [Gamestore.Services.GameService] Game saved successfully with ID: 425d2340-85d9-4fef-b1e3-96f9d0f3116b
+[2025-04-28 14:18:38.801] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:18:38.805] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:19:36.243] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:19:36.243] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:19:36.245] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:19:36.252] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 14:19:36.253] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 14:19:36.253] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 14:19:37.790] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:19:37.794] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:20:04.759] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: safd
+[2025-04-28 14:20:05.239] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: safd
+[2025-04-28 14:20:05.247] [INFO] [Gamestore.Services.GameService] New game created with ID: d7520608-54ac-4134-90d1-ed9a01b6d222
+[2025-04-28 14:20:05.371] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: f1ca5b26-668d-4b1f-8413-4ad94ed5e4c8 to game ID: d7520608-54ac-4134-90d1-ed9a01b6d222
+[2025-04-28 14:20:05.505] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: d7520608-54ac-4134-90d1-ed9a01b6d222
+[2025-04-28 14:20:05.515] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: d7520608-54ac-4134-90d1-ed9a01b6d222
+[2025-04-28 14:20:06.975] [INFO] [Gamestore.Services.GameService] Game saved successfully with ID: d7520608-54ac-4134-90d1-ed9a01b6d222
+[2025-04-28 14:20:07.001] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:20:07.006] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 14:23:40.259] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:23:40.260] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:23:40.671] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 14:23:40.672] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 14:23:43.363] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:23:43.387] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 14:24:05.239] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: fffff
+[2025-04-28 14:24:05.321] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: fffff
+[2025-04-28 14:24:05.392] [INFO] [Gamestore.Services.GameService] New game created with ID: ce51ce36-f2c9-4c76-aee3-0ea35b487b90
+[2025-04-28 14:24:05.394] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: d5b83dbd-3a41-4f3a-8dcf-8be4f11ccbf1 to game ID: ce51ce36-f2c9-4c76-aee3-0ea35b487b90
+[2025-04-28 14:24:05.405] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: ce51ce36-f2c9-4c76-aee3-0ea35b487b90
+[2025-04-28 14:24:05.412] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: ce51ce36-f2c9-4c76-aee3-0ea35b487b90
+[2025-04-28 14:24:05.434] [INFO] [Gamestore.Services.GameService] Game saved successfully with ID: ce51ce36-f2c9-4c76-aee3-0ea35b487b90
+[2025-04-28 14:24:05.453] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:24:05.456] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 14:24:45.339] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: asdddd
+[2025-04-28 14:24:45.344] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: asdddd
+[2025-04-28 14:24:45.354] [INFO] [Gamestore.Services.GameService] New game created with ID: 130262ca-99b9-4698-a8b8-9cba740b2659
+[2025-04-28 14:24:45.354] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: ce8a46b7-91d5-4316-bf72-8b57551054e5 to game ID: 130262ca-99b9-4698-a8b8-9cba740b2659
+[2025-04-28 14:24:45.358] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: 130262ca-99b9-4698-a8b8-9cba740b2659
+[2025-04-28 14:24:45.361] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: 130262ca-99b9-4698-a8b8-9cba740b2659
+[2025-04-28 14:24:45.367] [INFO] [Gamestore.Services.GameService] Game saved successfully with ID: 130262ca-99b9-4698-a8b8-9cba740b2659
+[2025-04-28 14:24:45.383] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:24:45.388] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:24:45.391] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:24:45.394] [INFO] [Gamestore.Services.GameService] Retrieved 5 games from database
+[2025-04-28 14:26:13.745] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:26:13.759] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:26:14.161] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:26:14.162] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:26:39.430] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:26:39.739] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:27:15.540] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:27:15.951] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:28:31.915] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:28:31.915] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:28:32.275] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:28:32.276] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:29:08.198] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:29:08.199] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:29:08.619] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:29:08.620] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:32:30.374] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:32:30.375] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:32:30.687] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:32:30.688] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:32:50.164] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:32:50.574] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:34:02.609] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:34:02.615] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:35:29.380] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:35:29.381] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:35:29.792] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:35:29.794] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:36:08.742] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:36:09.165] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:37:28.563] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:37:28.564] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:37:28.961] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:37:28.962] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:38:37.197] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:38:37.201] [INFO] [Gamestore.Services.GameService] Total games count: 5
+[2025-04-28 14:38:42.456] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:38:42.474] [INFO] [Gamestore.Services.GameService] Retrieved 5 games from database
+[2025-04-28 14:39:00.550] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: asdasffsa
+[2025-04-28 14:39:00.599] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: asdasffsa
+[2025-04-28 14:39:00.667] [INFO] [Gamestore.Services.GameService] New game created with ID: 4200c1d6-f412-43b9-9c63-d1c0a9e840e6
+[2025-04-28 14:39:00.668] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: ce8a46b7-91d5-4316-bf72-8b57551054e5 to game ID: 4200c1d6-f412-43b9-9c63-d1c0a9e840e6
+[2025-04-28 14:39:00.674] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: 4200c1d6-f412-43b9-9c63-d1c0a9e840e6
+[2025-04-28 14:39:00.681] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: 4200c1d6-f412-43b9-9c63-d1c0a9e840e6
+[2025-04-28 14:39:00.700] [INFO] [Gamestore.Services.GameService] Game saved successfully with ID: 4200c1d6-f412-43b9-9c63-d1c0a9e840e6
+[2025-04-28 14:39:00.714] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:39:00.718] [INFO] [Gamestore.Services.GameService] Retrieved 6 games from database
+[2025-04-28 14:39:54.737] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:39:54.739] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:39:54.740] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:39:54.751] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:39:54.753] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:39:54.753] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:39:55.987] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:39:55.990] [INFO] [Gamestore.Services.GameService] Retrieved 6 games from database
+[2025-04-28 14:42:03.540] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:42:03.541] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:42:03.941] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:42:03.942] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:44:40.474] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:44:40.475] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:44:40.911] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:44:40.912] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:45:17.192] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:45:17.584] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:46:03.913] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:46:04.316] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:46:29.228] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:46:29.228] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:46:29.608] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:46:29.608] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:46:56.751] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:46:56.751] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:46:57.072] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:46:57.073] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:46:57.841] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:46:57.904] [INFO] [Gamestore.Services.GameService] Retrieved 6 games from database
+[2025-04-28 14:47:50.233] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:47:50.234] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:47:50.550] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:47:50.551] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:49:17.963] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:49:17.967] [INFO] [Gamestore.Services.GameService] Total games count: 6
+[2025-04-28 14:49:22.716] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:49:22.738] [INFO] [Gamestore.Services.GameService] Retrieved 6 games from database
+[2025-04-28 14:49:24.942] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: safd
+[2025-04-28 14:49:25.023] [INFO] [Gamestore.Services.GameService] Game found with ID: d7520608-54ac-4134-90d1-ed9a01b6d222
+[2025-04-28 14:49:25.788] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: safd
+[2025-04-28 14:49:25.793] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: d7520608-54ac-4134-90d1-ed9a01b6d222
+[2025-04-28 14:49:25.795] [INFO] [Gamestore.Services.GameService] Deleting game with ID: d7520608-54ac-4134-90d1-ed9a01b6d222
+[2025-04-28 14:49:25.858] [INFO] [Gamestore.Services.GameService] Game with key: safd deleted successfully
+[2025-04-28 14:49:25.868] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:49:25.872] [INFO] [Gamestore.Services.GameService] Retrieved 5 games from database
+[2025-04-28 14:49:26.685] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: asdasffsa
+[2025-04-28 14:49:26.689] [INFO] [Gamestore.Services.GameService] Game found with ID: 4200c1d6-f412-43b9-9c63-d1c0a9e840e6
+[2025-04-28 14:49:27.201] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: asdasffsa
+[2025-04-28 14:49:27.205] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: 4200c1d6-f412-43b9-9c63-d1c0a9e840e6
+[2025-04-28 14:49:27.206] [INFO] [Gamestore.Services.GameService] Deleting game with ID: 4200c1d6-f412-43b9-9c63-d1c0a9e840e6
+[2025-04-28 14:49:27.212] [INFO] [Gamestore.Services.GameService] Game with key: asdasffsa deleted successfully
+[2025-04-28 14:49:27.222] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:49:27.226] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 14:49:27.771] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: asdddd
+[2025-04-28 14:49:27.775] [INFO] [Gamestore.Services.GameService] Game found with ID: 130262ca-99b9-4698-a8b8-9cba740b2659
+[2025-04-28 14:49:28.250] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: asdddd
+[2025-04-28 14:49:28.254] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: 130262ca-99b9-4698-a8b8-9cba740b2659
+[2025-04-28 14:49:28.255] [INFO] [Gamestore.Services.GameService] Deleting game with ID: 130262ca-99b9-4698-a8b8-9cba740b2659
+[2025-04-28 14:49:28.258] [INFO] [Gamestore.Services.GameService] Game with key: asdddd deleted successfully
+[2025-04-28 14:49:28.269] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:49:28.273] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 14:49:28.949] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: 123
+[2025-04-28 14:49:28.952] [INFO] [Gamestore.Services.GameService] Game found with ID: 425d2340-85d9-4fef-b1e3-96f9d0f3116b
+[2025-04-28 14:49:29.426] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: 123
+[2025-04-28 14:49:29.429] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: 425d2340-85d9-4fef-b1e3-96f9d0f3116b
+[2025-04-28 14:49:29.430] [INFO] [Gamestore.Services.GameService] Deleting game with ID: 425d2340-85d9-4fef-b1e3-96f9d0f3116b
+[2025-04-28 14:49:29.433] [INFO] [Gamestore.Services.GameService] Game with key: 123 deleted successfully
+[2025-04-28 14:49:29.444] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:49:29.447] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:49:32.220] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: fffff
+[2025-04-28 14:49:32.224] [INFO] [Gamestore.Services.GameService] Game found with ID: ce51ce36-f2c9-4c76-aee3-0ea35b487b90
+[2025-04-28 14:49:35.640] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:49:35.643] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:57:55.927] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:57:55.928] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:57:56.374] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 14:57:56.375] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 14:57:57.357] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:57:57.423] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:58:01.129] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:58:01.133] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:58:07.680] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: fffff
+[2025-04-28 14:58:07.766] [INFO] [Gamestore.Services.GameService] Game found with ID: ce51ce36-f2c9-4c76-aee3-0ea35b487b90
+[2025-04-28 14:58:08.848] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:58:08.852] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:58:09.612] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 14:58:09.627] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 14:58:11.156] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:58:11.160] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:58:17.414] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:58:17.418] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:59:25.573] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:59:25.574] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 14:59:26.022] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 14:59:26.023] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 14:59:27.189] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:59:27.254] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:59:36.540] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 14:59:36.544] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 14:59:51.843] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: string
+[2025-04-28 14:59:51.923] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: string
+[2025-04-28 14:59:51.993] [INFO] [Gamestore.Services.GameService] New game created with ID: c5f83405-ecc7-43bd-80af-8cf1426bd0dc
+[2025-04-28 14:59:51.994] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6 to game ID: c5f83405-ecc7-43bd-80af-8cf1426bd0dc
+[2025-04-28 14:59:52.070] [ERROR] [Gamestore.Services.GameService] Error occurred while adding or updating game with key: string
+Exception: System.Collections.Generic.KeyNotFoundException: Entity not found.
+Stack Trace:    at Gamestore.Data.Repository.Repository`1.GetByIdAsync(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Data\Repository\Repository.cs:line 21
+   at Gamestore.Services.GameService.AssignPublisherToGame(GameRequestDto gameRequest, Game existingGame) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 276
+   at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 25
+[2025-04-28 15:00:22.544] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:00:22.942] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 15:00:23.806] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:00:23.872] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 15:00:25.692] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:00:25.696] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 15:00:35.059] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:00:35.465] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 15:00:52.281] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:00:52.281] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:00:52.683] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 15:00:52.684] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 15:00:53.921] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:00:53.985] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 15:00:56.725] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: fffff
+[2025-04-28 15:00:56.811] [INFO] [Gamestore.Services.GameService] Game found with ID: ce51ce36-f2c9-4c76-aee3-0ea35b487b90
+[2025-04-28 15:00:57.567] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: fffff
+[2025-04-28 15:00:57.573] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: ce51ce36-f2c9-4c76-aee3-0ea35b487b90
+[2025-04-28 15:00:57.575] [INFO] [Gamestore.Services.GameService] Deleting game with ID: ce51ce36-f2c9-4c76-aee3-0ea35b487b90
+[2025-04-28 15:00:57.641] [INFO] [Gamestore.Services.GameService] Game with key: fffff deleted successfully
+[2025-04-28 15:00:57.652] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:00:57.656] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:00:58.720] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: fffff
+[2025-04-28 15:00:58.759] [ERROR] [Gamestore.Services.GameService] Error retrieving game with key: fffff
+Exception: System.ArgumentNullException: Value cannot be null. (Parameter 'game')
+Stack Trace:    at System.ArgumentNullException.Throw(String paramName)
+   at System.ArgumentNullException.ThrowIfNull(Object argument, String paramName)
+   at Gamestore.Services.GameService.ValidateGame(Game game) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 529
+   at Gamestore.Services.GameService.GetGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 48
+[2025-04-28 15:01:01.107] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:01:01.110] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:01:04.380] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 15:01:04.393] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 15:02:17.809] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:02:17.816] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:02:17.818] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:02:17.821] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:02:23.505] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:02:23.509] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:02:35.805] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:02:35.809] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:03:06.308] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:03:06.309] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:03:06.791] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:03:06.792] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:03:07.568] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:03:07.631] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:03:17.486] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:03:17.490] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:03:52.522] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:03:52.898] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:03:53.882] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:03:53.951] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:04:02.332] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:04:02.336] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:04:07.821] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 15:04:07.915] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 15:04:09.001] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:04:09.005] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:04:13.793] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:04:13.797] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:04:25.425] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:04:25.830] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:04:33.718] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:04:33.786] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:06:42.375] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:06:42.376] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:06:42.809] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:06:42.810] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:08:44.617] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:08:44.621] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:08:44.627] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:08:44.651] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:09:14.784] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:09:14.787] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:09:18.285] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:09:18.288] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:11:02.917] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:11:02.924] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:11:03.359] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:11:03.359] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:12:44.503] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:12:44.954] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:12:49.717] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:12:49.823] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:13:04.737] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:13:04.741] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:15:34.259] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:15:34.259] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:15:34.692] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:15:34.692] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:15:53.606] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:15:53.699] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:16:18.477] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:16:18.487] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:16:27.257] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:16:27.263] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:17:55.742] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:17:55.745] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:19:44.353] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:19:44.354] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:19:44.831] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:19:44.832] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:23:32.334] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:23:32.334] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:23:32.727] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:23:32.728] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:23:45.971] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:23:46.033] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:24:56.276] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:24:56.277] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:24:56.732] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:24:56.733] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:25:06.254] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:25:06.316] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:26:19.529] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:26:19.529] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:26:19.998] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:26:19.999] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:26:28.728] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:26:28.794] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:31:28.755] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:31:28.756] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:31:29.147] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:31:29.148] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:33:15.986] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:33:15.986] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:33:16.320] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:33:16.321] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:34:38.917] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:34:38.918] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:34:39.299] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:34:39.300] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:34:40.353] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:34:40.416] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:34:45.992] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:34:45.996] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:36:21.381] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:36:21.384] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:36:21.867] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:36:21.868] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:36:24.165] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:36:24.230] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:36:25.175] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 15:36:25.275] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 15:36:29.885] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:36:29.889] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:36:31.281] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: string
+[2025-04-28 15:36:31.287] [INFO] [Gamestore.Services.GameService] Game found with ID: c5f83405-ecc7-43bd-80af-8cf1426bd0dc
+[2025-04-28 15:36:35.516] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:36:35.519] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:36:36.223] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: string
+[2025-04-28 15:36:36.226] [INFO] [Gamestore.Services.GameService] Game found with ID: c5f83405-ecc7-43bd-80af-8cf1426bd0dc
+[2025-04-28 15:36:39.681] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:36:39.685] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:37:04.482] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:37:04.788] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:39:08.535] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:39:08.536] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:39:08.878] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:39:08.878] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:42:38.609] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:42:38.939] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:46:34.035] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:46:34.449] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:47:27.181] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:47:27.182] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:47:27.615] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:47:27.617] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:48:36.554] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:48:36.863] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:48:36.918] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:48:36.984] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:48:41.275] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:48:41.279] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:49:05.667] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:49:05.975] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:49:06.033] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:49:06.097] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:49:10.149] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:49:10.153] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:50:17.113] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:50:17.117] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:51:06.130] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:51:06.133] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:52:46.587] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:52:46.904] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:52:53.546] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:52:53.566] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:52:56.713] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:52:56.717] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:53:01.903] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:53:01.907] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:53:04.446] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:53:04.449] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:53:47.449] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:53:47.455] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:53:47.458] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:53:47.461] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:54:03.611] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:54:03.615] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:55:03.543] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:55:03.549] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:55:44.806] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:55:44.807] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:55:45.237] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:55:45.238] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:55:54.593] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:55:54.903] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:55:54.960] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:55:55.025] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:57:04.753] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:57:05.176] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:57:06.195] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:57:06.263] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:57:55.589] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:57:55.593] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:59:00.635] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:59:00.636] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:59:01.052] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:59:01.053] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:59:05.421] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:59:05.492] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 15:59:22.220] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:59:22.222] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:59:22.674] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:59:22.675] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:59:43.308] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:59:43.308] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 15:59:43.740] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:59:43.740] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 15:59:48.193] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 15:59:48.261] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 16:03:46.942] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:03:46.945] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 16:03:46.947] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:03:46.950] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 16:04:58.774] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:04:58.775] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:04:59.088] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 16:04:59.088] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 16:05:00.373] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:05:00.453] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 16:05:53.529] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:05:53.530] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:05:53.930] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 16:05:53.933] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 16:05:55.274] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:05:55.337] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 16:08:18.068] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:08:18.069] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:08:18.497] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 16:08:18.497] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 16:08:22.351] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:08:22.418] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 16:09:47.852] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:09:47.856] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 16:10:27.097] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:10:27.097] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:10:27.418] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 16:10:27.418] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 16:10:30.914] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:10:30.983] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 16:12:01.657] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:12:01.659] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:12:02.083] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 16:12:02.083] [INFO] [Gamestore.Services.GameService] Total games count: 2
+[2025-04-28 16:12:03.456] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:12:03.525] [INFO] [Gamestore.Services.GameService] Retrieved 2 games from database
+[2025-04-28 16:12:23.365] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: 
+[2025-04-28 16:12:23.390] [ERROR] [Gamestore.Services.GameService] Error occurred while adding or updating game with key: 
+Exception: System.ComponentModel.DataAnnotations.ValidationException: Game key cannot be empty
+Stack Trace:    at Gamestore.Services.GameService.ValidateGameRequest(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 304
+   at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 22
+[2025-04-28 16:12:34.525] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: fas
+[2025-04-28 16:12:34.608] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: fas
+[2025-04-28 16:12:34.676] [INFO] [Gamestore.Services.GameService] New game created with ID: fbd95a44-3d30-443a-90f3-efcac6036a0f
+[2025-04-28 16:12:34.678] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: ce8a46b7-91d5-4316-bf72-8b57551054e5 to game ID: fbd95a44-3d30-443a-90f3-efcac6036a0f
+[2025-04-28 16:12:34.690] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: fbd95a44-3d30-443a-90f3-efcac6036a0f
+[2025-04-28 16:12:34.698] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: fbd95a44-3d30-443a-90f3-efcac6036a0f
+[2025-04-28 16:12:34.717] [INFO] [Gamestore.Services.GameService] Game saved successfully with ID: fbd95a44-3d30-443a-90f3-efcac6036a0f
+[2025-04-28 16:12:34.733] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:12:34.737] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 16:13:01.289] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:13:01.290] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:13:01.740] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:13:01.740] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:13:38.701] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:13:38.702] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:13:39.138] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:13:39.139] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:13:40.333] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:13:40.394] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 16:13:41.691] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 16:13:41.787] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 16:13:55.697] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:13:55.701] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 16:13:57.102] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 16:13:57.107] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 16:14:41.565] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:14:41.568] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:14:46.871] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:14:46.875] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 16:14:49.448] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 16:14:49.453] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 16:15:06.680] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:15:06.686] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 16:15:46.540] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:15:46.546] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:16:00.939] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:16:00.943] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 16:16:02.314] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 16:16:02.319] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 16:17:21.087] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:17:21.093] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:17:21.096] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 16:17:21.101] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 16:18:27.383] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:18:27.384] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:18:27.826] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:18:27.827] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:19:44.472] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:19:44.473] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:19:44.836] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:19:44.837] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:21:12.198] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:21:12.201] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:22:50.560] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:22:50.564] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:26:49.000] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:26:49.001] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:26:49.458] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:26:49.463] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:27:44.444] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:27:44.760] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:29:14.831] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:29:14.831] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:29:15.142] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:29:15.143] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:30:18.792] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:30:18.796] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:31:42.122] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:31:42.126] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:33:00.890] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:33:00.897] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:34:46.889] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:34:46.893] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:34:46.899] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:34:46.918] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 16:34:57.846] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: fgsa
+[2025-04-28 16:34:57.925] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: fgsa
+[2025-04-28 16:34:57.995] [INFO] [Gamestore.Services.GameService] New game created with ID: 9991d454-2fd0-4f45-af2a-88e560267cc2
+[2025-04-28 16:34:57.997] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: ce8a46b7-91d5-4316-bf72-8b57551054e5 to game ID: 9991d454-2fd0-4f45-af2a-88e560267cc2
+[2025-04-28 16:34:58.007] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: 9991d454-2fd0-4f45-af2a-88e560267cc2
+[2025-04-28 16:34:58.014] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: 9991d454-2fd0-4f45-af2a-88e560267cc2
+[2025-04-28 16:34:58.033] [INFO] [Gamestore.Services.GameService] Game saved successfully with ID: 9991d454-2fd0-4f45-af2a-88e560267cc2
+[2025-04-28 16:34:58.049] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:34:58.053] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 16:43:02.115] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:43:02.127] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-28 16:47:36.851] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:47:36.852] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:47:37.354] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-28 16:47:37.355] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-28 16:49:58.979] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:49:58.982] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-28 16:51:41.024] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:51:41.030] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-28 16:51:41.035] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:51:41.053] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 16:51:53.714] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:51:53.718] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 16:52:02.155] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:52:02.158] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 16:52:20.942] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: fas
+[2025-04-28 16:52:21.024] [INFO] [Gamestore.Services.GameService] Game found with ID: fbd95a44-3d30-443a-90f3-efcac6036a0f
+[2025-04-28 16:52:23.394] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: fas
+[2025-04-28 16:52:23.399] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: fbd95a44-3d30-443a-90f3-efcac6036a0f
+[2025-04-28 16:52:23.401] [INFO] [Gamestore.Services.GameService] Deleting game with ID: fbd95a44-3d30-443a-90f3-efcac6036a0f
+[2025-04-28 16:52:23.463] [INFO] [Gamestore.Services.GameService] Game with key: fas deleted successfully
+[2025-04-28 16:52:23.474] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:52:23.478] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 16:53:20.827] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:53:20.830] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:53:20.833] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:53:20.835] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 16:53:40.875] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:53:40.879] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 16:54:00.027] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:54:00.031] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 16:54:04.213] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 16:54:04.226] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 16:57:41.554] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:57:41.559] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:57:41.573] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:57:41.582] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:59:03.623] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 16:59:04.113] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 16:59:05.108] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 16:59:05.170] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 16:59:56.134] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 16:59:56.226] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 17:24:58.476] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 17:24:58.476] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 17:24:58.870] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 17:24:58.870] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 17:25:04.533] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:25:04.598] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 17:25:27.868] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:25:27.872] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 17:25:31.307] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:25:31.310] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 17:25:32.869] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: fgsa
+[2025-04-28 17:25:32.948] [INFO] [Gamestore.Services.GameService] Game found with ID: 9991d454-2fd0-4f45-af2a-88e560267cc2
+[2025-04-28 17:25:37.077] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:25:37.081] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 17:26:15.620] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 17:26:15.625] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 17:26:15.628] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: fgsa
+[2025-04-28 17:26:15.633] [INFO] [Gamestore.Services.GameService] Game found with ID: 9991d454-2fd0-4f45-af2a-88e560267cc2
+[2025-04-28 17:26:24.005] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:26:24.008] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 17:32:15.320] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 17:32:15.764] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 17:32:23.853] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:32:23.916] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 17:32:27.602] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 17:32:27.698] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 17:32:34.651] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:32:34.655] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 17:32:44.936] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:32:44.940] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 17:33:03.963] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: jffas
+[2025-04-28 17:33:03.969] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: jffas
+[2025-04-28 17:33:04.034] [INFO] [Gamestore.Services.GameService] New game created with ID: ebfdcb46-ba05-46b1-9f26-aaa069e4f3ee
+[2025-04-28 17:33:04.036] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: ce8a46b7-91d5-4316-bf72-8b57551054e5 to game ID: ebfdcb46-ba05-46b1-9f26-aaa069e4f3ee
+[2025-04-28 17:33:04.047] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: ebfdcb46-ba05-46b1-9f26-aaa069e4f3ee
+[2025-04-28 17:33:04.053] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: ebfdcb46-ba05-46b1-9f26-aaa069e4f3ee
+[2025-04-28 17:33:04.073] [INFO] [Gamestore.Services.GameService] Game saved successfully with ID: ebfdcb46-ba05-46b1-9f26-aaa069e4f3ee
+[2025-04-28 17:33:04.088] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:33:04.092] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 17:49:50.001] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 17:49:50.002] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 17:49:50.424] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-28 17:49:50.424] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-28 17:49:58.578] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:49:58.645] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 17:53:40.002] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 17:53:40.310] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-28 17:53:40.364] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:53:40.426] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 17:53:41.607] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 17:53:41.707] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 17:53:51.064] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:53:51.068] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 17:53:51.926] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: fgsa
+[2025-04-28 17:53:51.932] [INFO] [Gamestore.Services.GameService] Game found with ID: 9991d454-2fd0-4f45-af2a-88e560267cc2
+[2025-04-28 17:53:56.232] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:53:56.236] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 17:53:56.980] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: string
+[2025-04-28 17:53:56.984] [INFO] [Gamestore.Services.GameService] Game found with ID: c5f83405-ecc7-43bd-80af-8cf1426bd0dc
+[2025-04-28 17:54:00.282] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:54:00.286] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 17:54:26.415] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 17:54:26.420] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97
+[2025-04-28 17:54:27.474] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:54:27.478] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 17:54:56.316] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 17:54:56.319] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-28 17:55:04.841] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:55:04.844] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 17:56:06.584] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 17:56:07.003] [INFO] [Gamestore.Services.GameService] Total games count: 4
+[2025-04-28 17:56:09.229] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:56:09.290] [INFO] [Gamestore.Services.GameService] Retrieved 4 games from database
+[2025-04-28 17:56:32.172] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: jffas
+[2025-04-28 17:56:32.258] [INFO] [Gamestore.Services.GameService] Game found with ID: ebfdcb46-ba05-46b1-9f26-aaa069e4f3ee
+[2025-04-28 17:56:35.014] [INFO] [Gamestore.Services.GameService] Starting delete game operation for key: jffas
+[2025-04-28 17:56:35.020] [INFO] [Gamestore.Services.GameService] Found game for deletion with ID: ebfdcb46-ba05-46b1-9f26-aaa069e4f3ee
+[2025-04-28 17:56:35.022] [INFO] [Gamestore.Services.GameService] Deleting game with ID: ebfdcb46-ba05-46b1-9f26-aaa069e4f3ee
+[2025-04-28 17:56:35.084] [INFO] [Gamestore.Services.GameService] Game with key: jffas deleted successfully
+[2025-04-28 17:56:35.095] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-28 17:56:35.099] [INFO] [Gamestore.Services.GameService] Retrieved 3 games from database
+[2025-04-28 17:57:16.394] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-28 17:57:16.398] [INFO] [Gamestore.Services.GameService] Total games count: 3
+[2025-04-28 17:57:16.400] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: das
+[2025-04-28 17:57:16.414] [INFO] [Gamestore.Services.GameService] Game found with ID: 9572cc88-6413-4c0c-be6e-1241edb50f97

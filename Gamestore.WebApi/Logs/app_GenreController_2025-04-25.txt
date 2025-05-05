@@ -1,0 +1,2 @@
+[2025-04-25 15:50:14.660] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-04-25 15:50:14.677] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres

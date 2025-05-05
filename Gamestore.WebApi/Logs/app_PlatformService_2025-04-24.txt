@@ -1,0 +1,11 @@
+[2025-04-24 15:03:40.177] [INFO] [Gamestore.Services.PlatformService] Starting create or update platform operation
+[2025-04-24 15:03:40.301] [INFO] [Gamestore.Services.PlatformService] Platform with ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6 not found - creating new
+[2025-04-24 15:03:40.302] [INFO] [Gamestore.Services.PlatformService] Validating uniqueness for new platform type: Valid
+[2025-04-24 15:03:40.397] [INFO] [Gamestore.Services.PlatformService] New platform created with ID: 29405e7d-a47a-4e18-95ed-9447877ab795
+[2025-04-24 15:03:57.443] [INFO] [Gamestore.Services.PlatformService] Starting create or update platform operation
+[2025-04-24 15:03:57.486] [INFO] [Gamestore.Services.PlatformService] Platform with ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6 not found - creating new
+[2025-04-24 15:03:57.487] [INFO] [Gamestore.Services.PlatformService] Validating uniqueness for new platform type: Valid
+[2025-04-24 15:03:57.533] [ERROR] [Gamestore.Services.PlatformService] Error occurred while creating or updating platform
+Exception: System.ComponentModel.DataAnnotations.ValidationException: Platform with type 'Valid' already exists
+Stack Trace:    at Gamestore.Services.PlatformService.ValidatePlatformTypeUniqueness(String type)
+   at Gamestore.Services.PlatformService.CreateOrUpdatePlatform(PlatfromRequestDto platformRequest)

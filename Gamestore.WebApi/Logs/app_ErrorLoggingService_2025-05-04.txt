@@ -1,0 +1,188 @@
+[2025-05-04 19:28:48.781] [ERROR] [Gamestore.WebApi.Logging.ErrorLoggingService] === EXCEPTION DETAILS ===
+Exception Type: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException
+Message: Failed to generate Operation for action - Gamestore.WebApi.Controllers.PublishersController.GetPublisherByName (Gamestore.WebApi). See inner exception
+Source: Swashbuckle.AspNetCore.SwaggerGen
+Additional Info: Occurred while processing: GET /swagger/v1/swagger.json
+=== INNER EXCEPTION (level 1) ===
+Type: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException
+Message: Failed to generate schema for type - Gamestore.Entities.Publisher. See inner exception
+Source: Swashbuckle.AspNetCore.SwaggerGen
+=== INNER EXCEPTION (level 2) ===
+Type: System.TypeLoadException
+Message: Could not load type 'Invalid_Token.0x0200003B' from assembly 'Gamestore.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+Source: System.Private.CoreLib
+Stack Trace:
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository, Func`3 parametersGenerator, Func`3 bodyGenerator, Func`3 applyFilters)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 40
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 77
+   at Gamestore.WebApi.Middleware.TotalGamesMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\TotalGamesMiddleware.cs:line 29
+   at Gamestore.WebApi.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext, ErrorLoggingService errorLogger) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\ExceptionMiddleware.cs:line 26
+=== END OF EXCEPTION DETAILS ===
+
+Exception: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Failed to generate Operation for action - Gamestore.WebApi.Controllers.PublishersController.GetPublisherByName (Gamestore.WebApi). See inner exception
+Inner Exception: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Failed to generate schema for type - Gamestore.Entities.Publisher. See inner exception
+Stack Trace:    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository, Func`3 parametersGenerator, Func`3 bodyGenerator, Func`3 applyFilters)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 40
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 77
+   at Gamestore.WebApi.Middleware.TotalGamesMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\TotalGamesMiddleware.cs:line 29
+   at Gamestore.WebApi.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext, ErrorLoggingService errorLogger) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\ExceptionMiddleware.cs:line 26
+[2025-05-04 19:28:51.742] [ERROR] [Gamestore.WebApi.Logging.ErrorLoggingService] === EXCEPTION DETAILS ===
+Exception Type: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException
+Message: Failed to generate Operation for action - Gamestore.WebApi.Controllers.PublishersController.GetPublisherByName (Gamestore.WebApi). See inner exception
+Source: Swashbuckle.AspNetCore.SwaggerGen
+Additional Info: Occurred while processing: GET /swagger/v1/swagger.json
+=== INNER EXCEPTION (level 1) ===
+Type: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException
+Message: Failed to generate schema for type - Gamestore.Entities.Publisher. See inner exception
+Source: Swashbuckle.AspNetCore.SwaggerGen
+=== INNER EXCEPTION (level 2) ===
+Type: System.TypeLoadException
+Message: Could not load type 'Invalid_Token.0x0200003B' from assembly 'Gamestore.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+Source: System.Private.CoreLib
+Stack Trace:
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository, Func`3 parametersGenerator, Func`3 bodyGenerator, Func`3 applyFilters)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 40
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 77
+   at Gamestore.WebApi.Middleware.TotalGamesMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\TotalGamesMiddleware.cs:line 29
+   at Gamestore.WebApi.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext, ErrorLoggingService errorLogger) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\ExceptionMiddleware.cs:line 26
+=== END OF EXCEPTION DETAILS ===
+
+Exception: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Failed to generate Operation for action - Gamestore.WebApi.Controllers.PublishersController.GetPublisherByName (Gamestore.WebApi). See inner exception
+Inner Exception: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Failed to generate schema for type - Gamestore.Entities.Publisher. See inner exception
+Stack Trace:    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository, Func`3 parametersGenerator, Func`3 bodyGenerator, Func`3 applyFilters)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 40
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 77
+   at Gamestore.WebApi.Middleware.TotalGamesMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\TotalGamesMiddleware.cs:line 29
+   at Gamestore.WebApi.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext, ErrorLoggingService errorLogger) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\ExceptionMiddleware.cs:line 26
+[2025-05-04 20:23:26.378] [ERROR] [Gamestore.WebApi.Logging.ErrorLoggingService] === EXCEPTION DETAILS ===
+Exception Type: System.ArgumentException
+Message: Game key cannot be empty or 'undefined'
+Source: Gamestore.WebApi
+Additional Info: Occurred while processing: DELETE /api/games/undefined
+Parameter name: 
+Stack Trace:
+   at Gamestore.WebApi.Controllers.GameController.DeleteGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 133
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 40
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 77
+   at Gamestore.WebApi.Middleware.TotalGamesMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\TotalGamesMiddleware.cs:line 29
+   at Gamestore.WebApi.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext, ErrorLoggingService errorLogger) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\ExceptionMiddleware.cs:line 26
+=== END OF EXCEPTION DETAILS ===
+
+Exception: System.ArgumentException: Game key cannot be empty or 'undefined'
+Stack Trace:    at Gamestore.WebApi.Controllers.GameController.DeleteGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 133
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 40
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 77
+   at Gamestore.WebApi.Middleware.TotalGamesMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\TotalGamesMiddleware.cs:line 29
+   at Gamestore.WebApi.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext, ErrorLoggingService errorLogger) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\ExceptionMiddleware.cs:line 26
+[2025-05-04 20:23:29.638] [ERROR] [Gamestore.WebApi.Logging.ErrorLoggingService] === EXCEPTION DETAILS ===
+Exception Type: System.ArgumentException
+Message: Game key cannot be empty or 'undefined'
+Source: Gamestore.WebApi
+Additional Info: Occurred while processing: DELETE /api/games/undefined
+Parameter name: 
+Stack Trace:
+   at Gamestore.WebApi.Controllers.GameController.DeleteGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 133
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 40
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 77
+   at Gamestore.WebApi.Middleware.TotalGamesMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\TotalGamesMiddleware.cs:line 29
+   at Gamestore.WebApi.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext, ErrorLoggingService errorLogger) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\ExceptionMiddleware.cs:line 26
+=== END OF EXCEPTION DETAILS ===
+
+Exception: System.ArgumentException: Game key cannot be empty or 'undefined'
+Stack Trace:    at Gamestore.WebApi.Controllers.GameController.DeleteGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 133
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 40
+   at Gamestore.WebApi.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\RequestLoggingMiddleware.cs:line 77
+   at Gamestore.WebApi.Middleware.TotalGamesMiddleware.InvokeAsync(HttpContext context) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\TotalGamesMiddleware.cs:line 29
+   at Gamestore.WebApi.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext, ErrorLoggingService errorLogger) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Middleware\ExceptionMiddleware.cs:line 26

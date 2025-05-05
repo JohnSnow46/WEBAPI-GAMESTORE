@@ -1,0 +1,5 @@
+[2025-04-17 13:42:58.003] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7040
+[2025-04-17 13:42:58.007] [INFO] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5223
+[2025-04-17 13:42:58.057] [INFO] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[2025-04-17 13:42:58.059] [INFO] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[2025-04-17 13:42:58.060] [INFO] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.WebApi

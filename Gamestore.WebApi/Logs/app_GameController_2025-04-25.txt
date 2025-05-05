@@ -1,0 +1,21 @@
+[2025-04-25 14:50:46.205] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: string
+[2025-04-25 14:50:46.356] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: string
+[2025-04-25 14:51:10.500] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all publishers
+[2025-04-25 14:51:10.516] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 7 publishers
+[2025-04-25 14:51:24.692] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting publisher for game with key: string
+[2025-04-25 14:51:24.715] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found publisher for game with key: string
+[2025-04-25 15:49:42.883] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-25 15:49:42.945] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-04-25 16:22:27.206] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-25 16:22:27.272] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-04-25 16:59:06.999] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating or updating game with Name: string1
+[2025-04-25 17:00:23.000] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully processed game with ID: 72b8b014-95bd-4817-95d0-fa5420e985e3
+[2025-04-25 17:01:56.320] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating or updating game with Name: string
+[2025-04-25 17:02:00.853] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating or updating game
+Exception: System.InvalidOperationException: Error adding or updating game: Entity not found.
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Entity not found.
+Stack Trace:    at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 88
+   at Gamestore.WebApi.Controllers.GameController.CreateOrUpdateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 22
+[2025-04-25 17:03:57.701] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating or updating game with Name: string
+[2025-04-25 17:06:09.491] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-25 17:06:09.558] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games

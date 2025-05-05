@@ -1,0 +1,66 @@
+[2025-04-23 13:37:50.846] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 13:37:51.211] [INFO] [Gamestore.Services.GameService] Total games count: 0
+[2025-04-23 13:37:55.437] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: string
+[2025-04-23 13:37:55.539] [INFO] [Gamestore.Services.GameService] Game not found. Creating new game with key: string
+[2025-04-23 13:37:55.636] [INFO] [Gamestore.Services.GameService] New game created with ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-23 13:37:55.637] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6 to game ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-23 13:37:55.709] [ERROR] [Gamestore.Services.GameService] Error occurred while adding or updating game with key: string
+Exception: System.Collections.Generic.KeyNotFoundException: Entity not found.
+Stack Trace:    at Gamestore.Data.Repository.Repository`1.GetByIdAsync(Guid id) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Data\Repository\Repository.cs:line 21
+   at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 56
+[2025-04-23 13:38:52.536] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 13:38:52.539] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-23 13:38:52.543] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: string
+[2025-04-23 13:38:52.553] [INFO] [Gamestore.Services.GameService] Game found. Updating game with ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-23 13:38:52.554] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6 to game ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-23 13:38:52.579] [ERROR] [Gamestore.Services.GameService] Error occurred while adding or updating game with key: string
+Exception: System.Collections.Generic.KeyNotFoundException: Entity not found.
+Stack Trace:    at Gamestore.Data.Repository.Repository`1.GetByIdAsync(Guid id) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Data\Repository\Repository.cs:line 21
+   at Gamestore.Services.GameService.AddOrUpdateGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\6\game-strore-v2-epic-03\Gamestore.Services\GameService.cs:line 56
+[2025-04-23 13:39:07.658] [INFO] [Gamestore.Services.GameService] Starting add or update game operation for key: string
+[2025-04-23 13:39:07.663] [INFO] [Gamestore.Services.GameService] Game found. Updating game with ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-23 13:39:07.664] [INFO] [Gamestore.Services.GameService] Assigning publisher with ID: a3f6a33a-7d7f-4343-b4c2-2e6e689d23da to game ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-23 13:39:07.672] [INFO] [Gamestore.Services.GameService] Managing game-platform relations for game ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-23 13:39:07.716] [INFO] [Gamestore.Services.GameService] Managing game-genre relations for game ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-23 13:39:07.729] [INFO] [Gamestore.Services.GameService] Game saved successfully with ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-23 14:09:30.684] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 14:09:31.066] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-23 14:16:27.857] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 14:16:28.199] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-23 14:17:28.374] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 14:17:28.375] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 14:17:28.375] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 14:17:28.388] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-23 14:17:28.389] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-23 14:17:28.390] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-23 14:18:36.739] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 14:18:37.097] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-23 14:19:51.777] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 14:19:51.783] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-23 14:20:46.978] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 14:20:47.340] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-23 14:23:59.927] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 14:24:00.235] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-23 14:24:24.803] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-23 14:24:24.865] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-23 14:25:24.223] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 14:25:24.531] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-23 14:25:41.331] [INFO] [Gamestore.Services.GameService] Starting get all games operation
+[2025-04-23 14:25:41.393] [INFO] [Gamestore.Services.GameService] Retrieved 1 games from database
+[2025-04-23 14:26:26.355] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 14:26:26.359] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-23 14:26:26.375] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: {string}
+[2025-04-23 14:26:26.497] [ERROR] [Gamestore.Services.GameService] Error retrieving game with key: {string}
+Exception: System.ArgumentNullException: Value cannot be null. (Parameter 'game')
+Stack Trace:    at System.ArgumentNullException.Throw(String paramName)
+   at System.ArgumentNullException.ThrowIfNull(Object argument, String paramName)
+   at Gamestore.Services.GameService.ValidateGame(Game game) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 520
+   at Gamestore.Services.GameService.GetGameByKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 108
+[2025-04-23 14:27:09.690] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: string
+[2025-04-23 14:27:09.715] [INFO] [Gamestore.Services.GameService] Game found with ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-23 14:27:21.098] [INFO] [Gamestore.Services.GameService] Starting get game operation by key: string
+[2025-04-23 14:27:21.101] [INFO] [Gamestore.Services.GameService] Game found with ID: 42e324b3-bba8-4346-8165-c6a68f4a8e89
+[2025-04-23 14:30:48.959] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 14:30:49.359] [INFO] [Gamestore.Services.GameService] Total games count: 1
+[2025-04-23 14:32:52.152] [INFO] [Gamestore.Services.GameService] Starting get total games count operation
+[2025-04-23 14:32:52.465] [INFO] [Gamestore.Services.GameService] Total games count: 1

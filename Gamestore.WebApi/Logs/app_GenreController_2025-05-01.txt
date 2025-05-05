@@ -1,0 +1,64 @@
+[2025-05-01 17:58:12.751] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 17:58:12.789] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:00:18.792] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:00:18.824] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:12:16.474] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:12:16.542] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:14:47.100] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:14:47.119] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:15:01.380] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:15:01.387] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:15:46.512] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:15:46.589] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:16:30.407] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:16:30.467] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:17:29.312] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:17:29.328] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:37:35.543] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:37:35.579] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:37:40.281] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:37:40.293] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:40:22.408] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:40:22.445] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:40:31.948] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:40:31.963] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:40:40.579] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:40:40.598] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:40:42.676] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:40:42.690] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:40:45.939] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:40:45.953] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:41:54.964] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:41:54.979] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:42:37.710] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:42:37.760] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:45:41.728] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:45:41.756] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:45:54.041] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:45:54.058] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:46:24.596] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:46:24.634] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:50:16.021] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:50:16.052] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:50:26.924] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:50:26.940] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:52:59.583] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:52:59.611] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:53:06.341] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:53:06.358] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:53:17.737] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:53:17.749] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:53:31.581] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:53:31.596] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:55:18.522] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:55:18.541] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:56:09.125] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:56:09.160] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:56:11.900] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:56:11.915] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:56:14.269] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:56:14.282] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:57:22.653] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:57:22.676] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-05-01 18:57:39.389] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-05-01 18:57:39.405] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres

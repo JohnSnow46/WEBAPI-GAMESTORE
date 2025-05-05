@@ -1,0 +1,92 @@
+[2025-04-29 13:17:22.498] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 13:17:22.563] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-04-29 13:35:06.563] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: string
+[2025-04-29 13:35:06.791] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating game
+Exception: System.InvalidOperationException: Error adding game: Game with key 'string' already exists
+Inner Exception: System.ComponentModel.DataAnnotations.ValidationException: Game with key 'string' already exists
+Stack Trace:    at Gamestore.Services.GameService.AddGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 50
+   at Gamestore.WebApi.Controllers.GameController.CreateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 21
+[2025-04-29 13:35:14.647] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: string
+[2025-04-29 13:35:14.795] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating game
+Exception: System.InvalidOperationException: Error adding game: Entity not found.
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Entity not found.
+Stack Trace:    at Gamestore.Services.GameService.AddGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 50
+   at Gamestore.WebApi.Controllers.GameController.CreateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 21
+[2025-04-29 13:35:30.004] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 13:35:30.017] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 13:36:31.841] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 13:36:31.905] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 13:36:41.925] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: asd
+[2025-04-29 13:36:42.108] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: 969e0b2b-37f8-49e9-8d83-e13bc94ee28c
+[2025-04-29 13:36:42.127] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 13:36:42.133] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 5 games
+[2025-04-29 13:36:48.440] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-04-29 13:36:48.451] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-04-29 13:36:49.201] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 123
+[2025-04-29 13:36:49.222] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 123
+[2025-04-29 13:36:49.231] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 13:36:49.236] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 13:36:53.024] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: string
+[2025-04-29 13:36:53.029] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: string
+[2025-04-29 13:36:54.438] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 13:36:54.444] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 13:36:55.203] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: fgsa
+[2025-04-29 13:36:55.209] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: fgsa
+[2025-04-29 13:36:56.005] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 13:36:56.011] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 13:36:56.574] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: string25
+[2025-04-29 13:36:56.579] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: string25
+[2025-04-29 13:36:57.232] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 13:36:57.238] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 13:36:57.700] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: das
+[2025-04-29 13:36:57.713] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: das
+[2025-04-29 13:36:58.446] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 13:36:58.452] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 13:37:06.960] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: 123
+[2025-04-29 13:37:06.983] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: 5fe30477-68e7-4991-865a-735716a6c7c4
+[2025-04-29 13:37:06.992] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 13:37:06.997] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 5 games
+[2025-04-29 13:37:10.377] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-04-29 13:37:10.383] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-04-29 13:37:10.895] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 123
+[2025-04-29 13:37:10.904] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 123
+[2025-04-29 13:37:10.912] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 13:37:10.917] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 14:09:01.395] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 14:09:01.475] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 14:21:04.502] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 14:21:04.565] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 14:38:42.412] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 14:38:42.474] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 14:41:11.195] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: 123
+[2025-04-29 14:41:11.354] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: 386785a8-66c2-4014-adfa-9f89f24c2849
+[2025-04-29 14:41:11.380] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 14:41:11.386] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 5 games
+[2025-04-29 14:41:38.045] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-04-29 14:41:38.056] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-04-29 14:41:38.788] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 123
+[2025-04-29 14:41:38.819] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 123
+[2025-04-29 14:41:38.828] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 14:41:38.834] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 14:42:24.813] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 14:42:24.820] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 14:45:14.140] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: 123
+[2025-04-29 14:48:11.380] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: f3a9a9e9-1d8d-4131-9e59-a823cb300965
+[2025-04-29 14:48:23.718] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 14:48:23.724] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 5 games
+[2025-04-29 14:48:24.616] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-04-29 14:48:24.623] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-04-29 14:48:25.229] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 123
+[2025-04-29 14:48:25.240] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 123
+[2025-04-29 14:48:25.250] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 14:48:25.257] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 14:52:01.188] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 14:52:01.254] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games
+[2025-04-29 14:52:01.867] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: das
+[2025-04-29 14:52:01.967] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: das
+[2025-04-29 14:52:44.576] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: das
+[2025-04-29 14:52:44.583] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: das
+[2025-04-29 14:52:47.202] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: das
+[2025-04-29 14:52:47.208] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: das
+[2025-04-29 14:52:47.813] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-29 14:52:47.819] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 4 games

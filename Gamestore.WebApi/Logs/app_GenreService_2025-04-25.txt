@@ -1,0 +1,11 @@
+[2025-04-25 14:57:47.605] [INFO] [Gamestore.Services.GenreService] Getting games by publisher name: A3F6A33A-7D7F-4343-B4C2-2E6E689D23DA
+[2025-04-25 14:57:47.660] [WARN] [Gamestore.Services.GenreService] Publisher with name A3F6A33A-7D7F-4343-B4C2-2E6E689D23DA not found
+[2025-04-25 14:59:53.203] [INFO] [Gamestore.Services.GenreService] Getting games by publisher name: Square Enix
+[2025-04-25 14:59:53.231] [INFO] [Gamestore.Services.GenreService] Found 1 games for publisher: Square Enix
+[2025-04-25 15:02:57.626] [INFO] [Gamestore.Services.GenreService] Getting games by publisher name: XD
+[2025-04-25 15:02:57.679] [WARN] [Gamestore.Services.GenreService] Publisher with name XD not found
+[2025-04-25 15:02:57.716] [ERROR] [Gamestore.Services.GenreService] Error occurred while getting games by publisher name: XD
+Exception: System.Collections.Generic.KeyNotFoundException: Publisher not found
+Stack Trace:    at Gamestore.Services.PublisherService.GetGamesByPublisherNameAsync(String publisherName) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 106
+[2025-04-25 15:50:14.662] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-04-25 15:50:14.676] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database

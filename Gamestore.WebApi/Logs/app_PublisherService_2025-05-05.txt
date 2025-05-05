@@ -1,0 +1,98 @@
+[2025-05-05 00:11:01.245] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 00:11:01.257] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 04:50:31.348] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 04:50:31.369] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 04:57:53.580] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 04:57:53.594] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 04:59:00.680] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 04:59:00.689] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 04:59:16.653] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 04:59:16.661] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 05:00:54.236] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 05:00:54.251] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 05:53:43.160] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 05:53:43.173] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 05:58:55.876] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 05:58:55.952] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 05:59:33.892] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 05:59:33.897] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 06:13:34.020] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:13:34.076] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 06:13:40.460] [INFO] [Gamestore.Services.PublisherService] Starting add publisher operation
+[2025-05-05 06:13:40.461] [WARN] [Gamestore.Services.PublisherService] Publisher company name is empty
+[2025-05-05 06:13:40.507] [ERROR] [Gamestore.Services.PublisherService] Error occurred while adding publisher
+Exception: System.ComponentModel.DataAnnotations.ValidationException: Publisher company name cannot be empty
+Stack Trace:    at Gamestore.Services.PublisherService.ValidatePublisherEntity(Publisher publisher) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 309
+   at Gamestore.Services.PublisherService.AddPublisherAsync(Publisher publisher) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 74
+[2025-05-05 06:14:06.023] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:14:06.077] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 06:14:08.029] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:14:08.034] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 06:14:08.786] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:14:08.790] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 06:14:25.324] [INFO] [Gamestore.Services.PublisherService] Starting add publisher operation
+[2025-05-05 06:14:25.325] [WARN] [Gamestore.Services.PublisherService] Publisher company name is empty
+[2025-05-05 06:14:25.349] [ERROR] [Gamestore.Services.PublisherService] Error occurred while adding publisher
+Exception: System.ComponentModel.DataAnnotations.ValidationException: Publisher company name cannot be empty
+Stack Trace:    at Gamestore.Services.PublisherService.ValidatePublisherEntity(Publisher publisher) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 309
+   at Gamestore.Services.PublisherService.AddPublisherAsync(Publisher publisher) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 74
+[2025-05-05 06:15:00.615] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:15:00.672] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 06:15:04.737] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:15:04.742] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 06:15:16.405] [INFO] [Gamestore.Services.PublisherService] Starting add publisher operation
+[2025-05-05 06:15:16.406] [WARN] [Gamestore.Services.PublisherService] Publisher company name is empty
+[2025-05-05 06:15:16.429] [ERROR] [Gamestore.Services.PublisherService] Error occurred while adding publisher
+Exception: System.ComponentModel.DataAnnotations.ValidationException: Publisher company name cannot be empty
+Stack Trace:    at Gamestore.Services.PublisherService.ValidatePublisherEntity(Publisher publisher) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 309
+   at Gamestore.Services.PublisherService.AddPublisherAsync(Publisher publisher) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 74
+[2025-05-05 06:17:10.323] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:17:10.387] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 06:17:19.104] [INFO] [Gamestore.Services.PublisherService] Starting add publisher operation
+[2025-05-05 06:17:19.105] [WARN] [Gamestore.Services.PublisherService] Publisher company name is empty
+[2025-05-05 06:17:19.131] [ERROR] [Gamestore.Services.PublisherService] Error occurred while adding publisher
+Exception: System.ComponentModel.DataAnnotations.ValidationException: Publisher company name cannot be empty
+Stack Trace:    at Gamestore.Services.PublisherService.ValidatePublisherEntity(Publisher publisher) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 309
+   at Gamestore.Services.PublisherService.AddPublisherAsync(Publisher publisher) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 74
+[2025-05-05 06:35:40.370] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:35:40.427] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 06:36:45.972] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:36:46.029] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 06:38:42.100] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:38:42.103] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 06:40:36.334] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:40:36.386] [INFO] [Gamestore.Services.PublisherService] Retrieved 7 publishers from database
+[2025-05-05 06:42:10.735] [INFO] [Gamestore.Services.PublisherService] Starting add publisher operation
+[2025-05-05 06:42:10.839] [INFO] [Gamestore.Services.PublisherService] Publisher added successfully with Name: string
+[2025-05-05 06:42:31.903] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:42:31.933] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 06:43:52.646] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:43:52.650] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 06:44:57.239] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:44:57.294] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 06:46:59.196] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:46:59.200] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 06:49:46.200] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:49:46.256] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 06:50:19.324] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:50:19.329] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 06:50:24.292] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:50:24.299] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 06:50:31.247] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:50:31.250] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 06:51:59.546] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:51:59.602] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 06:52:06.791] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 06:52:06.796] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 07:00:45.216] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 07:00:45.240] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 07:00:53.089] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 07:00:53.098] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 08:05:06.759] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 08:05:06.769] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 13:12:28.169] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 13:12:28.182] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 13:12:44.274] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 13:12:44.291] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-05 13:12:56.837] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-05 13:12:56.847] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database

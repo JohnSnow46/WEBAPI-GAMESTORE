@@ -1,0 +1,14 @@
+[2025-04-30 15:56:59.725] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-04-30 15:56:59.764] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-04-30 16:11:21.973] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-04-30 16:11:22.002] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-04-30 16:17:17.833] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-04-30 16:17:17.857] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-04-30 16:30:55.695] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-04-30 16:30:55.726] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-04-30 16:33:02.194] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-04-30 16:33:02.224] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-04-30 16:33:24.631] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-04-30 16:33:24.643] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database
+[2025-04-30 16:40:59.877] [INFO] [Gamestore.Services.GenreService] Starting get all genres operation
+[2025-04-30 16:40:59.906] [INFO] [Gamestore.Services.GenreService] Retrieved 7 genres from database

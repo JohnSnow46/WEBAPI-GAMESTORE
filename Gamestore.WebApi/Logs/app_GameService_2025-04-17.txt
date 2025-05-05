@@ -1,0 +1,4 @@
+[2025-04-17 13:42:59.020] [INFO] [Gamestore.Services.GameService] Starting GetTotalGamesCountAsync
+[2025-04-17 13:43:00.326] [INFO] [Gamestore.Services.GameService] Total games count: 10
+[2025-04-17 13:43:16.419] [INFO] [Gamestore.Services.GameService] Starting GetAllGames
+[2025-04-17 13:43:16.472] [INFO] [Gamestore.Services.GameService] Retrieved 10 games from database

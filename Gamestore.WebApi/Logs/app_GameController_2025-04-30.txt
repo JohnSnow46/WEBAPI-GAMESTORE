@@ -1,0 +1,44 @@
+[2025-04-30 15:56:57.431] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-30 15:56:57.564] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error retrieving all games
+Exception: System.InvalidOperationException: Error retrieving all games: Invalid column name 'CreatedAt'.
+Invalid column name 'Discontinued'.
+Invalid column name 'UpdatedAt'.
+Inner Exception: Microsoft.Data.SqlClient.SqlException: Invalid column name 'CreatedAt'.
+Invalid column name 'Discontinued'.
+Invalid column name 'UpdatedAt'.
+Stack Trace:    at Gamestore.Services.GameService.GetAllGames() in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 215
+   at Gamestore.WebApi.Controllers.GameController.GetAllGames() in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 119
+[2025-04-30 16:08:40.612] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: string
+[2025-04-30 16:08:40.823] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating game
+Exception: System.InvalidOperationException: Error adding game: Game with key 'string' already exists
+Inner Exception: System.ComponentModel.DataAnnotations.ValidationException: Game with key 'string' already exists
+Stack Trace:    at Gamestore.Services.GameService.AddGameAsync(GameRequestDto gameRequest)
+   at Gamestore.WebApi.Controllers.GameController.CreateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 21
+[2025-04-30 16:08:46.186] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: string
+[2025-04-30 16:08:46.346] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating game
+Exception: System.InvalidOperationException: Error adding game: An error occurred while saving the entity changes. See the inner exception for details.
+Inner Exception: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+Stack Trace:    at Gamestore.Services.GameService.AddGameAsync(GameRequestDto gameRequest)
+   at Gamestore.WebApi.Controllers.GameController.CreateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 21
+[2025-04-30 16:10:30.313] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: string1
+[2025-04-30 16:10:30.357] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: c01b128e-cded-4573-9219-bacf81d1874d
+[2025-04-30 16:11:18.500] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-30 16:11:18.512] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 5 games
+[2025-04-30 16:17:16.550] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-30 16:17:16.619] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 5 games
+[2025-04-30 16:30:55.263] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-30 16:30:55.330] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 5 games
+[2025-04-30 16:33:01.735] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-30 16:33:01.818] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 5 games
+[2025-04-30 16:33:12.456] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: 123
+[2025-04-30 16:33:12.609] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: 6c7458e4-483d-4df1-a418-386c135aa033
+[2025-04-30 16:33:12.631] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-30 16:33:12.637] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 6 games
+[2025-04-30 16:33:22.171] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-04-30 16:33:22.182] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-04-30 16:33:22.923] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 123
+[2025-04-30 16:33:22.947] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 123
+[2025-04-30 16:33:22.955] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-30 16:33:22.960] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 5 games
+[2025-04-30 16:40:50.981] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-30 16:40:51.053] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 5 games

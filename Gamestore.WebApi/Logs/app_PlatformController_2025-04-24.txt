@@ -1,0 +1,8 @@
+[2025-04-24 15:03:40.175] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Creating or updating platform with ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6, Name: Valid
+[2025-04-24 15:03:40.398] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully processed platform with ID: 00000000-0000-0000-0000-000000000000
+[2025-04-24 15:03:57.442] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Creating or updating platform with ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6, Name: Valid
+[2025-04-24 15:03:57.581] [ERROR] [Gamestore.WebApi.Controllers.PlatformController] Error creating or updating platform with ID: 3fa85f64-5717-4562-b3fc-2c963f66afa6
+Exception: System.InvalidOperationException: Error creating or updating platform: Platform with type 'Valid' already exists
+Inner Exception: System.ComponentModel.DataAnnotations.ValidationException: Platform with type 'Valid' already exists
+Stack Trace:    at Gamestore.Services.PlatformService.CreateOrUpdatePlatform(PlatfromRequestDto platformRequest)
+   at Gamestore.WebApi.Controllers.PlatformController.CreateOrUpdatePlatform(PlatfromRequestDto platformRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\PlatformController.cs:line 22

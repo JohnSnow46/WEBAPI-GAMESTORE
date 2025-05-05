@@ -1,0 +1,278 @@
+[2025-05-05 00:01:04.179] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 00:01:04.248] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 00:01:04.973] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 00:01:05.138] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 00:01:05.761] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-05 00:01:05.762] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-05 00:01:21.396] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-05 00:01:21.397] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-05 00:01:29.061] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-05 00:01:29.062] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-05 00:04:09.045] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 00:04:09.108] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 00:04:10.054] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 00:04:10.203] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 00:04:10.755] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-05 00:04:10.756] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-05 00:04:40.864] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 00:04:40.869] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 03:58:28.621] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 03:58:28.723] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 03:58:39.367] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 03:58:39.527] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 04:45:22.460] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 04:45:22.526] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 04:46:03.585] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by id: 162f75ee-7644-477a-b722-e87cf5957395
+[2025-05-05 04:46:03.629] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with id: 162f75ee-7644-477a-b722-e87cf5957395
+[2025-05-05 04:46:21.708] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 04:46:21.826] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 04:46:47.513] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 04:46:47.520] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 04:46:51.434] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 04:46:51.445] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 04:50:30.313] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 04:50:30.379] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 04:50:38.730] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: 123
+[2025-05-05 04:50:38.922] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: e067a6d6-d60f-4b12-b095-99423cbf0eb3
+[2025-05-05 04:50:38.942] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 04:50:38.948] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 04:50:41.198] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 04:50:41.226] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 04:50:43.903] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-05 04:50:43.904] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-05 04:51:02.489] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 04:51:02.495] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 04:51:05.769] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 04:51:05.779] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 04:51:27.253] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-05 04:51:27.254] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-05 04:55:14.289] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 04:55:14.361] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 04:55:22.913] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 04:55:23.066] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 04:55:41.418] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: undefined
+[2025-05-05 04:55:41.420] [WARN] [Gamestore.WebApi.Controllers.GameController] Invalid key provided for deletion: 'undefined'
+[2025-05-05 04:57:40.326] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 04:57:40.401] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 04:57:44.657] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 04:57:44.811] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 04:57:48.806] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 123
+[2025-05-05 04:57:48.890] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 123
+[2025-05-05 04:57:48.907] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 04:57:48.913] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 04:58:09.203] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: 12345
+[2025-05-05 04:58:09.248] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: 46212a79-38a8-4134-b5ef-85bb187e427d
+[2025-05-05 04:58:09.269] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 04:58:09.276] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 04:58:18.551] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 12345
+[2025-05-05 04:58:18.563] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 12345
+[2025-05-05 04:58:37.679] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 12345
+[2025-05-05 04:58:37.690] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 12345
+[2025-05-05 04:58:46.168] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 12345
+[2025-05-05 04:58:46.190] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 12345
+[2025-05-05 04:58:46.200] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 04:58:46.206] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 04:58:52.403] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 04:58:52.413] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 04:59:00.652] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 04:59:00.662] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 04:59:03.218] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 04:59:03.228] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 04:59:16.625] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 04:59:16.640] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 05:00:01.519] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 05:00:01.525] [WARN] [Gamestore.WebApi.Controllers.GameController] Game with key: 123 not found
+[2025-05-05 05:00:04.524] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 05:00:04.533] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 05:00:48.898] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 05:00:48.904] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 05:00:54.208] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 05:00:54.224] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 05:01:12.694] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 05:01:12.700] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 05:01:14.072] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 05:01:14.082] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 05:01:31.748] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 05:01:31.754] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 05:02:01.973] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 05:02:01.988] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 05:02:37.274] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 05:02:37.283] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 05:02:39.248] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 05:02:39.265] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 05:02:39.775] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 05:02:39.781] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 05:02:49.459] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 05:02:49.469] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 05:03:02.785] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 05:03:02.790] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 05:03:03.950] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 05:03:03.958] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 05:03:06.596] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 05:03:06.602] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 05:03:07.528] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 05:03:07.537] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 06:50:23.523] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 06:50:23.550] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 06:50:30.063] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 06:50:30.070] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 06:55:18.842] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 06:55:18.908] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 06:55:26.276] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 06:55:26.422] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 06:55:26.436] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 06:55:26.447] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 06:58:15.797] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-05 06:58:15.811] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-05 07:00:44.191] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 07:00:44.259] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 07:00:52.104] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 07:00:52.111] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-05 07:01:02.693] [INFO] [Gamestore.WebApi.Controllers.GameController] Creating new game with Name: 123
+[2025-05-05 07:01:02.885] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: 33a8ab9f-3735-4cc6-9b77-c7635ecbdf80
+[2025-05-05 07:01:02.903] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 07:01:02.909] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 07:01:09.532] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:01:09.566] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:01:09.574] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:01:09.591] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:01:31.126] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 07:01:31.132] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 07:01:32.187] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:01:32.203] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:01:32.209] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:01:32.221] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:08:21.053] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 07:08:21.119] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 07:08:21.802] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:08:21.952] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:08:21.963] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:08:21.974] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:10:14.846] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 07:10:14.871] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 07:10:16.215] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:10:16.333] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:10:16.342] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:10:16.352] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:10:46.699] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 07:10:46.764] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 07:10:48.064] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:10:48.212] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:10:48.222] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:10:48.233] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:11:10.881] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 07:11:10.948] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 07:11:11.746] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:11:11.902] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:11:11.914] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:11:11.924] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:11:11.928] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:11:11.937] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:11:11.940] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:11:11.949] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:13:17.115] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 07:13:17.185] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 07:13:22.085] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:13:22.237] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:13:22.249] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:13:22.260] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:13:22.263] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:13:22.273] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:13:22.276] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:13:22.286] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:14:20.795] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 07:14:20.863] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 07:14:22.069] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:14:22.216] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:14:22.227] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:14:22.236] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:14:22.240] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:14:22.248] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:14:22.252] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:14:22.260] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:15:44.319] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 07:15:44.410] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 07:15:45.192] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:15:45.345] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:15:45.357] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:15:45.369] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:15:45.373] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:15:45.383] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:15:45.388] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:15:45.400] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:15:56.620] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 07:15:56.626] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 07:15:57.360] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:15:57.371] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:15:57.378] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:15:57.388] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:15:57.391] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:15:57.401] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:15:57.404] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:15:57.413] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:19:17.169] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 07:19:17.234] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 07:19:19.234] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:19:19.393] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:19:19.406] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:19:19.416] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:19:19.420] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:19:19.429] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 07:19:19.435] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 07:19:19.444] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 08:02:40.660] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 08:02:40.729] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 08:02:41.634] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 08:02:41.802] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 08:02:41.812] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 08:02:41.823] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 08:02:41.826] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 08:02:41.835] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 08:02:41.838] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 08:02:41.848] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 08:02:43.696] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 08:02:43.702] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 08:04:33.733] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 08:04:33.803] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 08:04:38.760] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 08:04:38.909] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 08:04:38.920] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 08:04:38.930] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 08:04:38.934] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 08:04:38.943] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 08:04:38.946] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 08:04:38.955] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 08:04:42.805] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 08:04:42.812] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 13:12:02.131] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 13:12:02.198] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 13:12:25.673] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 13:12:25.679] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 13:12:28.026] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 13:12:28.138] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 13:12:28.150] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 13:12:28.176] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 13:12:28.183] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 13:12:28.198] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 13:12:28.202] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 13:12:28.212] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 13:12:41.309] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 13:12:41.316] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 13:12:44.244] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 13:12:44.261] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 13:12:44.268] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 13:12:44.304] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 13:12:44.308] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 13:12:44.317] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 13:12:44.320] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 13:12:44.329] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 13:12:55.547] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-05 13:12:55.553] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-05 13:12:56.811] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 13:12:56.821] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 13:12:56.829] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 13:12:56.857] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 13:12:56.861] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 13:12:56.870] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-05 13:12:56.873] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-05 13:12:56.886] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123

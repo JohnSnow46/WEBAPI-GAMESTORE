@@ -1,0 +1,16 @@
+[2025-04-24 15:46:41.251] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating or updating genre with Name: string
+[2025-04-24 15:46:41.473] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully processed genre
+[2025-04-24 15:48:35.136] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-04-24 15:48:35.169] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-04-24 15:49:53.818] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-04-24 15:49:53.849] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-04-24 15:51:50.144] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-04-24 15:51:50.203] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres
+[2025-04-24 15:52:06.018] [INFO] [Gamestore.WebApi.Controllers.GenreController] Creating or updating genre with Name: string
+[2025-04-24 15:52:06.190] [ERROR] [Gamestore.WebApi.Controllers.GenreController] Error creating or updating genre
+Exception: System.InvalidOperationException: Error creating or updating genre: Genre with name 'string' already exists
+Inner Exception: System.ComponentModel.DataAnnotations.ValidationException: Genre with name 'string' already exists
+Stack Trace:    at Gamestore.Services.GenreService.CreateOrUpdateGenre(GenreRequestDto genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GenreService.cs:line 73
+   at Gamestore.WebApi.Controllers.GenreController.CreateOrUpdateGenre(GenreRequestDto genreRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GenreController.cs:line 21
+[2025-04-24 15:52:12.828] [INFO] [Gamestore.WebApi.Controllers.GenreController] Getting all genres
+[2025-04-24 15:52:12.834] [INFO] [Gamestore.WebApi.Controllers.GenreController] Successfully retrieved all genres

@@ -1,0 +1,36 @@
+[2025-05-04 19:29:01.321] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 19:29:01.383] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 19:37:16.169] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 19:37:16.193] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 19:37:47.816] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 19:37:47.831] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 19:48:16.850] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 19:48:16.871] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 19:49:21.534] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 19:49:21.547] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 19:52:29.222] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 19:52:29.243] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 19:52:35.241] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 19:52:35.253] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 19:57:26.809] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 19:57:26.830] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 19:57:34.174] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 19:57:34.188] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 19:58:07.234] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 19:58:07.250] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 20:12:41.241] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 20:12:41.265] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 20:13:13.364] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 20:13:13.382] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 20:13:28.048] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 20:13:28.063] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 20:15:52.312] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 20:15:52.363] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 21:26:56.191] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 21:26:56.217] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 23:16:30.090] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 23:16:30.137] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 23:20:41.832] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 23:20:41.872] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers
+[2025-05-04 23:46:02.364] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-04 23:46:02.444] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 7 publishers

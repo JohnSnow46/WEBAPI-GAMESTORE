@@ -1,0 +1,281 @@
+[2025-04-30 15:56:56.190] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (18ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-30 15:56:57.463] [ERROR] [Microsoft.EntityFrameworkCore.Database.Command] Failed executing DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+FROM [Games] AS [g]
+[2025-04-30 15:56:59.735] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Type]
+FROM [Platforms] AS [p]
+[2025-04-30 15:56:59.737] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[CompanyName], [p].[Description], [p].[HomePage]
+FROM [Publishers] AS [p]
+[2025-04-30 15:56:59.740] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[Name], [g].[ParentGenreId]
+FROM [Genres] AS [g]
+[2025-04-30 16:03:26.900] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (8ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+[2025-04-30 16:03:26.940] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (22ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+DECLARE @result int;
+EXEC @result = sp_getapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session', @LockMode = 'Exclusive';
+SELECT @result
+[2025-04-30 16:03:26.975] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
+BEGIN
+    CREATE TABLE [__EFMigrationsHistory] (
+        [MigrationId] nvarchar(150) NOT NULL,
+        [ProductVersion] nvarchar(32) NOT NULL,
+        CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+    );
+END;
+[2025-04-30 16:03:26.980] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+[2025-04-30 16:03:26.980] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+[2025-04-30 16:03:26.982] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+[2025-04-30 16:03:27.094] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (90ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+EXEC sp_rename N'[Games].[Discount]', N'Discontinued', 'COLUMN';
+[2025-04-30 16:03:27.106] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (11ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+DECLARE @var sysname;
+SELECT @var = [d].[name]
+FROM [sys].[default_constraints] [d]
+INNER JOIN [sys].[columns] [c] ON [d].[parent_column_id] = [c].[column_id] AND [d].[parent_object_id] = [c].[object_id]
+WHERE ([d].[parent_object_id] = OBJECT_ID(N'[Genres]') AND [c].[name] = N'Name');
+IF @var IS NOT NULL EXEC(N'ALTER TABLE [Genres] DROP CONSTRAINT [' + @var + '];');
+UPDATE [Genres] SET [Name] = N' ' WHERE [Name] IS NULL;
+ALTER TABLE [Genres] ALTER COLUMN [Name] nvarchar(max) NOT NULL;
+ALTER TABLE [Genres] ADD DEFAULT N' ' FOR [Name];
+[2025-04-30 16:03:27.107] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ALTER TABLE [Games] ADD [CreatedAt] datetime2 NOT NULL DEFAULT '0001-01-01T00:00:00.0000000';
+[2025-04-30 16:03:27.108] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ALTER TABLE [Games] ADD [UpdatedAt] datetime2 NOT NULL DEFAULT '0001-01-01T00:00:00.0000000';
+[2025-04-30 16:03:27.110] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ALTER TABLE [GamePlatforms] ADD [CreatedAt] datetime2 NOT NULL DEFAULT '0001-01-01T00:00:00.0000000';
+[2025-04-30 16:03:27.111] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ALTER TABLE [GamePlatforms] ADD [Id] uniqueidentifier NOT NULL DEFAULT '00000000-0000-0000-0000-000000000000';
+[2025-04-30 16:03:27.112] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ALTER TABLE [GameGenres] ADD [CreatedAt] datetime2 NOT NULL DEFAULT '0001-01-01T00:00:00.0000000';
+[2025-04-30 16:03:28.052] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ALTER TABLE [GameGenres] ADD [Id] uniqueidentifier NOT NULL DEFAULT '00000000-0000-0000-0000-000000000000';
+[2025-04-30 16:03:28.058] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [GameFile] (
+    [Id] uniqueidentifier NOT NULL,
+    [Content] varbinary(max) NOT NULL,
+    [GameId] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_GameFile] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_GameFile_Games_GameId] FOREIGN KEY ([GameId]) REFERENCES [Games] ([Id]) ON DELETE CASCADE
+);
+[2025-04-30 16:03:28.058] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_GameFile_GameId] ON [GameFile] ([GameId]);
+[2025-04-30 16:03:28.059] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250430140251_NewIdea', N'9.0.2');
+[2025-04-30 16:03:28.062] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+DECLARE @result int;
+EXEC @result = sp_releaseapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session';
+SELECT @result
+[2025-04-30 16:03:39.091] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (16ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-30 16:07:14.123] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-30 16:08:18.204] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-30 16:08:40.711] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (11ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[CreatedAt], [g2].[Description], [g2].[Discontinued], [g2].[Key], [g2].[Name], [g2].[Price], [g2].[PublisherId], [g2].[UnitInStock], [g2].[UpdatedAt], [g0].[GameId], [g0].[GenreId], [g0].[CreatedAt], [g0].[Id], [g1].[GameId], [g1].[PlatformId], [g1].[CreatedAt], [g1].[Id]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-30 16:08:46.194] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[CreatedAt], [g2].[Description], [g2].[Discontinued], [g2].[Key], [g2].[Name], [g2].[Price], [g2].[PublisherId], [g2].[UnitInStock], [g2].[UpdatedAt], [g0].[GameId], [g0].[GenreId], [g0].[CreatedAt], [g0].[Id], [g1].[GameId], [g1].[PlatformId], [g1].[CreatedAt], [g1].[Id]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-30 16:08:46.258] [ERROR] [Microsoft.EntityFrameworkCore.Database.Command] Failed executing DbCommand (4ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime2), @p2='?' (Size = 4000), @p3='?' (DbType = Int32), @p4='?' (Size = 450), @p5='?' (Size = 4000), @p6='?' (DbType = Double), @p7='?' (DbType = Guid), @p8='?' (DbType = Int32), @p9='?' (DbType = DateTime2)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Games] ([Id], [CreatedAt], [Description], [Discontinued], [Key], [Name], [Price], [PublisherId], [UnitInStock], [UpdatedAt])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9);
+[2025-04-30 16:09:23.788] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-30 16:10:30.310] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-30 16:10:30.315] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[CreatedAt], [g2].[Description], [g2].[Discontinued], [g2].[Key], [g2].[Name], [g2].[Price], [g2].[PublisherId], [g2].[UnitInStock], [g2].[UpdatedAt], [g0].[GameId], [g0].[GenreId], [g0].[CreatedAt], [g0].[Id], [g1].[GameId], [g1].[PlatformId], [g1].[CreatedAt], [g1].[Id]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-30 16:10:30.322] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime2), @p2='?' (Size = 4000), @p3='?' (DbType = Int32), @p4='?' (Size = 450), @p5='?' (Size = 4000), @p6='?' (DbType = Double), @p7='?' (DbType = Guid), @p8='?' (DbType = Int32), @p9='?' (DbType = DateTime2)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Games] ([Id], [CreatedAt], [Description], [Discontinued], [Key], [Name], [Price], [PublisherId], [UnitInStock], [UpdatedAt])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9);
+[2025-04-30 16:10:30.345] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid), @p2='?' (DbType = DateTime2), @p3='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [GamePlatforms] ([GameId], [PlatformId], [CreatedAt], [Id])
+VALUES (@p0, @p1, @p2, @p3);
+[2025-04-30 16:10:30.355] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid), @p2='?' (DbType = DateTime2), @p3='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [GameGenres] ([GameId], [GenreId], [CreatedAt], [Id])
+VALUES (@p0, @p1, @p2, @p3);
+[2025-04-30 16:11:18.508] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+FROM [Games] AS [g]
+[2025-04-30 16:11:21.982] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[CompanyName], [p].[Description], [p].[HomePage]
+FROM [Publishers] AS [p]
+[2025-04-30 16:11:21.986] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Type]
+FROM [Platforms] AS [p]
+[2025-04-30 16:11:21.991] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[Name], [g].[ParentGenreId]
+FROM [Genres] AS [g]
+[2025-04-30 16:11:33.072] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-30 16:17:09.015] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (14ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-30 16:17:16.580] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+FROM [Games] AS [g]
+[2025-04-30 16:17:17.841] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[Name], [g].[ParentGenreId]
+FROM [Genres] AS [g]
+[2025-04-30 16:17:17.845] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[CompanyName], [p].[Description], [p].[HomePage]
+FROM [Publishers] AS [p]
+[2025-04-30 16:17:17.849] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Type]
+FROM [Platforms] AS [p]
+[2025-04-30 16:30:35.092] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-30 16:30:55.195] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (15ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-30 16:30:55.291] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+FROM [Games] AS [g]
+[2025-04-30 16:30:55.702] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[CompanyName], [p].[Description], [p].[HomePage]
+FROM [Publishers] AS [p]
+[2025-04-30 16:30:55.709] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Type]
+FROM [Platforms] AS [p]
+[2025-04-30 16:30:55.714] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[Name], [g].[ParentGenreId]
+FROM [Genres] AS [g]
+[2025-04-30 16:32:38.093] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-30 16:33:01.651] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (17ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-30 16:33:01.769] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+FROM [Games] AS [g]
+[2025-04-30 16:33:02.203] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[Name], [g].[ParentGenreId]
+FROM [Genres] AS [g]
+[2025-04-30 16:33:02.210] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Type]
+FROM [Platforms] AS [p]
+[2025-04-30 16:33:02.214] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[CompanyName], [p].[Description], [p].[HomePage]
+FROM [Publishers] AS [p]
+[2025-04-30 16:33:12.539] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (9ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[CreatedAt], [g2].[Description], [g2].[Discontinued], [g2].[Key], [g2].[Name], [g2].[Price], [g2].[PublisherId], [g2].[UnitInStock], [g2].[UpdatedAt], [g0].[GameId], [g0].[GenreId], [g0].[CreatedAt], [g0].[Id], [g1].[GameId], [g1].[PlatformId], [g1].[CreatedAt], [g1].[Id]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-30 16:33:12.602] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime2), @p2='?' (Size = 4000), @p3='?' (DbType = Int32), @p4='?' (Size = 450), @p5='?' (Size = 4000), @p6='?' (DbType = Double), @p7='?' (DbType = Guid), @p8='?' (DbType = Int32), @p9='?' (DbType = DateTime2)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Games] ([Id], [CreatedAt], [Description], [Discontinued], [Key], [Name], [Price], [PublisherId], [UnitInStock], [UpdatedAt])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9);
+[2025-04-30 16:33:12.634] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+FROM [Games] AS [g]
+[2025-04-30 16:33:22.176] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[CreatedAt], [g2].[Description], [g2].[Discontinued], [g2].[Key], [g2].[Name], [g2].[Price], [g2].[PublisherId], [g2].[UnitInStock], [g2].[UpdatedAt], [g0].[GameId], [g0].[GenreId], [g0].[CreatedAt], [g0].[Id], [g1].[GameId], [g1].[PlatformId], [g1].[CreatedAt], [g1].[Id]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-30 16:33:22.928] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [g2].[Id], [g2].[CreatedAt], [g2].[Description], [g2].[Discontinued], [g2].[Key], [g2].[Name], [g2].[Price], [g2].[PublisherId], [g2].[UnitInStock], [g2].[UpdatedAt], [g0].[GameId], [g0].[GenreId], [g0].[CreatedAt], [g0].[Id], [g1].[GameId], [g1].[PlatformId], [g1].[CreatedAt], [g1].[Id]
+FROM (
+    SELECT TOP(1) [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+    FROM [Games] AS [g]
+    WHERE [g].[Key] = @__key_0
+) AS [g2]
+LEFT JOIN [GameGenres] AS [g0] ON [g2].[Id] = [g0].[GameId]
+LEFT JOIN [GamePlatforms] AS [g1] ON [g2].[Id] = [g1].[GameId]
+ORDER BY [g2].[Id], [g0].[GameId], [g0].[GenreId], [g1].[GameId]
+[2025-04-30 16:33:22.942] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Games]
+OUTPUT 1
+WHERE [Id] = @p0;
+[2025-04-30 16:33:22.958] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+FROM [Games] AS [g]
+[2025-04-30 16:33:24.635] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[Name], [g].[ParentGenreId]
+FROM [Genres] AS [g]
+[2025-04-30 16:33:24.635] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[CompanyName], [p].[Description], [p].[HomePage]
+FROM [Publishers] AS [p]
+[2025-04-30 16:33:24.638] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Type]
+FROM [Platforms] AS [p]
+[2025-04-30 16:40:50.911] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (16ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Games] AS [g]
+[2025-04-30 16:40:51.013] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[CreatedAt], [g].[Description], [g].[Discontinued], [g].[Key], [g].[Name], [g].[Price], [g].[PublisherId], [g].[UnitInStock], [g].[UpdatedAt]
+FROM [Games] AS [g]
+[2025-04-30 16:40:59.886] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Type]
+FROM [Platforms] AS [p]
+[2025-04-30 16:40:59.892] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[CompanyName], [p].[Description], [p].[HomePage]
+FROM [Publishers] AS [p]
+[2025-04-30 16:40:59.895] [INFO] [Microsoft.EntityFrameworkCore.Database.Command] Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [g].[Id], [g].[Name], [g].[ParentGenreId]
+FROM [Genres] AS [g]

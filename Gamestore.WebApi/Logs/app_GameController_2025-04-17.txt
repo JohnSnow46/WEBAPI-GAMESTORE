@@ -1,0 +1,2 @@
+[2025-04-17 13:43:16.417] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-04-17 13:43:16.473] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 10 games
