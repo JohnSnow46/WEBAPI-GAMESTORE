@@ -1,6 +1,9 @@
-﻿namespace Gamestore.Services.Dto.PublishersDto;
+﻿using System.Text.Json.Serialization;
+
+namespace Gamestore.Services.Dto.PublishersDto;
 public class PublisherDto
 {
+    [JsonIgnore]
     public Guid Id { get; set; }
 
     public string CompanyName { get; set; } = string.Empty;

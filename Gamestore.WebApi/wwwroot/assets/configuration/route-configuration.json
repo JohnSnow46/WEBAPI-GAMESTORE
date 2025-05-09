@@ -1,6 +1,6 @@
 {
   "Game": "/game",
-  "UpdateGame": "/update-game",
+  "UpdateGame": "update-game",
   "DeleteGame": "/delete-game",
   "AddGame": "add-game",
   "Games": "/games",

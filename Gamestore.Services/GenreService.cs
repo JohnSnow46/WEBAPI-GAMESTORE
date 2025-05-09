@@ -12,22 +12,21 @@ public class GenreService(IUnitOfWork unitOfWork, ILogger<GenreService> logger) 
     private readonly IUnitOfWork _unitOfWork = unitOfWork;
     private readonly ILogger<GenreService> _logger = logger;
 
-    public async Task<GenreDto> CreateGenre(GenreRequestDto genreRequest)
+    public async Task<GenreDtoCreate> CreateGenre(GenreDtoCreate genreRequest)
     {
-        _logger.LogInformation("Starting create genre operation for name: {GenreName}", genreRequest?.Genre?.Name);
+        _logger.LogInformation("Starting create genre operation for name: {GenreName}", genreRequest?.Name);
         try
         {
-            ValidateGenreRequest(genreRequest);
+            // ValidateGenreRequest(genreRequest);
+            _logger.LogInformation("Validating uniqueness for new genre name: {GenreName}", genreRequest.Name);
 
-            _logger.LogInformation("Validating uniqueness for new genre name: {GenreName}", genreRequest.Genre.Name);
-            await ValidateGenreNameUniqueness(genreRequest.Genre.Name ?? string.Empty);
+            // await ValidateGenreNameUniqueness(genreRequest.Name ?? string.Empty);
+            var genreEntity = CreateNewGenreEntity(genreRequest);
 
-            var genreEntity = CreateNewGenreEntity(genreRequest.Genre);
-
-            if (genreRequest.Genre.ParentGenreId.HasValue)
+            if (genreRequest.ParentGenreId.HasValue)
             {
-                _logger.LogInformation("Validating parent genre existence for parent ID: {ParentId}", genreRequest.Genre.ParentGenreId.Value);
-                await ValidateParentGenreExists(genreRequest.Genre.ParentGenreId.Value);
+                _logger.LogInformation("Validating parent genre existence for parent ID: {ParentId}", genreRequest.ParentGenreId.Value);
+                await ValidateParentGenreExists(genreRequest.ParentGenreId.Value);
             }
 
             _logger.LogInformation("Created new genre entity with ID: {GenreId}", genreEntity.Id);
@@ -36,11 +35,15 @@ public class GenreService(IUnitOfWork unitOfWork, ILogger<GenreService> logger) 
 
             await _unitOfWork.CompleteAsync();
             _logger.LogInformation("Successfully saved new genre with ID: {GenreId}", genreEntity.Id);
-            return MapToGenreDto(genreEntity);
+            return new GenreDtoCreate
+            {
+                Name = genreEntity.Name,
+                ParentGenreId = genreEntity.ParentGenreId,
+            };
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "Error occurred while creating genre with name: {GenreName}", genreRequest?.Genre?.Name);
+            _logger.LogError(ex, "Error occurred while creating genre with name: {GenreName}", genreRequest?.Name);
             throw new InvalidOperationException($"Error creating genre: {ex.Message}", ex);
         }
     }
@@ -219,7 +222,7 @@ public class GenreService(IUnitOfWork unitOfWork, ILogger<GenreService> logger) 
         genreEntity.ParentGenreId = genre.ParentGenreId;
     }
 
-    private static Genre CreateNewGenreEntity(GenreDto genre)
+    private static Genre CreateNewGenreEntity(GenreDtoCreate genre)
     {
         ArgumentNullException.ThrowIfNull(genre);
         return string.IsNullOrWhiteSpace(genre.Name)
@@ -242,22 +245,6 @@ public class GenreService(IUnitOfWork unitOfWork, ILogger<GenreService> logger) 
             Name = genreEntity.Name,
             ParentGenreId = genreEntity.ParentGenreId,
         };
-    }
-
-    private static void ValidateGenreRequest(GenreRequestDto? genreRequest)
-    {
-        ArgumentNullException.ThrowIfNull(genreRequest);
-        ArgumentNullException.ThrowIfNull(genreRequest.Genre);
-
-        if (string.IsNullOrWhiteSpace(genreRequest.Genre.Name))
-        {
-            throw new ValidationException("Genre name cannot be empty");
-        }
-
-        if (genreRequest.Genre.Name.Length > 50)
-        {
-            throw new ValidationException("Genre name cannot exceed 50 characters");
-        }
     }
 
     private async Task ValidateGenreNameUniqueness(string name)
@@ -445,11 +432,6 @@ public class GenreService(IUnitOfWork unitOfWork, ILogger<GenreService> logger) 
         _logger.LogInformation("Retrieving sub-genres for parent genre ID: {GenreId}", parentId);
         var allGenres = await _unitOfWork.Genres.GetAllAsync();
         var subGenres = allGenres.Where(g => g.ParentGenreId == parentId).ToList();
-        if (subGenres.Count == 0)
-        {
-            _logger.LogInformation("No sub-genres found for parent genre ID: {GenreId}", parentId);
-            throw new KeyNotFoundException($"No sub-genres found for genre with ID '{parentId}'");
-        }
 
         _logger.LogInformation("Found {Count} sub-genres for parent genre ID: {GenreId}", subGenres.Count, parentId);
         return subGenres.Select(MapToGenreDto);

@@ -12,30 +12,34 @@ public class PlatformService(IUnitOfWork unitOfWork, ILogger<PlatformService> lo
     private readonly IUnitOfWork _unitOfWork = unitOfWork;
     private readonly ILogger<PlatformService> _logger = logger;
 
-    public async Task<PlatformDto> UpdatePlatform(PlatformRequestDto platformRequest)
+    public async Task<PlatformUpdateDto> UpdatePlatform(Guid id, PlatformUpdateDto platformRequest)
     {
         _logger.LogInformation("Starting update platform operation");
         try
         {
             // ValidatePlatformRequest(platformRequest);
-            Platform platformEntity = await GetPlatformByIdAsync(platformRequest.Platform.Id);
+            var platformEntity = await GetPlatformByIdAsync(id);
             _logger.LogInformation("Platform found with ID: {PlatformId}", platformEntity.Id);
 
-            if (!string.Equals(platformEntity.Type, platformRequest.Platform.Type, StringComparison.OrdinalIgnoreCase))
+            if (!string.Equals(platformEntity.Type, platformRequest.Type, StringComparison.OrdinalIgnoreCase))
             {
-                _logger.LogInformation("Platform type changed from '{OldType}' to '{NewType}' - validating uniqueness", platformEntity.Type, platformRequest.Platform.Type);
-                await ValidatePlatformTypeUniqueness(platformRequest.Platform.Type ?? string.Empty);
+                _logger.LogInformation("Platform type changed from '{OldType}' to '{NewType}' - validating uniqueness", platformEntity.Type, platformRequest.Type);
+                await ValidatePlatformTypeUniqueness(platformRequest.Type ?? string.Empty);
             }
 
-            platformEntity.Type = platformRequest.Platform.Type ?? string.Empty;
+            platformEntity.Type = platformRequest.Type ?? string.Empty;
             await _unitOfWork.CompleteAsync();
             _logger.LogInformation("Platform updated with ID: {PlatformId}", platformEntity.Id);
 
-            return MapToPlatformDto(platformEntity);
+            return new PlatformUpdateDto
+            {
+                Id = platformEntity.Id,
+                Type = platformEntity.Type,
+            };
         }
         catch (KeyNotFoundException ex)
         {
-            _logger.LogError(ex, "Platform with ID: {PlatformId} not found", platformRequest.Platform.Id);
+            _logger.LogError(ex, "Platform with ID: {PlatformId} not found", platformRequest.Id);
             throw;
         }
         catch (Exception ex)
@@ -137,7 +141,7 @@ public class PlatformService(IUnitOfWork unitOfWork, ILogger<PlatformService> lo
         }
     }
 
-    public async Task<IEnumerable<PlatformDto>> GetPlatformsByGameKeyAsync(string gameKey)
+    public async Task<IEnumerable<Platform>> GetPlatformsByGameKeyAsync(string gameKey)
     {
         _logger.LogInformation("Starting get platforms by game key operation for key: {GameKey}", gameKey);
 
@@ -232,7 +236,7 @@ public class PlatformService(IUnitOfWork unitOfWork, ILogger<PlatformService> lo
         }
     }
 
-    private async Task<IEnumerable<PlatformDto>> RetrievePlatformsByGameAsync(Game game)
+    private async Task<IEnumerable<Platform>> RetrievePlatformsByGameAsync(Game game)
     {
         _logger.LogInformation("Retrieving platforms for game with ID: {GameId}", game.Id);
 
@@ -247,14 +251,14 @@ public class PlatformService(IUnitOfWork unitOfWork, ILogger<PlatformService> lo
         return await FetchAndMapPlatformsAsync(gamePlatforms);
     }
 
-    private async Task<IEnumerable<PlatformDto>> FetchAndMapPlatformsAsync(IEnumerable<GamePlatform> gamePlatforms)
+    private async Task<IEnumerable<Platform>> FetchAndMapPlatformsAsync(IEnumerable<GamePlatform> gamePlatforms)
     {
         var platformIds = gamePlatforms.Select(gp => gp.PlatformId).ToList();
         var platforms = await _unitOfWork.GamePlatforms.GetByIdsAsync(platformIds);
 
         _logger.LogInformation("Retrieved {Count} platforms for game relations", platforms.Count);
 
-        return platforms.Select(MapToPlatformDto);
+        return platforms;
     }
 
     private static PlatformDto MapToPlatformDto(Platform platform)

@@ -1,0 +1,234 @@
+[2025-05-07 03:41:45.978] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 03:41:46.006] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 03:42:17.308] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 123
+[2025-05-07 03:42:17.375] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 123
+[2025-05-07 04:15:08.465] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:15:08.493] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:30:46.504] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:30:46.556] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:31:50.519] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:31:50.547] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:33:02.436] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:33:02.495] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:33:15.896] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:33:15.912] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:33:25.227] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:33:25.241] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:33:25.249] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 1
+[2025-05-07 04:33:25.265] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 1
+[2025-05-07 04:35:12.518] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:35:12.535] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:41:14.282] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12
+[2025-05-07 04:41:14.282] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:41:14.352] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:41:14.358] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12
+[2025-05-07 04:41:27.326] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:41:27.330] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 1
+[2025-05-07 04:41:27.364] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:41:27.365] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 1
+[2025-05-07 04:53:58.069] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:53:58.094] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:54:03.433] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:54:03.449] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:54:03.482] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:54:03.502] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:54:14.544] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:54:14.557] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:54:33.988] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:54:34.003] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:54:37.343] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:54:37.357] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:54:38.541] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: Electronic Arts
+[2025-05-07 04:54:38.593] [ERROR] [Gamestore.WebApi.Controllers.PublishersController] Error getting publisher for game with key: Electronic Arts
+Exception: System.InvalidOperationException: Error retrieving publisher by game key: Game with key 'Electronic Arts' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'Electronic Arts' not found
+Stack Trace:    at Gamestore.Services.PublisherService.GetPublisherByGameKey(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 173
+   at Gamestore.WebApi.Controllers.PublishersController.GetGamePublisherByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\PublishersController.cs:line 93
+[2025-05-07 04:54:39.714] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:54:39.732] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:56:06.588] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:56:06.591] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:56:06.629] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:56:06.631] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:56:13.128] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:56:13.135] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:56:13.167] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:56:13.169] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:56:36.581] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:56:36.621] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:56:36.655] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:56:36.658] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:57:01.646] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:57:01.668] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:57:22.254] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:57:22.262] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:57:22.275] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:57:22.301] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:57:40.658] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:57:40.665] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:57:40.686] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 04:57:40.687] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:58:02.635] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 04:58:02.636] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 04:58:02.675] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 04:58:02.675] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 05:00:10.392] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:00:10.393] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 05:00:10.501] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:00:10.505] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 05:01:42.726] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:01:42.726] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 1
+[2025-05-07 05:01:42.765] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:01:42.768] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 1
+[2025-05-07 05:02:14.424] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:02:14.425] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 05:02:14.454] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:02:14.460] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 05:15:48.123] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:15:48.153] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:16:43.775] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:16:43.786] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: XD
+[2025-05-07 05:16:43.798] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:16:43.814] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: XD
+[2025-05-07 05:17:21.933] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:17:21.941] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: XD
+[2025-05-07 05:17:21.962] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:17:22.059] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: XD
+[2025-05-07 05:19:56.150] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:19:56.171] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:23:03.293] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:23:03.323] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:24:05.833] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:24:05.850] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:24:12.500] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:24:12.539] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:24:31.157] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 123
+[2025-05-07 05:24:31.205] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 123
+[2025-05-07 05:25:50.883] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:25:50.885] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 123
+[2025-05-07 05:25:50.948] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:25:50.956] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 123
+[2025-05-07 05:29:41.376] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:29:41.377] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 05:29:41.473] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:29:41.477] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 05:31:30.427] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 05:31:30.500] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 05:31:35.602] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 05:31:35.635] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:31:35.686] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:31:35.689] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 05:32:49.418] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 05:32:49.420] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:32:49.451] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:32:49.490] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 05:38:41.260] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:38:41.289] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:38:45.761] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:38:45.771] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:38:56.722] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:38:56.732] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 123
+[2025-05-07 05:38:56.738] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:38:56.783] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 123
+[2025-05-07 05:43:32.134] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:43:32.135] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 123
+[2025-05-07 05:43:32.193] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:43:32.197] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 123
+[2025-05-07 05:43:51.300] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:43:51.301] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 123
+[2025-05-07 05:43:51.335] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:43:51.343] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 123
+[2025-05-07 05:51:01.186] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 05:51:01.189] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:51:01.211] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 05:51:01.214] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:53:33.091] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:53:33.093] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 05:53:33.124] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:53:33.131] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 05:55:16.592] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 05:55:16.593] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 05:55:16.628] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 05:55:16.639] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 06:01:42.602] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 06:01:42.603] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 06:01:42.629] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 06:01:42.638] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 06:05:04.185] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 06:05:04.187] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 06:05:04.220] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 06:05:04.227] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 06:06:41.804] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 06:06:41.806] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 06:06:41.836] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 06:06:41.838] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 06:09:12.900] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 06:09:12.903] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 06:09:12.939] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 06:09:12.947] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 06:10:01.018] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 06:10:01.083] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 06:10:12.733] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 06:10:12.736] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 06:10:12.765] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 06:10:12.784] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 06:10:22.529] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 06:10:22.544] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 06:10:55.683] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 06:10:55.736] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 06:11:09.019] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 06:11:09.035] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 1234
+[2025-05-07 06:11:09.038] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 06:11:09.057] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 1234
+[2025-05-07 06:11:16.580] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 1234
+[2025-05-07 06:11:16.593] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 1234
+[2025-05-07 06:11:23.166] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 1234
+[2025-05-07 06:11:23.173] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 06:11:23.199] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 1234
+[2025-05-07 06:11:23.206] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 06:11:32.897] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 1234
+[2025-05-07 06:11:32.909] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 1234
+[2025-05-07 06:11:36.753] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 1234
+[2025-05-07 06:11:36.760] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 06:11:36.777] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 1234
+[2025-05-07 06:11:36.788] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 06:11:41.433] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 1234
+[2025-05-07 06:11:41.447] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 1234
+[2025-05-07 06:11:51.757] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 1234
+[2025-05-07 06:11:51.758] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 06:11:51.773] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 06:11:51.778] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 1234
+[2025-05-07 06:11:55.487] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 1234
+[2025-05-07 06:11:55.500] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 1234
+[2025-05-07 06:55:05.295] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 06:55:05.319] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 07:02:10.242] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 07:02:10.261] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 07:02:23.050] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 07:02:23.073] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 07:02:23.087] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 07:02:23.107] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 07:02:26.456] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 12345
+[2025-05-07 07:02:26.469] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 12345
+[2025-05-07 07:02:36.767] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 1234
+[2025-05-07 07:02:36.783] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 1234
+[2025-05-07 07:02:41.612] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 123
+[2025-05-07 07:02:41.624] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 123
+[2025-05-07 07:06:49.902] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 07:06:49.917] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 07:06:54.795] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: string
+[2025-05-07 07:06:54.914] [ERROR] [Gamestore.WebApi.Controllers.PublishersController] Error getting publisher for game with key: string
+Exception: System.InvalidOperationException: Error retrieving publisher by game key: Game with key 'string' not found
+Inner Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'string' not found
+Stack Trace:    at Gamestore.Services.PublisherService.GetPublisherByGameKey(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 173
+   at Gamestore.WebApi.Controllers.PublishersController.GetGamePublisherByGameKey(String key) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\PublishersController.cs:line 93
+[2025-05-07 13:10:34.409] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 123
+[2025-05-07 13:10:34.433] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 123
+[2025-05-07 13:10:58.422] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 123
+[2025-05-07 13:10:58.476] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 123
+[2025-05-07 13:11:15.080] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 123
+[2025-05-07 13:11:15.114] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-07 13:11:15.160] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 123
+[2025-05-07 13:11:15.182] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers
+[2025-05-07 13:11:18.808] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting publisher for game with key: 123
+[2025-05-07 13:11:18.822] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully found publisher for game with key: 123

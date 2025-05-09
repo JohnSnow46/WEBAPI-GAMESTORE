@@ -1,4 +1,5 @@
 ﻿using Gamestore.Entities;
+using Gamestore.Services.Dto.GamesDto;
 using Gamestore.Services.Dto.PublishersDto;
 
 namespace Gamestore.Services.IServices;
@@ -15,7 +16,7 @@ public interface IPublisherService
 
     Task<PublisherDto> DeletePublisherAsync(Guid id);
 
-    Task<IEnumerable<Game>> GetGamesByPublisherNameAsync(string publisherName);
+    Task<IEnumerable<GameDetailsDto>> GetGamesByPublisherNameAsync(string publisherName);
 
     Task<Publisher> GetPublisherByGameKey(string gameKey);
 

@@ -1,0 +1,2 @@
+[2025-05-06 15:06:48.788] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-06 15:06:48.804] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database

@@ -15,9 +15,5 @@ public class GameWithPublisherDto
 
     public int Discount { get; set; }
 
-    public Guid PublisherId { get; set; }
-
-    public string PublisherCompanyName { get; set; } = string.Empty;
-
-    public string? PublisherHomePage { get; set; }
+    public string Publisher { get; set; }
 }

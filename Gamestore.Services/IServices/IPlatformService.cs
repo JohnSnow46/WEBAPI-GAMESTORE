@@ -5,7 +5,7 @@ namespace Gamestore.Services.IServices;
 
 public interface IPlatformService
 {
-    Task<PlatformDto> UpdatePlatform(PlatformRequestDto platformRequest);
+    Task<PlatformUpdateDto> UpdatePlatform(Guid id, PlatformUpdateDto platformRequest);
 
     Task<PlatformDto> CreatePlatform(PlatformRequestDto platformRequest);
 
@@ -15,5 +15,5 @@ public interface IPlatformService
 
     Task<Platform> GetPlatformById(Guid id);
 
-    Task<IEnumerable<PlatformDto>> GetPlatformsByGameKeyAsync(string gameKey);
+    Task<IEnumerable<Platform>> GetPlatformsByGameKeyAsync(string gameKey);
 }

@@ -1,4 +1,5 @@
-﻿using Gamestore.Entities;
+﻿using System.Text.Json;
+using Gamestore.Entities;
 using Gamestore.Services.Dto;
 using Gamestore.Services.IServices;
 using Microsoft.AspNetCore.Mvc;
@@ -33,6 +34,58 @@ public class PlatformController(IPlatformService platformService, ILogger<Platfo
         {
             _logger.LogError(ex, "Error creating or updating platform with ID: {PlatformId}", platformRequest.Platform.Id);
             return StatusCode(500, new { Message = "An error occurred.", Details = ex.Message });
+        }
+    }
+
+    [HttpPut("update-platform")]
+    public async Task<IActionResult> UpdatePlatform([FromBody] JsonElement requestData)
+    {
+        try
+        {
+            _logger.LogInformation("Received raw update request: {RequestData}", requestData.ToString());
+
+            if (!requestData.TryGetProperty("platform", out var platformElement))
+            {
+                _logger.LogWarning("Invalid request format: missing 'genre' property");
+                return BadRequest(new { Message = "Invalid request format. Expected 'genre' property." });
+            }
+
+            var platformUpdateDto = platformElement.Deserialize<PlatformUpdateDto>();
+            if (platformUpdateDto == null || platformUpdateDto.Id == Guid.Empty)
+            {
+                _logger.LogWarning("Invalid genre data or missing ID");
+                return BadRequest(new { Message = "Invalid genre data or missing ID." });
+            }
+
+            var id = platformUpdateDto.Id;
+
+            var updatedGenre = await _platformService.UpdatePlatform(id, platformUpdateDto);
+            _logger.LogInformation("Successfully updated genre with ID: {GenreId}", updatedGenre.Id);
+            return Ok(new { genre = updatedGenre });
+        }
+        catch (ArgumentException ex)
+        {
+            _logger.LogWarning(ex, "Validation error for genre update");
+            return BadRequest(new { Message = ex.Message });
+        }
+        catch (KeyNotFoundException ex)
+        {
+            _logger.LogWarning(ex, "Genre not found");
+            return NotFound(new { Message = "Genre not found." });
+        }
+        catch (InvalidOperationException ex) when (ex.Message.Contains("cycle"))
+        {
+            _logger.LogWarning(ex, "Cyclic reference detected in genre hierarchy");
+            return BadRequest(new { Message = "Cyclic reference detected in genre hierarchy." });
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "Error updating genre: {ErrorMessage}", ex.Message);
+            return StatusCode(500, new
+            {
+                Message = "An error occurred while updating genre.",
+                Details = $"Error updating genre: {ex.Message}",
+            });
         }
     }
 

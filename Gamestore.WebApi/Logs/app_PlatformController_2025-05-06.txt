@@ -1,0 +1,2 @@
+[2025-05-06 15:06:48.787] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Getting all platforms
+[2025-05-06 15:06:48.806] [INFO] [Gamestore.WebApi.Controllers.PlatformController] Successfully retrieved 4 platforms

@@ -22,7 +22,6 @@ public class GameService(IUnitOfWork unitOfWork, ILogger<GameService> logger) : 
         {
             if (gameRequest.Genres != null)
             {
-#pragma warning disable IDE0305 // Simplify collection initialization
                 gameRequest.Genres = gameRequest.Genres
                     .Where(g => Guid.TryParse(g.ToString(), out _))
                     .ToList();
@@ -34,7 +33,6 @@ public class GameService(IUnitOfWork unitOfWork, ILogger<GameService> logger) : 
                     .Where(p => Guid.TryParse(p.ToString(), out _))
                     .ToList();
             }
-#pragma warning restore IDE0305 // Simplify collection initialization
 
             ValidateGameRequest(gameRequest);
 
@@ -166,8 +164,8 @@ public class GameService(IUnitOfWork unitOfWork, ILogger<GameService> logger) : 
                 return null;
             }
 
-            // Create the game DTO
-            var gameUpdateDto = new GameDtoUpdate
+            // Przygotuj informacje o grze
+            var gameDetails = new GameDtoUpdate
             {
                 Id = existingGame.Id,
                 Name = existingGame.Name,
@@ -176,28 +174,34 @@ public class GameService(IUnitOfWork unitOfWork, ILogger<GameService> logger) : 
                 Price = existingGame.Price,
                 UnitInStock = existingGame.UnitInStock,
                 Discontinued = existingGame.Discontinued,
-                PublisherId = existingGame.PublisherId,
             };
 
-            // Get associated genre IDs
-            var gameGenres = await _unitOfWork.GameGenres.GetByGameIdAsync(existingGame.Id);
-            var genreIds = gameGenres.Select(gg => gg.GenreId).ToList();
+            // Pobierz nazwy gatunków z bezpiecznym sprawdzeniem null
+            var genreNames = existingGame.GameGenres?
+                .Where(gg => gg.Genre != null)
+                .Select(gg => gg.Genre.Name)
+                .ToList() ?? new List<string>();
 
-            // Get associated platform IDs
-            var gamePlatforms = await _unitOfWork.GamePlatforms.GetByGameIdAsync(existingGame.Id);
-            var platformIds = gamePlatforms.Select(gp => gp.PlatformId).ToList();
+            // Pobierz nazwy platform z bezpiecznym sprawdzeniem null
+            var platformNames = existingGame.GamePlatforms?
+                .Where(gp => gp.Platform != null)
+                .Select(gp => gp.Platform.Type)
+                .ToList() ?? new List<string>();
 
-            // Create the complete DTO
-            var gameCreateUpdateDto = new GameCreateUpdateDto
+            // Pobierz nazwę wydawcy bezpośrednio z załadowanych danych
+            string publisherName = existingGame.Publisher?.CompanyName ?? string.Empty;
+
+            // Utwórz kompletne DTO
+            var gameDto = new GameGetWithNames
             {
-                Game = gameUpdateDto,
-                Genres = genreIds.Count > 0 ? genreIds : null,
-                Platforms = platformIds.Count > 0 ? platformIds : null,
-                Publisher = existingGame.PublisherId,
+                // Game = gameDetails,
+                Genres = genreNames,
+                Platforms = platformNames,
+                Publisher = publisherName,
             };
 
             _logger.LogInformation("Successfully retrieved game with ID: {GameId}", existingGame.Id);
-            return gameUpdateDto;
+            return gameDetails;
         }
         catch (Exception ex)
         {
@@ -346,7 +350,6 @@ public class GameService(IUnitOfWork unitOfWork, ILogger<GameService> logger) : 
 
         try
         {
-            await EnsurePlatformExistsAsync(platformId);
             return await RetrieveGamesByPlatformAsync(platformId);
         }
         catch (Exception ex)
@@ -363,7 +366,6 @@ public class GameService(IUnitOfWork unitOfWork, ILogger<GameService> logger) : 
 
         try
         {
-            await EnsureGenreExistsAsync(genreId);
             return await RetrieveGamesByGenreAsync(genreId);
         }
         catch (Exception ex)
@@ -492,16 +494,6 @@ public class GameService(IUnitOfWork unitOfWork, ILogger<GameService> logger) : 
         }
     }
 
-    private async Task<bool> ValidatePlatformExists(Guid platformId)
-    {
-        return await _unitOfWork.Platforms.GetByIdAsync(platformId) != null;
-    }
-
-    private async Task<bool> ValidateGenreExists(Guid genreId)
-    {
-        return await _unitOfWork.Genres.GetByIdAsync(genreId) != null;
-    }
-
     private static string SanitizeFileName(string fileName)
     {
         if (string.IsNullOrWhiteSpace(fileName))
@@ -530,6 +522,9 @@ public class GameService(IUnitOfWork unitOfWork, ILogger<GameService> logger) : 
             Description = game.Description,
             Key = game.Key,
             Name = game.Name,
+            Price = game.Price,
+            UnitInStock = game.UnitInStock,
+            Discontinued = game.Discontinued,
         };
     }
 
@@ -569,30 +564,6 @@ public class GameService(IUnitOfWork unitOfWork, ILogger<GameService> logger) : 
         }
     }
 
-    private async Task EnsurePlatformExistsAsync(Guid platformId)
-    {
-        var platformExists = await ValidatePlatformExists(platformId);
-        if (!platformExists)
-        {
-            _logger.LogWarning("Platform not found with ID: {PlatformId}", platformId);
-            throw new KeyNotFoundException($"Platform with ID '{platformId}' not found");
-        }
-
-        _logger.LogInformation("Platform with ID: {PlatformId} exists", platformId);
-    }
-
-    private async Task EnsureGenreExistsAsync(Guid genreId)
-    {
-        var genreExists = await ValidateGenreExists(genreId);
-        if (!genreExists)
-        {
-            _logger.LogWarning("Genre not found with ID: {GenreId}", genreId);
-            throw new KeyNotFoundException($"Genre with ID '{genreId}' not found");
-        }
-
-        _logger.LogInformation("Genre with ID: {GenreId} exists", genreId);
-    }
-
     private async Task<IEnumerable<GameDtoCreate>> RetrieveGamesByPlatformAsync(Guid platformId)
     {
         var gamePlatforms = await GetGamePlatformRelationsAsync(platformId);
@@ -608,13 +579,6 @@ public class GameService(IUnitOfWork unitOfWork, ILogger<GameService> logger) : 
     private async Task<IEnumerable<GamePlatform>> GetGamePlatformRelationsAsync(Guid platformId)
     {
         var gamePlatforms = await _unitOfWork.GamePlatforms.GetByPlatformIdAsync(platformId);
-
-        if (gamePlatforms == null || !gamePlatforms.Any())
-        {
-            _logger.LogInformation("No games found for platform ID: {PlatformId}", platformId);
-            throw new KeyNotFoundException($"No games found with platform ID '{platformId}'");
-        }
-
         _logger.LogInformation("Found {Count} game-platform relations for platform ID: {PlatformId}", gamePlatforms.Count(), platformId);
 
         return gamePlatforms;
@@ -623,12 +587,6 @@ public class GameService(IUnitOfWork unitOfWork, ILogger<GameService> logger) : 
     private async Task<IEnumerable<GameGenre>> GetGameGenreRelationsAsync(Guid genreId)
     {
         var gameGenres = await _unitOfWork.GameGenres.GetByGenreIdAsync(genreId);
-
-        if (gameGenres == null || !gameGenres.Any())
-        {
-            _logger.LogInformation("No games found for genre ID: {GenreId}", genreId);
-            throw new KeyNotFoundException($"No games found with genre ID '{genreId}'");
-        }
 
         _logger.LogInformation("Found {Count} game-genre relations for genre ID: {GenreId}", gameGenres.Count(), genreId);
 

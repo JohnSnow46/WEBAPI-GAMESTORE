@@ -1,0 +1,2 @@
+[2025-05-06 15:06:48.785] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Getting all publishers
+[2025-05-06 15:06:48.805] [INFO] [Gamestore.WebApi.Controllers.PublishersController] Successfully retrieved 8 publishers

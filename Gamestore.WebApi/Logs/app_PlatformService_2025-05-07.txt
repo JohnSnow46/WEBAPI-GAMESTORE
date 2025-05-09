@@ -1,0 +1,374 @@
+[2025-05-07 03:39:02.251] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 03:39:02.261] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 03:39:02.263] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 03:39:02.302] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 03:39:15.650] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 03:39:15.661] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 03:39:15.663] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 03:39:15.672] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 03:40:18.310] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 03:40:18.322] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 03:40:18.324] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 03:40:18.392] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 03:41:17.276] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 03:41:17.284] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 03:41:17.288] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 03:41:17.328] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 03:41:23.097] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 03:41:23.107] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 03:41:23.108] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 03:41:23.115] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 03:41:45.982] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 03:41:45.993] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 03:41:45.996] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 03:41:46.040] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 03:42:17.312] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 123
+[2025-05-07 03:42:17.344] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 33a8ab9f-3735-4cc6-9b77-c7635ecbdf80 for key: 123
+[2025-05-07 03:42:17.346] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 33a8ab9f-3735-4cc6-9b77-c7635ecbdf80
+[2025-05-07 03:42:17.380] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:15:08.473] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:15:08.490] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:15:08.493] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:15:08.529] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:30:46.508] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:30:46.553] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:31:50.522] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:31:50.544] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:33:02.439] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:33:02.459] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:33:15.897] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:33:15.906] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:33:25.230] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:33:25.235] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:33:25.247] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 1
+[2025-05-07 04:33:25.254] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 1b5ae9bd-56f2-46b5-a741-8c6621529bf6 for key: 1
+[2025-05-07 04:33:25.258] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 1b5ae9bd-56f2-46b5-a741-8c6621529bf6
+[2025-05-07 04:33:25.298] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:35:12.517] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:35:12.532] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:35:12.534] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:35:12.544] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:41:14.285] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12
+[2025-05-07 04:41:14.287] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:41:14.336] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 1fc9c172-d034-4c78-9728-ed9c559c916b for key: 12
+[2025-05-07 04:41:14.343] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 1fc9c172-d034-4c78-9728-ed9c559c916b
+[2025-05-07 04:41:14.362] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:41:14.364] [INFO] [Gamestore.Services.PlatformService] No platforms found for game with ID: 1fc9c172-d034-4c78-9728-ed9c559c916b
+[2025-05-07 04:41:14.420] [ERROR] [Gamestore.Services.PlatformService] Error retrieving platforms for game with key: 12
+Exception: System.Collections.Generic.KeyNotFoundException: No platforms found for game with key '12'
+Stack Trace:    at Gamestore.Services.PlatformService.RetrievePlatformsByGameAsync(Game game) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PlatformService.cs:line 244
+   at Gamestore.Services.PlatformService.GetPlatformsByGameKeyAsync(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PlatformService.cs:line 149
+[2025-05-07 04:41:27.331] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 1
+[2025-05-07 04:41:27.333] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:41:27.346] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:41:27.347] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 1b5ae9bd-56f2-46b5-a741-8c6621529bf6 for key: 1
+[2025-05-07 04:41:27.351] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 1b5ae9bd-56f2-46b5-a741-8c6621529bf6
+[2025-05-07 04:41:27.382] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:53:58.073] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:53:58.090] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:53:58.091] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:53:58.131] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:54:03.436] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:54:03.453] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:54:03.455] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:54:03.480] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:54:03.490] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:54:03.499] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:54:14.547] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:54:14.554] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:54:14.556] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:54:14.564] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:54:33.990] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:54:33.999] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:54:34.001] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:54:34.010] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:54:37.344] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:54:37.353] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:54:37.355] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:54:37.364] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:54:39.715] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:54:39.724] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:54:39.729] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:54:39.738] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:56:06.586] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:56:06.603] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:56:06.607] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:56:06.612] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:56:06.613] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:56:06.636] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:56:13.132] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:56:13.133] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:56:13.143] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:56:13.150] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:56:13.153] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:56:13.175] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:56:36.579] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:56:36.619] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:56:36.637] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:56:36.640] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:56:36.647] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:56:36.668] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:57:01.649] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:57:01.661] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:57:01.663] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:57:01.681] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:57:22.255] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:57:22.260] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:57:22.274] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:57:22.278] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:57:22.278] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:57:22.297] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:57:40.661] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:57:40.662] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:57:40.672] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:57:40.675] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:57:40.688] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:57:40.702] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 04:58:02.625] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 04:58:02.631] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 04:58:02.633] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 04:58:02.642] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 04:58:02.653] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 04:58:02.654] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 05:00:10.396] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:00:10.422] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 05:00:10.491] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 05:00:10.497] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 05:00:10.497] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:00:10.545] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 05:01:42.729] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:01:42.731] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 1
+[2025-05-07 05:01:42.745] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 1b5ae9bd-56f2-46b5-a741-8c6621529bf6 for key: 1
+[2025-05-07 05:01:42.751] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 1b5ae9bd-56f2-46b5-a741-8c6621529bf6
+[2025-05-07 05:01:42.756] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:01:42.806] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 05:02:14.428] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:02:14.431] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 05:02:14.451] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 05:02:14.452] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:02:14.455] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 05:02:14.501] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 05:15:48.128] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:15:48.150] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:16:43.772] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:16:43.783] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:16:43.794] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: XD
+[2025-05-07 05:16:43.806] [INFO] [Gamestore.Services.PlatformService] Game found with ID: e15c6996-1b7d-4db5-b78a-a00065abf2c3 for key: XD
+[2025-05-07 05:16:43.809] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: e15c6996-1b7d-4db5-b78a-a00065abf2c3
+[2025-05-07 05:16:43.850] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 05:17:21.935] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: XD
+[2025-05-07 05:17:21.944] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:17:21.951] [INFO] [Gamestore.Services.PlatformService] Game found with ID: e15c6996-1b7d-4db5-b78a-a00065abf2c3 for key: XD
+[2025-05-07 05:17:21.957] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: e15c6996-1b7d-4db5-b78a-a00065abf2c3
+[2025-05-07 05:17:21.994] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:17:22.071] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 05:19:56.153] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:19:56.163] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:23:03.297] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:23:03.319] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:24:05.834] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:24:05.846] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:24:12.503] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:24:12.538] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:24:31.159] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 123
+[2025-05-07 05:24:31.198] [INFO] [Gamestore.Services.PlatformService] Game found with ID: fe7cfc98-b784-4753-98c5-ad4c8564115d for key: 123
+[2025-05-07 05:24:31.201] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: fe7cfc98-b784-4753-98c5-ad4c8564115d
+[2025-05-07 05:24:31.241] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 05:25:50.888] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 123
+[2025-05-07 05:25:50.890] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:25:50.907] [INFO] [Gamestore.Services.PlatformService] Game found with ID: fe7cfc98-b784-4753-98c5-ad4c8564115d for key: 123
+[2025-05-07 05:25:50.945] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: fe7cfc98-b784-4753-98c5-ad4c8564115d
+[2025-05-07 05:25:50.950] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:25:50.997] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 05:29:41.380] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 05:29:41.384] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:29:41.460] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 05:29:41.468] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 05:29:41.469] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:29:41.519] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 05:31:30.425] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 05:31:30.466] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 05:31:30.498] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 05:31:30.509] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 05:31:35.573] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 05:31:35.573] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:31:35.636] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:31:35.637] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 05:31:35.640] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 05:31:35.700] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 05:32:49.424] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 05:32:49.424] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:32:49.446] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 05:32:49.453] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 05:32:49.454] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:32:49.549] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 05:38:41.263] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:38:41.286] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:38:45.763] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:38:45.771] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:38:56.725] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:38:56.746] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:38:56.774] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 123
+[2025-05-07 05:38:56.778] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554 for key: 123
+[2025-05-07 05:38:56.780] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554
+[2025-05-07 05:38:56.816] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 05:43:32.137] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:43:32.138] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 123
+[2025-05-07 05:43:32.189] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554 for key: 123
+[2025-05-07 05:43:32.190] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:43:32.194] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554
+[2025-05-07 05:43:32.238] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 05:43:51.303] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:43:51.306] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 123
+[2025-05-07 05:43:51.329] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:43:51.330] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554 for key: 123
+[2025-05-07 05:43:51.335] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554
+[2025-05-07 05:43:51.379] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 05:51:01.193] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 05:51:01.193] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:51:01.205] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 05:51:01.210] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 05:51:01.213] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:51:01.255] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 05:53:33.096] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 05:53:33.097] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:53:33.118] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 05:53:33.123] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 05:53:33.125] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:53:33.170] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 05:55:16.598] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 05:55:16.599] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 05:55:16.616] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 05:55:16.627] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 05:55:16.632] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 05:55:16.679] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 06:01:42.605] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 06:01:42.606] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 06:01:42.619] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 06:01:42.624] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 06:01:42.633] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 06:01:42.675] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 06:05:04.188] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 06:05:04.190] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 06:05:04.219] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 06:05:04.221] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 06:05:04.225] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 06:05:04.268] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 06:06:41.809] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 06:06:41.810] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 06:06:41.829] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 06:06:41.832] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 06:06:41.833] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 06:06:41.880] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 06:09:12.905] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 06:09:12.906] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 06:09:12.927] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 06:09:12.932] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 06:09:12.936] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 06:09:12.986] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 06:10:01.019] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 06:10:01.081] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 06:10:01.083] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 06:10:01.092] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 06:10:12.738] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 06:10:12.741] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 06:10:12.753] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 06:10:12.759] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 06:10:12.761] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 06:10:12.785] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 06:10:22.532] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 06:10:22.540] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 06:10:22.542] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 06:10:22.552] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 06:10:55.687] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 06:10:55.734] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 06:11:09.021] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 06:11:09.029] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 06:11:09.038] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 1234
+[2025-05-07 06:11:09.049] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0 for key: 1234
+[2025-05-07 06:11:09.052] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0
+[2025-05-07 06:11:09.093] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 06:11:16.581] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 1234
+[2025-05-07 06:11:16.589] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0 for key: 1234
+[2025-05-07 06:11:16.592] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0
+[2025-05-07 06:11:16.601] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 06:11:23.171] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 06:11:23.172] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 1234
+[2025-05-07 06:11:23.187] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 06:11:23.193] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0 for key: 1234
+[2025-05-07 06:11:23.198] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0
+[2025-05-07 06:11:23.212] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 06:11:32.899] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 1234
+[2025-05-07 06:11:32.908] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0 for key: 1234
+[2025-05-07 06:11:32.910] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0
+[2025-05-07 06:11:32.918] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 06:11:36.757] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 1234
+[2025-05-07 06:11:36.759] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 06:11:36.770] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 06:11:36.776] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0 for key: 1234
+[2025-05-07 06:11:36.781] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0
+[2025-05-07 06:11:36.799] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 06:11:41.435] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 1234
+[2025-05-07 06:11:41.443] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0 for key: 1234
+[2025-05-07 06:11:41.445] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0
+[2025-05-07 06:11:41.454] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 06:11:51.755] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 1234
+[2025-05-07 06:11:51.756] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 06:11:51.766] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 06:11:51.770] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0 for key: 1234
+[2025-05-07 06:11:51.773] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0
+[2025-05-07 06:11:51.786] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 06:11:55.491] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 1234
+[2025-05-07 06:11:55.498] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0 for key: 1234
+[2025-05-07 06:11:55.501] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0
+[2025-05-07 06:11:55.510] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 06:55:05.297] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 06:55:05.320] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 07:02:10.245] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 07:02:10.256] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 07:02:10.259] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 07:02:10.298] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 07:02:23.051] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 07:02:23.065] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 07:02:23.068] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 07:02:23.079] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 07:02:23.092] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 07:02:23.099] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 07:02:26.457] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 12345
+[2025-05-07 07:02:26.468] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa for key: 12345
+[2025-05-07 07:02:26.470] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 5f6d7b75-ab67-4f71-a8e4-2116b7bef0fa
+[2025-05-07 07:02:26.479] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 07:02:36.769] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 1234
+[2025-05-07 07:02:36.782] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0 for key: 1234
+[2025-05-07 07:02:36.785] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 78dececd-4b18-4ba7-8207-d7d4f276c8e0
+[2025-05-07 07:02:36.792] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations
+[2025-05-07 07:02:41.613] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 123
+[2025-05-07 07:02:41.622] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554 for key: 123
+[2025-05-07 07:02:41.623] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554
+[2025-05-07 07:02:41.629] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 07:02:43.902] [INFO] [Gamestore.Services.PlatformService] Starting get platform by ID operation for ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-07 07:02:43.909] [INFO] [Gamestore.Services.PlatformService] Platform found with ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-07 07:06:01.970] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 07:06:01.983] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 07:06:02.969] [INFO] [Gamestore.Services.PlatformService] Starting get platform by ID operation for ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-07 07:06:02.976] [INFO] [Gamestore.Services.PlatformService] Platform found with ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-07 07:06:47.755] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 07:06:47.759] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 13:10:34.413] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 123
+[2025-05-07 13:10:34.427] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554 for key: 123
+[2025-05-07 13:10:34.429] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554
+[2025-05-07 13:10:34.470] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 13:10:58.426] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 123
+[2025-05-07 13:10:58.468] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554 for key: 123
+[2025-05-07 13:10:58.471] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554
+[2025-05-07 13:10:58.513] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 13:11:15.082] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 123
+[2025-05-07 13:11:15.115] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554 for key: 123
+[2025-05-07 13:11:15.120] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-07 13:11:15.162] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554
+[2025-05-07 13:11:15.170] [INFO] [Gamestore.Services.PlatformService] Retrieved 2 platforms for game relations
+[2025-05-07 13:11:15.177] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
+[2025-05-07 13:11:18.811] [INFO] [Gamestore.Services.PlatformService] Starting get platforms by game key operation for key: 123
+[2025-05-07 13:11:18.818] [INFO] [Gamestore.Services.PlatformService] Game found with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554 for key: 123
+[2025-05-07 13:11:18.820] [INFO] [Gamestore.Services.PlatformService] Retrieving platforms for game with ID: 1b9cd51f-6ca5-4b15-92a2-a9b017517554
+[2025-05-07 13:11:18.830] [INFO] [Gamestore.Services.PlatformService] Retrieved 1 platforms for game relations

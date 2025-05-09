@@ -1,4 +1,5 @@
-﻿using Gamestore.Services.Dto.GenresDto;
+﻿using System.Text.Json;
+using Gamestore.Services.Dto.GenresDto;
 using Gamestore.Services.IServices;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.OutputCaching;
@@ -6,21 +7,22 @@ using Microsoft.AspNetCore.OutputCaching;
 namespace Gamestore.WebApi.Controllers;
 
 [ApiController]
-[Route("api/genres")]
-public class GenreController(IGenreService genreService, ILogger<GenreController> logger) : ControllerBase
+[Route("api")]
+public class GenreController(IGameService gameService, IGenreService genreService, ILogger<GenreController> logger) : ControllerBase
 {
+    private readonly IGameService _gameService = gameService;
     private readonly IGenreService _genreService = genreService;
     private readonly ILogger<GenreController> _logger = logger;
 
-    [HttpPost("add-genre")]
+    [HttpPost("genres/add-genre")]
     public async Task<IActionResult> CreateGenre([FromBody] GenreRequestDto genreRequest)
     {
         _logger.LogInformation("Creating new genre with Name: {GenreName}", genreRequest.Genre.Name);
         try
         {
-            var newGenre = await _genreService.CreateGenre(genreRequest);
-            _logger.LogInformation("Successfully created genre with ID: {GenreId}", newGenre.Id);
-            return CreatedAtAction(nameof(GetGenreById), new { id = newGenre.Id }, new { genre = newGenre });
+            var newGenre = await _genreService.CreateGenre(genreRequest.Genre);
+            _logger.LogInformation("Successfully created genre with Name: {GenreName}", newGenre.Name);
+            return Ok(newGenre);
         }
         catch (ArgumentException ex)
         {
@@ -39,14 +41,34 @@ public class GenreController(IGenreService genreService, ILogger<GenreController
         }
     }
 
-    [HttpPut("update")]
-    public async Task<IActionResult> UpdateGenre([FromBody] GenreUpdateDto genreRequest)
+    [HttpPut("genres/update-genre")]
+    public async Task<IActionResult> UpdateGenre([FromBody] JsonElement requestData)
     {
-        var id = genreRequest.Id;
-        _logger.LogInformation("Updating genre with ID: {GenreId}", genreRequest.Name);
         try
         {
-            var updatedGenre = await _genreService.UpdateGenre(id, genreRequest);
+            _logger.LogInformation("Received raw update request: {RequestData}", requestData.ToString());
+
+            if (!requestData.TryGetProperty("genre", out var genreElement))
+            {
+                _logger.LogWarning("Invalid request format: missing 'genre' property");
+                return BadRequest(new { Message = "Invalid request format. Expected 'genre' property." });
+            }
+
+            var genreUpdateDto = genreElement.Deserialize<GenreUpdateDto>();
+            if (genreUpdateDto == null || genreUpdateDto.Id == Guid.Empty)
+            {
+                _logger.LogWarning("Invalid genre data or missing ID");
+                return BadRequest(new { Message = "Invalid genre data or missing ID." });
+            }
+
+            var id = genreUpdateDto.Id;
+            _logger.LogInformation(
+                "Updating genre with ID: {GenreId}, Name: {GenreName}, ParentId: {ParentId}",
+                id,
+                genreUpdateDto.Name,
+                genreUpdateDto.ParentGenreId);
+
+            var updatedGenre = await _genreService.UpdateGenre(id, genreUpdateDto);
             _logger.LogInformation("Successfully updated genre with ID: {GenreId}", updatedGenre.Id);
             return Ok(new { genre = updatedGenre });
         }
@@ -58,7 +80,7 @@ public class GenreController(IGenreService genreService, ILogger<GenreController
         catch (KeyNotFoundException ex)
         {
             _logger.LogWarning(ex, "Genre not found");
-            return NotFound(new { Message = $"Genre with ID {genreRequest.Name} not found." });
+            return NotFound(new { Message = "Genre not found." });
         }
         catch (InvalidOperationException ex) when (ex.Message.Contains("cycle"))
         {
@@ -67,12 +89,16 @@ public class GenreController(IGenreService genreService, ILogger<GenreController
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "Error updating genre");
-            return StatusCode(500, new { Message = "An error occurred while updating genre.", Details = ex.Message });
+            _logger.LogError(ex, "Error updating genre: {ErrorMessage}", ex.Message);
+            return StatusCode(500, new
+            {
+                Message = "An error occurred while updating genre.",
+                Details = $"Error updating genre: {ex.Message}",
+            });
         }
     }
 
-    [HttpGet("{id}")]
+    [HttpGet("genres/{id}")]
     public async Task<IActionResult> GetGenreById(Guid id)
     {
         _logger.LogInformation("Getting genre by ID: {GenreId}", id);
@@ -80,6 +106,7 @@ public class GenreController(IGenreService genreService, ILogger<GenreController
         try
         {
             var genre = await _genreService.GetGenreById(id);
+
             if (genre == null)
             {
                 _logger.LogWarning("Genre with ID: {GenreId} not found", id);
@@ -96,7 +123,7 @@ public class GenreController(IGenreService genreService, ILogger<GenreController
         }
     }
 
-    [HttpGet]
+    [HttpGet("genres/")]
     public async Task<IActionResult> GetAllGenres()
     {
         _logger.LogInformation("Getting all genres");
@@ -113,7 +140,7 @@ public class GenreController(IGenreService genreService, ILogger<GenreController
         }
     }
 
-    [HttpGet("{id}/subgenres")]
+    [HttpGet("genres/{id}/subgenres")]
     public async Task<IActionResult> GetGenresByParentId(Guid id)
     {
         _logger.LogInformation("Getting subgenres for parent genre ID: {ParentId}", id);
@@ -121,11 +148,6 @@ public class GenreController(IGenreService genreService, ILogger<GenreController
         try
         {
             var subGenres = await _genreService.GetSubGenresAsync(id);
-            if (!subGenres.Any())
-            {
-                _logger.LogWarning("No subgenres found for parent genre ID: {ParentId}", id);
-                return NotFound($"No subgenres found for genre ID '{id}'.");
-            }
 
             _logger.LogInformation("Successfully retrieved {Count} subgenres for parent genre ID: {ParentId}", subGenres.Count(), id);
             return Ok(subGenres);
@@ -137,7 +159,7 @@ public class GenreController(IGenreService genreService, ILogger<GenreController
         }
     }
 
-    [HttpDelete("{id}")]
+    [HttpDelete("genres/{id}")]
     public async Task<IActionResult> DeleteGenreById(Guid id)
     {
         _logger.LogInformation("Deleting genre with ID: {GenreId}", id);
@@ -161,7 +183,7 @@ public class GenreController(IGenreService genreService, ILogger<GenreController
         }
     }
 
-    [HttpGet("{key}/genres")]
+    [HttpGet("genres/{key}/genres")]
     [OutputCache(Duration = 60)]
     public async Task<IActionResult> GetGenresByGameKey(string key)
     {
@@ -181,6 +203,30 @@ public class GenreController(IGenreService genreService, ILogger<GenreController
         catch (Exception ex)
         {
             _logger.LogError(ex, "Error retrieving genres for game with key: {GameKey}", key);
+            return StatusCode(500, new { Message = "An error occurred.", Details = ex.Message });
+        }
+    }
+
+    [HttpGet("genres/{id}/games")]
+    public async Task<IActionResult> GetGamesByGenreId(Guid id)
+    {
+        _logger.LogInformation("Getting games by genre ID: {GenreId}", id);
+
+        try
+        {
+            var genre = await _gameService.GetGamesByGenreAsync(id);
+            if (genre == null)
+            {
+                _logger.LogWarning("Genre with ID: {GenreId} not found", id);
+                return NotFound($"Genre with ID '{id}' not found.");
+            }
+
+            _logger.LogInformation("Successfully retrieved games for genre ID: {GenreId}", id);
+            return Ok(genre);
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "Error retrieving games for genre ID: {GenreId}", id);
             return StatusCode(500, new { Message = "An error occurred.", Details = ex.Message });
         }
     }

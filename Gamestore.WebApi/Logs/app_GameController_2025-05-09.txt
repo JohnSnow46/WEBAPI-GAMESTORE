@@ -1,0 +1,283 @@
+[2025-05-09 02:01:56.897] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 02:01:56.966] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 02:01:58.766] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-09 02:01:58.909] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-09 02:02:02.103] [INFO] [Gamestore.WebApi.Controllers.GameController] Received raw update request: {"game":{"id":"78dececd-4b18-4ba7-8207-d7d4f276c8e0","name":"1234556","description":"1234","key":"1234","unitInStock":1234,"price":1234,"discontinued":1234},"genres":["b63026f5-68fc-4602-95ae-49a99afb41b5"],"platforms":["da7e271c-d900-4895-91b9-05f5de8e0aa5"],"publisher":"f1ca5b26-668d-4b1f-8413-4ad94ed5e4c8"}
+[2025-05-09 02:02:02.112] [INFO] [Gamestore.WebApi.Controllers.GameController] Updating game with Key: 1234, Title: 1234
+[2025-05-09 02:02:02.219] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully updated game with Key: 1234
+[2025-05-09 02:02:02.231] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-09 02:02:02.238] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-09 02:02:09.392] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-09 02:02:09.398] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-09 02:02:12.631] [INFO] [Gamestore.WebApi.Controllers.GameController] Received raw update request: {"game":{"id":"78dececd-4b18-4ba7-8207-d7d4f276c8e0","name":"12345567","description":"1234","key":"1234","unitInStock":1234,"price":1234,"discontinued":1234},"genres":["b63026f5-68fc-4602-95ae-49a99afb41b5"],"platforms":["da7e271c-d900-4895-91b9-05f5de8e0aa5"],"publisher":"f1ca5b26-668d-4b1f-8413-4ad94ed5e4c8"}
+[2025-05-09 02:02:12.633] [INFO] [Gamestore.WebApi.Controllers.GameController] Updating game with Key: 1234, Title: 1234
+[2025-05-09 02:02:12.658] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully updated game with Key: 1234
+[2025-05-09 02:02:12.669] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-09 02:02:12.675] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-09 02:02:15.950] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 02:02:15.956] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 02:02:28.372] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: 4df19dc4-f4ed-43ee-ab38-bcf277bd31c5
+[2025-05-09 02:02:28.390] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 02:02:28.396] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 02:02:30.503] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 124
+[2025-05-09 02:02:30.510] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 124
+[2025-05-09 02:02:31.257] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 124
+[2025-05-09 02:02:31.281] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 124
+[2025-05-09 02:02:31.290] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 02:02:31.296] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 02:16:59.512] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 02:16:59.521] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 02:17:11.360] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating game
+Exception: System.InvalidOperationException: Error adding game: Game with key '1234' already exists
+Inner Exception: System.ComponentModel.DataAnnotations.ValidationException: Game with key '1234' already exists
+Stack Trace:    at Gamestore.Services.GameService.AddGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 106
+   at Gamestore.WebApi.Controllers.GameController.CreateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 40
+[2025-05-09 02:17:17.914] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error creating game
+Exception: System.InvalidOperationException: Error adding game: Game with key '1234' already exists
+Inner Exception: System.ComponentModel.DataAnnotations.ValidationException: Game with key '1234' already exists
+Stack Trace:    at Gamestore.Services.GameService.AddGameAsync(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 106
+   at Gamestore.WebApi.Controllers.GameController.CreateGame(GameRequestDto gameRequest) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 40
+[2025-05-09 02:17:29.719] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: 1a9598e4-a20b-4b63-a746-3e0cd2a686f9
+[2025-05-09 02:17:29.739] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 02:17:29.745] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 02:17:38.308] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-09 02:17:38.317] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-09 02:17:45.999] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 02:17:46.006] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 03:10:18.010] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 03:10:18.085] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 03:10:21.820] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 12345
+[2025-05-09 03:10:21.826] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 12345
+[2025-05-09 03:18:30.967] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-09 03:18:31.057] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-09 03:21:23.231] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-09 03:21:23.341] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-09 03:21:58.336] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-09 03:21:58.346] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-09 03:22:40.748] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 03:22:40.757] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 03:22:41.408] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 12345
+[2025-05-09 03:22:41.488] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 12345
+[2025-05-09 03:22:47.110] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 03:22:47.116] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 03:22:47.815] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 03:22:47.822] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 03:22:50.368] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 03:22:50.374] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 03:22:51.054] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-09 03:22:51.060] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-09 03:22:59.423] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 03:22:59.428] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 03:23:05.372] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-09 03:23:05.383] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-09 03:23:25.990] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-09 03:23:26.001] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-09 03:24:29.816] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-09 03:24:29.826] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: da7e271c-d900-4895-91b9-05f5de8e0aa5
+[2025-05-09 03:24:39.991] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-09 03:24:40.003] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-09 03:25:01.833] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: fbe11932-df29-4a01-9e50-6b44d6558ccd
+[2025-05-09 03:25:01.846] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: fbe11932-df29-4a01-9e50-6b44d6558ccd
+[2025-05-09 03:25:05.017] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: fbe11932-df29-4a01-9e50-6b44d6558ccd
+[2025-05-09 03:25:05.028] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: fbe11932-df29-4a01-9e50-6b44d6558ccd
+[2025-05-09 03:25:18.514] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e4f2808d-66da-4f40-858a-7129cb3df44a
+[2025-05-09 03:25:18.605] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error retrieving games for platform ID: e4f2808d-66da-4f40-858a-7129cb3df44a
+Exception: System.InvalidOperationException: Error retrieving games by platform: No games found with platform ID 'e4f2808d-66da-4f40-858a-7129cb3df44a'
+Inner Exception: System.Collections.Generic.KeyNotFoundException: No games found with platform ID 'e4f2808d-66da-4f40-858a-7129cb3df44a'
+Stack Trace:    at Gamestore.Services.GameService.GetGamesByPlatformAsync(Guid platformId) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 361
+   at Gamestore.WebApi.Controllers.GameController.GetGamesByPlatformId(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 261
+[2025-05-09 03:27:33.294] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: c08048ac-be91-4565-b8df-8fd5af9d812f
+[2025-05-09 03:27:33.354] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error retrieving games for platform ID: c08048ac-be91-4565-b8df-8fd5af9d812f
+Exception: System.InvalidOperationException: Error retrieving games by platform: No games found with platform ID 'c08048ac-be91-4565-b8df-8fd5af9d812f'
+Inner Exception: System.Collections.Generic.KeyNotFoundException: No games found with platform ID 'c08048ac-be91-4565-b8df-8fd5af9d812f'
+Stack Trace:    at Gamestore.Services.GameService.GetGamesByPlatformAsync(Guid platformId) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 361
+   at Gamestore.WebApi.Controllers.GameController.GetGamesByPlatformId(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 261
+[2025-05-09 03:29:40.683] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:29:40.773] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error retrieving games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+Exception: System.InvalidOperationException: Error retrieving games by platform: No games found with platform ID 'e5e788ee-c818-4be2-8d56-947c57a22bc6'
+Inner Exception: System.Collections.Generic.KeyNotFoundException: No games found with platform ID 'e5e788ee-c818-4be2-8d56-947c57a22bc6'
+Stack Trace:    at Gamestore.Services.GameService.GetGamesByPlatformAsync(Guid platformId) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 361
+   at Gamestore.WebApi.Controllers.GameController.GetGamesByPlatformId(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 261
+[2025-05-09 03:30:09.982] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:30:19.091] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error retrieving games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+Exception: System.InvalidOperationException: Error retrieving games by platform: No games found with platform ID 'e5e788ee-c818-4be2-8d56-947c57a22bc6'
+Inner Exception: System.Collections.Generic.KeyNotFoundException: No games found with platform ID 'e5e788ee-c818-4be2-8d56-947c57a22bc6'
+Stack Trace:    at Gamestore.Services.GameService.GetGamesByPlatformAsync(Guid platformId) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 361
+   at Gamestore.WebApi.Controllers.GameController.GetGamesByPlatformId(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 261
+[2025-05-09 03:30:26.378] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:30:28.838] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error retrieving games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+Exception: System.InvalidOperationException: Error retrieving games by platform: No games found with platform ID 'e5e788ee-c818-4be2-8d56-947c57a22bc6'
+Inner Exception: System.Collections.Generic.KeyNotFoundException: No games found with platform ID 'e5e788ee-c818-4be2-8d56-947c57a22bc6'
+Stack Trace:    at Gamestore.Services.GameService.GetGamesByPlatformAsync(Guid platformId) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 361
+   at Gamestore.WebApi.Controllers.GameController.GetGamesByPlatformId(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 261
+[2025-05-09 03:30:47.844] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:31:35.713] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:31:35.814] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error retrieving games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+Exception: System.InvalidOperationException: Error retrieving games by platform: No games found with platform ID 'e5e788ee-c818-4be2-8d56-947c57a22bc6'
+Inner Exception: System.Collections.Generic.KeyNotFoundException: No games found with platform ID 'e5e788ee-c818-4be2-8d56-947c57a22bc6'
+Stack Trace:    at Gamestore.Services.GameService.GetGamesByPlatformAsync(Guid platformId) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 360
+   at Gamestore.WebApi.Controllers.GameController.GetGamesByPlatformId(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 261
+[2025-05-09 03:31:47.384] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:31:47.448] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error retrieving games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+Exception: System.InvalidOperationException: Error retrieving games by platform: No games found with platform ID 'e5e788ee-c818-4be2-8d56-947c57a22bc6'
+Inner Exception: System.Collections.Generic.KeyNotFoundException: No games found with platform ID 'e5e788ee-c818-4be2-8d56-947c57a22bc6'
+Stack Trace:    at Gamestore.Services.GameService.GetGamesByPlatformAsync(Guid platformId) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 360
+   at Gamestore.WebApi.Controllers.GameController.GetGamesByPlatformId(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 261
+[2025-05-09 03:32:03.656] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:32:51.277] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:32:51.375] [ERROR] [Gamestore.WebApi.Controllers.GameController] Error retrieving games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+Exception: System.InvalidOperationException: Error retrieving games by platform: No games found with platform ID 'e5e788ee-c818-4be2-8d56-947c57a22bc6'
+Inner Exception: System.Collections.Generic.KeyNotFoundException: No games found with platform ID 'e5e788ee-c818-4be2-8d56-947c57a22bc6'
+Stack Trace:    at Gamestore.Services.GameService.GetGamesByPlatformAsync(Guid platformId) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\GameService.cs:line 360
+   at Gamestore.WebApi.Controllers.GameController.GetGamesByPlatformId(Guid id) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.WebApi\Controllers\GameController.cs:line 261
+[2025-05-09 03:35:17.876] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:35:19.747] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:35:30.207] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:35:30.215] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:35:33.563] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:35:33.571] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:35:38.850] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-09 03:35:38.891] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: 750d0245-fad2-4472-b12d-33c0e0f310ff
+[2025-05-09 03:35:57.812] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 03:35:57.821] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 03:36:21.127] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 03:36:21.132] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 03:36:21.949] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 12345
+[2025-05-09 03:36:22.015] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 12345
+[2025-05-09 03:36:27.324] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 12345
+[2025-05-09 03:36:27.331] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 12345
+[2025-05-09 03:36:27.839] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 12345
+[2025-05-09 03:36:27.892] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 12345
+[2025-05-09 03:36:27.904] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 03:36:27.909] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 03:36:28.991] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 03:36:29.029] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 03:36:29.547] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 123
+[2025-05-09 03:36:29.562] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 123
+[2025-05-09 03:36:29.573] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 03:36:29.578] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-09 03:36:30.345] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-09 03:36:30.351] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-09 03:36:30.807] [INFO] [Gamestore.WebApi.Controllers.GameController] Deleting game by key: 1234
+[2025-05-09 03:36:30.821] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully deleted game with key: 1234
+[2025-05-09 03:36:30.830] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 03:36:30.835] [WARN] [Gamestore.WebApi.Controllers.GameController] No games found in the database
+[2025-05-09 03:36:39.191] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 03:36:39.197] [WARN] [Gamestore.WebApi.Controllers.GameController] No games found in the database
+[2025-05-09 03:36:48.454] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: f1a8d334-865c-4a94-beaa-550e39f51ac7
+[2025-05-09 03:36:48.473] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 03:36:48.479] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-09 03:36:51.728] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:36:51.736] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:36:53.291] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 03:36:53.297] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 03:36:54.693] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 03:36:54.699] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 1 games
+[2025-05-09 03:37:04.585] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: 07c871dd-e4b3-4770-afd6-6795748f60ae
+[2025-05-09 03:37:04.595] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 03:37:04.601] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 03:37:07.537] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:37:07.546] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:51:31.817] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:51:31.895] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:56:20.758] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 03:56:20.831] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 04:47:23.905] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 04:47:23.930] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 06:03:49.097] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:03:49.108] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 06:03:50.002] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:03:50.074] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:04:19.281] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:04:19.350] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 06:04:20.499] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:04:20.638] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:06:15.197] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:06:15.265] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 06:06:16.152] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:06:16.290] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:06:34.780] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:06:34.787] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 06:06:36.129] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:06:36.140] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:06:40.532] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:06:40.538] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 06:06:41.184] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:06:41.190] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:06:45.165] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:06:45.171] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 06:06:45.846] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:06:45.852] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:06:49.659] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:06:49.665] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 06:06:50.347] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:06:50.353] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:07:57.031] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: 967568c1-a4f4-4c6d-a590-97b576f038bb
+[2025-05-09 06:07:57.046] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: 967568c1-a4f4-4c6d-a590-97b576f038bb
+[2025-05-09 06:08:00.426] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 06:08:00.434] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 06:08:04.628] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:08:04.639] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:08:07.854] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:08:07.860] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 06:08:08.667] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-09 06:08:08.674] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-09 06:08:10.918] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:08:10.923] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 06:08:13.847] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 06:08:13.854] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 06:08:19.463] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:08:19.468] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 06:08:20.439] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 1234
+[2025-05-09 06:08:20.444] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 1234
+[2025-05-09 06:09:13.958] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:09:13.963] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 06:09:14.665] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:09:14.675] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:10:16.425] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: 0cad0519-6e95-4934-8e74-c0489e31d3e9
+[2025-05-09 06:10:16.435] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: 0cad0519-6e95-4934-8e74-c0489e31d3e9
+[2025-05-09 06:10:44.561] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:10:44.568] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 2 games
+[2025-05-09 06:10:58.250] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully created game with ID: d4c40fdd-928e-44df-8218-69018c1c1848
+[2025-05-09 06:10:58.269] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:10:58.275] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 06:11:00.398] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 12345
+[2025-05-09 06:11:00.404] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 12345
+[2025-05-09 06:14:30.024] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:14:30.088] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 06:14:31.169] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 12345
+[2025-05-09 06:14:31.311] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 12345
+[2025-05-09 06:14:39.655] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:14:39.661] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 06:14:40.350] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:14:40.357] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:14:46.639] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:14:46.645] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 06:14:51.548] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:14:51.554] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:14:53.869] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:14:53.874] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 06:14:54.394] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:14:54.401] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:23:08.196] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:23:08.261] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 06:23:37.330] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:23:37.340] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:23:41.231] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:23:41.237] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:23:42.852] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 06:23:42.865] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 06:23:45.821] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:23:45.827] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:23:51.381] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:23:51.392] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:24:04.954] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 06:24:04.960] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games
+[2025-05-09 06:24:05.598] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:24:05.611] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 06:35:40.208] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting games by platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 06:35:40.218] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved games for platform ID: e5e788ee-c818-4be2-8d56-947c57a22bc6
+[2025-05-09 06:35:43.566] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting game by key: 123
+[2025-05-09 06:35:43.577] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully found the game with key: 123
+[2025-05-09 07:00:23.917] [INFO] [Gamestore.WebApi.Controllers.GameController] Getting all games
+[2025-05-09 07:00:23.982] [INFO] [Gamestore.WebApi.Controllers.GameController] Successfully retrieved 3 games

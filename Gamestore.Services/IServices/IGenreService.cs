@@ -8,7 +8,7 @@ public interface IGenreService
 
     Task<GenreDto> UpdateGenre(Guid id, GenreUpdateDto genreRequest);
 
-    Task<GenreDto> CreateGenre(GenreRequestDto genreRequest);
+    Task<GenreDtoCreate> CreateGenre(GenreDtoCreate genreRequest);
 
     Task<IEnumerable<GenreGetAllDto>> GetAllGenres();
 

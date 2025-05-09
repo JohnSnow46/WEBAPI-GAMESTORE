@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Gamestore.Data.Repository.IRepository;
 using Gamestore.Entities;
+using Gamestore.Services.Dto.GamesDto;
 using Gamestore.Services.Dto.PublishersDto;
 using Gamestore.Services.IServices;
 using Microsoft.Extensions.Logging;
@@ -73,16 +74,15 @@ public class PublisherService(IUnitOfWork unitOfWork, ILogger<PublisherService> 
             // Convert DTO to entity
             var publisherEntity = new Publisher
             {
-                CompanyName = publisher.CompanyName,
-                Description = publisher.Description,
-                HomePage = publisher.HomePage,
+                Id = Guid.NewGuid(),
+                CompanyName = publisher.Publisher.CompanyName ?? string.Empty,
+                Description = publisher.Publisher.Description ?? string.Empty,
+                HomePage = publisher.Publisher.HomePage ?? string.Empty,
             };
 
             // Add the entity to repository
             await _unitOfWork.Publishers.AddAsync(publisherEntity);
             await _unitOfWork.CompleteAsync();
-
-            _logger.LogInformation("Publisher added successfully with Name: {PublisherName}", publisherEntity.CompanyName);
 
             // Return the DTO
             return publisher;
@@ -133,7 +133,7 @@ public class PublisherService(IUnitOfWork unitOfWork, ILogger<PublisherService> 
         }
     }
 
-    public async Task<IEnumerable<Game>> GetGamesByPublisherNameAsync(string publisherName)
+    public async Task<IEnumerable<GameDetailsDto>> GetGamesByPublisherNameAsync(string publisherName)
     {
         _logger.LogInformation("Starting get games by publisher operation: {PublisherName}", publisherName);
         ValidateCompanyName(publisherName);
@@ -143,8 +143,14 @@ public class PublisherService(IUnitOfWork unitOfWork, ILogger<PublisherService> 
             var publisher = await FindPublisherByName(publisherName);
             var games = await FindGamesForPublisher(publisher.Id);
 
+            var gamesDetailsList = games.Select(game => new GameDetailsDto
+            {
+                Name = game.Name,
+                Key = game.Key,
+            }).ToList();
+
             _logger.LogInformation("Found {Count} games for publisher: {PublisherName}", games.Count, publisherName);
-            return games;
+            return gamesDetailsList;
         }
         catch (Exception ex)
         {

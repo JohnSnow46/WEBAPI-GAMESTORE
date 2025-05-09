@@ -12,7 +12,7 @@ public class PublishersController(IPublisherService publisherService, ILogger<Pu
     private readonly IPublisherService _publisherService = publisherService;
     private readonly ILogger<PublishersController> _logger = logger;
 
-    [HttpGet("ByName/{companyName}")]
+    [HttpGet("name/{companyname}")]
     public async Task<ActionResult<Publisher>> GetPublisherByName(string companyName)
     {
         _logger.LogInformation("Getting publisher by Name: {PublisherName}", companyName);
@@ -36,7 +36,7 @@ public class PublishersController(IPublisherService publisherService, ILogger<Pu
         }
     }
 
-    [HttpGet("Games/{publisherName}")]
+    [HttpGet("{publisherName}/games")]
     public async Task<ActionResult<IEnumerable<Game>>> GetGamesByPublisherName(string publisherName)
     {
         _logger.LogInformation("Getting games by publisher name: {PublisherName}.", publisherName);
@@ -84,7 +84,7 @@ public class PublishersController(IPublisherService publisherService, ILogger<Pu
         }
     }
 
-    [HttpGet("publisher/{key}")]
+    [HttpGet("game/{key}")]
     public async Task<IActionResult> GetGamePublisherByGameKey(string key)
     {
         _logger.LogInformation("Getting publisher for game with key: {Key}", key);
@@ -111,11 +111,17 @@ public class PublishersController(IPublisherService publisherService, ILogger<Pu
     [HttpPost("add-publisher")]
     public async Task<IActionResult> CreatePublisher([FromBody] PublisherCreateDto publisherRequest)
     {
-        _logger.LogInformation("Creating publisher with Name: {PublisherName}", publisherRequest.CompanyName);
+        _logger.LogInformation("Creating publisher with Name: {PublisherName}", publisherRequest.Publisher.CompanyName);
+
+        if (publisherRequest == null)
+        {
+            return BadRequest("Publisher data is required.");
+        }
+
         try
         {
             var publisher = await _publisherService.AddPublisherAsync(publisherRequest);
-            _logger.LogInformation("Successfully created publisher with ID: {PublisherId}", publisher.CompanyName);
+            _logger.LogInformation("Successfully created publisher with ID: {PublisherId}", publisher.Publisher.CompanyName);
             return Ok(publisher);
         }
         catch (Exception ex)

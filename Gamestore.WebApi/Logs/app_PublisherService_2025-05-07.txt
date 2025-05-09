@@ -1,0 +1,234 @@
+[2025-05-07 03:41:45.982] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 03:41:46.003] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 03:42:17.311] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 123
+[2025-05-07 03:42:17.373] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 123
+[2025-05-07 04:15:08.474] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:15:08.492] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:30:46.507] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:30:46.555] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:31:50.521] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:31:50.546] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:33:02.438] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:33:02.494] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:33:15.898] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:33:15.907] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:33:25.229] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:33:25.239] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:33:25.251] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 1
+[2025-05-07 04:33:25.264] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 1
+[2025-05-07 04:35:12.519] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:35:12.533] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:41:14.286] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12
+[2025-05-07 04:41:14.287] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:41:14.350] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:41:14.356] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12
+[2025-05-07 04:41:27.334] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 1
+[2025-05-07 04:41:27.335] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:41:27.360] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:41:27.361] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 1
+[2025-05-07 04:53:58.072] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:53:58.093] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:54:03.437] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:54:03.451] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:54:03.481] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:54:03.500] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:54:14.546] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:54:14.555] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:54:33.991] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:54:34.000] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:54:37.346] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:54:37.354] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:54:38.542] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: Electronic Arts
+[2025-05-07 04:54:38.545] [WARN] [Gamestore.Services.PublisherService] Game with key: Electronic Arts not found
+[2025-05-07 04:54:38.570] [ERROR] [Gamestore.Services.PublisherService] Error retrieving publisher for game key: Electronic Arts
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'Electronic Arts' not found
+Stack Trace:    at Gamestore.Services.PublisherService.FindGameByKey(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 231
+   at Gamestore.Services.PublisherService.GetPublisherByGameKey(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 163
+[2025-05-07 04:54:39.717] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:54:39.730] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:56:06.593] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:56:06.598] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:56:06.623] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:56:06.628] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:56:13.136] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:56:13.138] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:56:13.165] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:56:13.165] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:56:36.620] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:56:36.625] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:56:36.652] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:56:36.655] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:57:01.649] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:57:01.662] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:57:22.258] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:57:22.268] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:57:22.272] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:57:22.299] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:57:40.661] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:57:40.667] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:57:40.682] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 04:57:40.684] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:58:02.645] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 04:58:02.649] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 04:58:02.672] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 04:58:02.672] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 05:00:10.397] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:00:10.397] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 05:00:10.498] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:00:10.504] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 05:01:42.730] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:01:42.731] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 1
+[2025-05-07 05:01:42.764] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:01:42.767] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 1
+[2025-05-07 05:02:14.427] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:02:14.430] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 05:02:14.452] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:02:14.458] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 05:15:48.126] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:15:48.152] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:16:43.778] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:16:43.794] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: XD
+[2025-05-07 05:16:43.796] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:16:43.813] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: XD
+[2025-05-07 05:17:21.940] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:17:21.943] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: XD
+[2025-05-07 05:17:21.955] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:17:22.054] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: XD
+[2025-05-07 05:19:56.152] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:19:56.169] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:23:03.298] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:23:03.322] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:24:05.835] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:24:05.848] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:24:12.502] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:24:12.512] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:24:31.161] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 123
+[2025-05-07 05:24:31.204] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 123
+[2025-05-07 05:25:50.887] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:25:50.889] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 123
+[2025-05-07 05:25:50.946] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:25:50.954] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 123
+[2025-05-07 05:29:41.381] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:29:41.383] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 05:29:41.471] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:29:41.476] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 05:31:30.429] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 05:31:30.498] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 05:31:35.634] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 05:31:35.638] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:31:35.679] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:31:35.682] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 05:32:49.422] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 05:32:49.426] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:32:49.448] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:32:49.488] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 05:38:41.262] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:38:41.288] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:38:45.764] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:38:45.770] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:38:56.724] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:38:56.733] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:38:56.739] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 123
+[2025-05-07 05:38:56.781] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 123
+[2025-05-07 05:43:32.138] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:43:32.140] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 123
+[2025-05-07 05:43:32.192] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:43:32.195] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 123
+[2025-05-07 05:43:51.304] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:43:51.307] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 123
+[2025-05-07 05:43:51.332] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:43:51.342] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 123
+[2025-05-07 05:51:01.191] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 05:51:01.194] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:51:01.208] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 05:51:01.212] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:53:33.095] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:53:33.099] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 05:53:33.121] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:53:33.130] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 05:55:16.595] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 05:55:16.597] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 05:55:16.626] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 05:55:16.636] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 06:01:42.607] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 06:01:42.608] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 06:01:42.626] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 06:01:42.636] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 06:05:04.189] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 06:05:04.192] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 06:05:04.218] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 06:05:04.226] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 06:06:41.808] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 06:06:41.812] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 06:06:41.834] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 06:06:41.837] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 06:09:12.907] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 06:09:12.909] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 06:09:12.934] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 06:09:12.946] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 06:10:01.021] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 06:10:01.082] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 06:10:12.742] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 06:10:12.743] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 06:10:12.757] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 06:10:12.782] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 06:10:22.531] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 06:10:22.541] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 06:10:55.686] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 06:10:55.735] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 06:11:09.021] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 06:11:09.030] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 06:11:09.041] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 1234
+[2025-05-07 06:11:09.056] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 1234
+[2025-05-07 06:11:16.582] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 1234
+[2025-05-07 06:11:16.591] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 1234
+[2025-05-07 06:11:23.169] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 1234
+[2025-05-07 06:11:23.176] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 06:11:23.191] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 1234
+[2025-05-07 06:11:23.203] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 06:11:32.900] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 1234
+[2025-05-07 06:11:32.907] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 1234
+[2025-05-07 06:11:36.756] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 1234
+[2025-05-07 06:11:36.763] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 06:11:36.772] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 1234
+[2025-05-07 06:11:36.786] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 06:11:41.435] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 1234
+[2025-05-07 06:11:41.444] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 1234
+[2025-05-07 06:11:51.760] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 1234
+[2025-05-07 06:11:51.761] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 06:11:51.771] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 06:11:51.775] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 1234
+[2025-05-07 06:11:55.489] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 1234
+[2025-05-07 06:11:55.497] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 1234
+[2025-05-07 06:55:05.298] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 06:55:05.318] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 07:02:10.246] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 07:02:10.260] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 07:02:23.054] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 07:02:23.080] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 07:02:23.085] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 07:02:23.106] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 07:02:26.458] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 12345
+[2025-05-07 07:02:26.466] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 12345
+[2025-05-07 07:02:36.769] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 1234
+[2025-05-07 07:02:36.780] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 1234
+[2025-05-07 07:02:41.615] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 123
+[2025-05-07 07:02:41.622] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 123
+[2025-05-07 07:06:49.903] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 07:06:49.917] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 07:06:54.797] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: string
+[2025-05-07 07:06:54.861] [WARN] [Gamestore.Services.PublisherService] Game with key: string not found
+[2025-05-07 07:06:54.891] [ERROR] [Gamestore.Services.PublisherService] Error retrieving publisher for game key: string
+Exception: System.Collections.Generic.KeyNotFoundException: Game with key 'string' not found
+Stack Trace:    at Gamestore.Services.PublisherService.FindGameByKey(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 231
+   at Gamestore.Services.PublisherService.GetPublisherByGameKey(String gameKey) in C:\Users\frane\Desktop\EPAM\7. UI\game-strore-v2-epic-04\Gamestore.Services\PublisherService.cs:line 163
+[2025-05-07 13:10:34.412] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 123
+[2025-05-07 13:10:34.431] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 123
+[2025-05-07 13:10:58.425] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 123
+[2025-05-07 13:10:58.475] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 123
+[2025-05-07 13:11:15.084] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 123
+[2025-05-07 13:11:15.117] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 123
+[2025-05-07 13:11:15.161] [INFO] [Gamestore.Services.PublisherService] Starting get all publishers operation
+[2025-05-07 13:11:15.180] [INFO] [Gamestore.Services.PublisherService] Retrieved 8 publishers from database
+[2025-05-07 13:11:18.810] [INFO] [Gamestore.Services.PublisherService] Starting get publisher by game key operation: 123
+[2025-05-07 13:11:18.819] [INFO] [Gamestore.Services.PublisherService] Publisher found for game key: 123

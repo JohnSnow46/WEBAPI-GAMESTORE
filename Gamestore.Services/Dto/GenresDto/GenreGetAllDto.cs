@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using Newtonsoft.Json;
 
 namespace Gamestore.Services.Dto.GenresDto;
 public class GenreGetAllDto

@@ -1,0 +1,2 @@
+[2025-05-06 15:06:48.792] [INFO] [Gamestore.Services.PlatformService] Starting get all platforms operation
+[2025-05-06 15:06:48.804] [INFO] [Gamestore.Services.PlatformService] Retrieved 4 platforms from database
